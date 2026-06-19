@@ -1,0 +1,5730 @@
+[
+  {
+    "htsno": "1601.00",
+    "indent": "0",
+    "description": "Sausages and similar products, of meat, meat offal, blood or insects; food preparations based on these products:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1601.00.20",
+    "indent": "1",
+    "description": "Pork",
+    "superior": null,
+    "units": [],
+    "general": "0.8¢/kg",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "7.2¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1601.00.20.10",
+    "indent": "2",
+    "description": "Canned",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1601.00.20.90",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1601.00.40",
+    "indent": "2",
+    "description": "Beef in airtight containers",
+    "superior": null,
+    "units": [],
+    "general": "3.4%",
+    "special": "Free (A,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1601.00.40.10",
+    "indent": "3",
+    "description": "Canned",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1601.00.40.90",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1601.00.60",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "3.2%",
+    "special": "Free (A,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1601.00.60.20",
+    "indent": "3",
+    "description": "Beef",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1601.00.60.60",
+    "indent": "4",
+    "description": "Canned",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1601.00.60.80",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602",
+    "indent": "0",
+    "description": "Other prepared or preserved meat, meat offal, blood or insects:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.10",
+    "indent": "1",
+    "description": "Homogenized preparations:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.10.10.00",
+    "indent": "2",
+    "description": "Put up for retail sale as food suitable for infants or for dietetic purposes",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "1.9%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E*, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.10.50",
+    "indent": "2",
+    "description": "Put up for retail sale as food suitable for young children",
+    "superior": null,
+    "units": [],
+    "general": "6.4%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.10.50.60",
+    "indent": "3",
+    "description": "Canned",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.10.50.80",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.20",
+    "indent": "1",
+    "description": "Of liver of any animal:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.20.20.00",
+    "indent": "2",
+    "description": "Of goose",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "4.9¢/kg",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "22¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.20.40.00",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.2%",
+    "special": "Free (A,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Of poultry of heading 0105:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.31.00",
+    "indent": "2",
+    "description": "Of turkeys",
+    "superior": null,
+    "units": [],
+    "general": "6.4%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.31.00.20",
+    "indent": "3",
+    "description": "Prepared meals",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.31.00.40",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.32.00",
+    "indent": "2",
+    "description": "Of chickens",
+    "superior": null,
+    "units": [],
+    "general": "6.4%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Prepared meals:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.32.00.10",
+    "indent": "4",
+    "description": "In airtight containers",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.32.00.30",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.32.00.40",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.39.00",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "6.4%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Prepared meals:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.39.00.15",
+    "indent": "4",
+    "description": "In airtight containers",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.39.00.35",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.39.00.45",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Of swine:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.41",
+    "indent": "2",
+    "description": "Hams and cuts thereof:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.41.10.00",
+    "indent": "3",
+    "description": "Containing cereals or vegetables",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6.4%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.41.20",
+    "indent": "4",
+    "description": "Boned and cooked and packed in airtight containers",
+    "superior": null,
+    "units": [],
+    "general": "5.3¢/kg",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "6.6¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.41.20.20",
+    "indent": "5",
+    "description": "In containers holding less than 1 kg",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.41.20.40",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.41.90.00",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "1.4¢/kg",
+    "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",
+    "other": "7.2¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.42",
+    "indent": "2",
+    "description": "Shoulders and cuts thereof:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.42.20",
+    "indent": "3",
+    "description": "Boned and cooked and packed in airtight containers",
+    "superior": null,
+    "units": [],
+    "general": "4.2¢/kg",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "6.6¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.42.20.20",
+    "indent": "4",
+    "description": "In containers holding less than 1 kg",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.42.20.40",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.42.40.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "1.4¢/kg",
+    "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",
+    "other": "7.2¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.49",
+    "indent": "2",
+    "description": "Other, including mixtures:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.49.10.00",
+    "indent": "3",
+    "description": "Offal",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.2%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Not containing cereals or vegetables:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.49.20.00",
+    "indent": "5",
+    "description": "Boned and cooked and packed in air- tight containers",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "4.2¢/kg",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "6.6¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.49.40.00",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "1.4¢/kg",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "7.2¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.49.60.00",
+    "indent": "5",
+    "description": "Mixtures of pork and beef",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.2%",
+    "special": "Free (A,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.49.90.00",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6.4%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.50",
+    "indent": "1",
+    "description": "Of bovine animals :",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.50.05.00",
+    "indent": "2",
+    "description": "Offal",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "2.3%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Not containing cereals or vegetables:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Cured or pickled:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.50.07",
+    "indent": "5",
+    "description": "Corned beef in airtight containers",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.50.07.20",
+    "indent": "6",
+    "description": "In containers holding less than 1 kg",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.50.07.40",
+    "indent": "6",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.50.08.00",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "4.5%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.50.21",
+    "indent": "5",
+    "description": "In airtight containers",
+    "superior": null,
+    "units": [],
+    "general": "1.4%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.50.21.20",
+    "indent": "6",
+    "description": "In containers holding less than 1 kg",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.50.21.40",
+    "indent": "6",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.50.60.00",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "1.8%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E*, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.50.90",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "2.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.50.90.20",
+    "indent": "4",
+    "description": "Prepared meals",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.50.90.40",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.90",
+    "indent": "1",
+    "description": "Other, including preparations of blood of any animal:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.90.10.00",
+    "indent": "2",
+    "description": "Frog meat",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "2.7%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.90.91",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "6.4%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.90.91.60",
+    "indent": "3",
+    "description": "Canned",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1602.90.91.80",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1603.00",
+    "indent": "0",
+    "description": "Extracts and juices of meat, fish or crustaceans, molluscs or other aquatic invertebrates:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1603.00.10.00",
+    "indent": "1",
+    "description": "Clam juice",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "8.5%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1603.00.90",
+    "indent": "1",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "13%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1603.00.90.10",
+    "indent": "2",
+    "description": "Of meat",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1603.00.90.90",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604",
+    "indent": "0",
+    "description": "Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Fish, whole or in pieces, but not minced:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.11",
+    "indent": "2",
+    "description": "Salmon:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.11.20",
+    "indent": "3",
+    "description": "In oil, in airtight containers",
+    "superior": null,
+    "units": [],
+    "general": "6%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.11.20.20",
+    "indent": "4",
+    "description": "Pink (humpie)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.11.20.30",
+    "indent": "4",
+    "description": "Sockeye",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.11.20.90",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.11.40",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Canned:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.11.40.10",
+    "indent": "5",
+    "description": "Chum (dog)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.11.40.20",
+    "indent": "5",
+    "description": "Pink (humpie)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.11.40.30",
+    "indent": "5",
+    "description": "Sockeye",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.11.40.40",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.11.40.50",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.12",
+    "indent": "2",
+    "description": "Herrings:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.12.20.00",
+    "indent": "3",
+    "description": "In oil, in airtight containers",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "4%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.12.40.00",
+    "indent": "4",
+    "description": "In tomato sauce, smoked or kippered, and in immediate containers weighing with their contents over 0.45 kg each",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.12.60",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "5",
+    "description": "Pickled:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.12.60.10",
+    "indent": "6",
+    "description": "Fillets",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.12.60.30",
+    "indent": "6",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "5",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.12.60.50",
+    "indent": "6",
+    "description": "Kipper snacks",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.12.60.90",
+    "indent": "6",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.13",
+    "indent": "2",
+    "description": "Sardines, sardinella and brisling or sprats:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "In oil, in airtight containers:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.13.10.00",
+    "indent": "4",
+    "description": "Smoked sardines, neither skinned nor boned, valued $1 or more per kg in tin- plate containers, or $1.10 or more per kg in other containers",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.13.20.00",
+    "indent": "5",
+    "description": "Neither skinned nor boned",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "15%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.13.30.00",
+    "indent": "5",
+    "description": "Skinned or boned",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "20%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.13.40.00",
+    "indent": "4",
+    "description": "In immediate containers weighing with their contents under 225 grams each",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.13.90.00",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.1%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.14",
+    "indent": "2",
+    "description": "Tunas, skipjack tuna and bonito (<i>Sarda spp</i>.):",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Tunas and skipjack:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "In airtight containers:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.14.10",
+    "indent": "5",
+    "description": "In oil",
+    "superior": null,
+    "units": [],
+    "general": "35%",
+    "special": "Free (A+,AU,BH,CL,CO,D,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.14.10.10",
+    "indent": "6",
+    "description": "In foil or other flexible containers weighing with their contents not more than 6.8 kg each",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "6",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.14.10.91",
+    "indent": "7",
+    "description": "Albacore",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.14.10.99",
+    "indent": "7",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "5",
+    "description": "Not in oil:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.14.22",
+    "indent": "6",
+    "description": "In containers weighing with their contents not over 7 kg each, and not the product of any insular possession of the United States, for an aggregate quantity entered in any calendar year not to exceed 4.8 percent of apparent United States consumption of tuna in airtight containers during the immediately preceding year, as reported by the National Marine Fisheries Service",
+    "superior": null,
+    "units": [],
+    "general": "6%",
+    "special": "Free (A+,AU,BH,CL,CO,D,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "7",
+    "description": "Albacore (<u>Thunnus</u> <u>alalunga</u>):",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.14.22.51",
+    "indent": "8",
+    "description": "In foil or other flexible con- tainers weighing with their contents not more than <il>6.8 kg each</il>",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.14.22.59",
+    "indent": "8",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "7",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.14.22.91",
+    "indent": "8",
+    "description": "In foil or other flexible con- tainers weighing with their contents not more than 6.8 kg each",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.14.22.99",
+    "indent": "8",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.14.30",
+    "indent": "6",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "12.5%",
+    "special": "Free (A+,AU,BH,CL,CO,D,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "7",
+    "description": "Albacore (<u>Thunnus</u> <u>alalunga)</u>:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.14.30.51",
+    "indent": "8",
+    "description": "In foil or other flexible con- tainers weighing with their contents not more than 6.8 kg each",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.14.30.59",
+    "indent": "8",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "7",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.14.30.91",
+    "indent": "8",
+    "description": "In foil or other flexible con- tainers weighing with their contents not more than 6.8 kg each",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.14.30.99",
+    "indent": "8",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Not in airtight containers:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.14.40.00",
+    "indent": "5",
+    "description": "In bulk or in immediate containers weighing with their contents over <il>6.8 kg</il> each, not in oil",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "1.1¢/kg",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "2.8¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.14.50.00",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Bonito (<u>Sarda</u> <i>spp</i>.):",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.14.70.00",
+    "indent": "4",
+    "description": "In oil",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "4.9%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.14.80.00",
+    "indent": "4",
+    "description": "Not in oil",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.15.00.00",
+    "indent": "2",
+    "description": "Mackerel",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.16",
+    "indent": "2",
+    "description": "Anchovies:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.16.20.00",
+    "indent": "3",
+    "description": "In oil, in airtight containers",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.16.40.00",
+    "indent": "4",
+    "description": "In immediate containers weighing with their contents 6.8 kg or less each",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.16.60.00",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "2.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.17",
+    "indent": "2",
+    "description": "Eels:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.17.10.00",
+    "indent": "3",
+    "description": "In airtight containers",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "4%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Fish sticks and similar products of any size or shape, fillets or other portions of fish, if breaded, coated with batter or similarly prepared:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.17.40.00",
+    "indent": "5",
+    "description": "Neither cooked nor in oil",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "10%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.17.50.00",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "7.5%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.17.60.00",
+    "indent": "5",
+    "description": "In oil and in bulk or in immediate containers over 7 kg each",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "2.8¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.17.80.00",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.18",
+    "indent": "2",
+    "description": "Shark fins:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.18.10.00",
+    "indent": "3",
+    "description": "In airtight containers",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "4%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.18.90.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.19",
+    "indent": "2",
+    "description": "Other (including yellowtail):",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "In airtight containers:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Not in oil:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.19.10.00",
+    "indent": "5",
+    "description": "Bonito, yellowtail and pollock",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "4%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.19.22.00",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "4%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "In oil:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.19.25.00",
+    "indent": "5",
+    "description": "Bonito, yellowtail and pollock",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.19.32.00",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "4%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Fish sticks and similar products of any size or shape, fillets or other portions of fish, if breaded, coated with batter or similarly prepared:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.19.41.00",
+    "indent": "5",
+    "description": "Neither cooked nor in oil",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "10%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.19.51.00",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "7.5%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.19.61.00",
+    "indent": "5",
+    "description": "In oil and in bulk or in immediate containers weighing with their contents over <il>7 kg</il> each",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "2.8¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.19.82.00",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.20",
+    "indent": "1",
+    "description": "Other prepared or preserved fish:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.20.05",
+    "indent": "2",
+    "description": "Products containing meat of crustaceans, molluscs or other aquatic invertebrates; prepared meals",
+    "superior": null,
+    "units": [],
+    "general": "5%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.20.05.10",
+    "indent": "3",
+    "description": "Prepared meals",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.20.05.90",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.20.10.00",
+    "indent": "3",
+    "description": "Pastes",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Balls, cakes and puddings:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.20.15.00",
+    "indent": "4",
+    "description": "In oil",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Not in oil:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "5",
+    "description": "In immediate containers weighing with their contents not over 6.8 kg each:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.20.20.00",
+    "indent": "6",
+    "description": "In airtight containers",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.20.25.00",
+    "indent": "6",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.20.30.00",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "2%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Fish sticks and similar products of any size or shape, if breaded, coated with batter or similarly prepared:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.20.40.00",
+    "indent": "4",
+    "description": "Neither cooked nor in oil",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "10%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.20.50",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "7.5%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.20.50.10",
+    "indent": "5",
+    "description": "Pre-cooked and frozen",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.20.50.90",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.20.60",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.20.60.10",
+    "indent": "4",
+    "description": "Pre-cooked and frozen",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.20.60.90",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Caviar and caviar substitutes:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.31.00.00",
+    "indent": "2",
+    "description": "Caviar",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "15%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.32",
+    "indent": "2",
+    "description": "Caviar substitutes:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.32.30.00",
+    "indent": "3",
+    "description": "Boiled and in airtight containers",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1604.32.40.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "44¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605",
+    "indent": "0",
+    "description": "Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.10",
+    "indent": "1",
+    "description": "Crab:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.10.05",
+    "indent": "2",
+    "description": "Products containing fish meat; prepared meals",
+    "superior": null,
+    "units": [],
+    "general": "10%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.10.05.10",
+    "indent": "3",
+    "description": "In airtight containers",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.10.05.90",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Crabmeat:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.10.20",
+    "indent": "4",
+    "description": "In airtight containers",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "22.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.10.20.10",
+    "indent": "5",
+    "description": "King crab",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9903.88.69. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "5",
+    "description": "Snow crab (<u>Chionoecetes</u> <u>bairdi</u>, <u>C.</u> <u>opilio</u>, <u>C.</u> <u>tanneri</u> and <u>C.</u> <u>angulatus</u>):",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.10.20.22",
+    "indent": "6",
+    "description": "<u>C.</u> <u>opilio</u> (small)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9903.88.69. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.10.20.25",
+    "indent": "6",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.10.20.30",
+    "indent": "5",
+    "description": "Dungeness",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9903.88.69. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "5",
+    "description": "Swimming crabs (<u>Portunidae</u>):",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.10.20.51",
+    "indent": "6",
+    "description": "<u>Callinectes</u> <i>spp</i>., including blue crabs (<u>C</u>. <u>sapidus</u>)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.10.20.59",
+    "indent": "6",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.10.20.90",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9903.88.69.           ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.10.40",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "5%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "15%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "5",
+    "description": "Frozen:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.10.40.02",
+    "indent": "6",
+    "description": "King crab",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "6",
+    "description": "Snow crab (<u>Chionoecetes</u> <u>bairdi</u>, <u>C.</u> <u>opilio</u>, <u>C.</u> <u>tanneri</u> and <u>C.</u> <u>angulatus</u>):",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.10.40.05",
+    "indent": "7",
+    "description": "<u>C.</u> <u>opilio</u> (small)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.10.40.10",
+    "indent": "7",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.10.40.15",
+    "indent": "6",
+    "description": "Dungeness",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "6",
+    "description": "Swimming crabs (<u>Portunidae</u>):",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.10.40.25",
+    "indent": "7",
+    "description": "<u>Callinectes</u> <i>spp</i>., including blue crabs (<u>C</u>. <u>sapidus</u>)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.10.40.30",
+    "indent": "7",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.10.40.35",
+    "indent": "6",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.10.40.40",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.10.60",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.10.60.10",
+    "indent": "4",
+    "description": "In airtight containers",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.10.60.90",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Shrimps and prawns:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.21",
+    "indent": "2",
+    "description": "Not in airtight containers:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.21.05.00",
+    "indent": "3",
+    "description": "Products containing fish meat; prepared meals",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.21.10",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Frozen, imported in accordance with statistical note 1 to this chapter:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.21.10.20",
+    "indent": "5",
+    "description": "Breaded",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.21.10.30",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.21.10.50",
+    "indent": "4",
+    "description": "Other, imported in accordance with statistical note 1 to this chapter",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.29",
+    "indent": "2",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.29.05.00",
+    "indent": "3",
+    "description": "Products containing fish meat; prepared meals",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.29.10",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.29.10.10",
+    "indent": "4",
+    "description": "Frozen, imported in accordance with statistical note 1 to this chapter",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.29.10.40",
+    "indent": "4",
+    "description": "Other, imported in accordance with statistical note 1 to this chapter",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.30",
+    "indent": "1",
+    "description": "Lobster:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.30.05",
+    "indent": "2",
+    "description": "Products containing fish meat; prepared meals",
+    "superior": null,
+    "units": [],
+    "general": "10%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.30.05.10",
+    "indent": "3",
+    "description": "In airtight containers",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.30.05.90",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.30.10",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Lobster meat, cooked by steaming or boiling in water and out of shell, whether or not frozen but not further prepared or preserved:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.30.10.10",
+    "indent": "4",
+    "description": "Frozen",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.30.10.30",
+    "indent": "4",
+    "description": "Not frozen",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.30.10.50",
+    "indent": "4",
+    "description": "In airtight containers",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.30.10.90",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.40",
+    "indent": "1",
+    "description": "Other crustaceans:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.40.05.00",
+    "indent": "2",
+    "description": "Products containing fish meat; prepared meals",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.40.10",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.40.10.10",
+    "indent": "3",
+    "description": "Peeled freshwater crawfish tail meat",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.40.10.90",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Molluscs:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.51",
+    "indent": "2",
+    "description": "Oysters:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.51.05.00",
+    "indent": "3",
+    "description": "Products containing fish meat; prepared meals",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.51.40.00",
+    "indent": "4",
+    "description": "Smoked",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "7.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.51.50.00",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "4.7%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "12.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.52",
+    "indent": "2",
+    "description": "Scallops, including queen scallops:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.52.05.00",
+    "indent": "3",
+    "description": "Products containing fish meat; prepared meals",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.52.60.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.53",
+    "indent": "2",
+    "description": "Mussels:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.53.05.00",
+    "indent": "3",
+    "description": "Products containing fish meat; prepared meals",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.53.60.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.54",
+    "indent": "2",
+    "description": "Cuttle fish and squid:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.54.05.00",
+    "indent": "3",
+    "description": "Products containing fish meat; prepared meals",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.54.60",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.54.60.10",
+    "indent": "4",
+    "description": "Cuttle fish",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Squid:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.54.60.20",
+    "indent": "5",
+    "description": "Loligo",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.54.60.30",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.55",
+    "indent": "2",
+    "description": "Octopus:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.55.05.00",
+    "indent": "3",
+    "description": "Products containing fish meat; prepared meals",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.55.60.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.56",
+    "indent": "2",
+    "description": "Clams, cockles and arkshells:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.56.05.00",
+    "indent": "3",
+    "description": "Products containing fish meat; prepared meals",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Clams:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "5",
+    "description": "In airtight containers:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.56.10.00",
+    "indent": "6",
+    "description": "Razor clams (<u>Siliqua</u> <u>patula</u>)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "23%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "6",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.56.15.00",
+    "indent": "7",
+    "description": "Boiled clams, whether whole, minced or chopped, and whether or not salted, but not otherwise prepared or preserved, in immediate containers, the contents of each container not exceeding 680 grams gross weight",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "10%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "110%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.56.20.00",
+    "indent": "7",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.56.30.00",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.56.60.00",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.57",
+    "indent": "2",
+    "description": "Abalone:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.57.05.00",
+    "indent": "3",
+    "description": "Products containing fish meat; prepared meals",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.57.60.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.58",
+    "indent": "2",
+    "description": "Snails, other than sea snails:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.58.05.00",
+    "indent": "3",
+    "description": "Products containing fish meat; prepared meals",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.58.55.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.59",
+    "indent": "2",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.59.05.00",
+    "indent": "3",
+    "description": "Products containing fish meat; prepared meals",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.59.60.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Other aquatic invertebrates:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.61.00.00",
+    "indent": "2",
+    "description": "Sea cucumbers",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.62.00.00",
+    "indent": "2",
+    "description": "Sea urchins",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.63.00.00",
+    "indent": "2",
+    "description": "Jellyfish",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "1605.69.00.00",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  }
+]

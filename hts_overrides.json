@@ -1,0 +1,6 @@
+{
+  "_comment": "category_hint に含まれるキーワードと HTS コードの直接マッピング。スコアリングより優先して先頭に表示する。",
+  "cutting mat": {"hts_code": "3926.90.99.89", "chapter": "39"},
+  "self-healing mat": {"hts_code": "3926.90.99.89", "chapter": "39"},
+  "craft mat": {"hts_code": "3926.90.99.89", "chapter": "39"}
+}

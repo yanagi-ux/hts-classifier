@@ -1,0 +1,2796 @@
+[
+  {
+    "htsno": "0901",
+    "indent": "0",
+    "description": "Coffee, whether or not roasted or decaffeinated; coffee husks and skins; coffee substitutes containing coffee in any proportion:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Coffee, not roasted:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.11.00",
+    "indent": "2",
+    "description": "Not decaffeinated",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Arabica:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.11.00.15",
+    "indent": "4",
+    "description": "Certified organic",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.11.00.25",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Robusta:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.11.00.35",
+    "indent": "4",
+    "description": "Certified organic",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.11.00.40",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.11.00.50",
+    "indent": "4",
+    "description": "Certified organic",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.11.00.65",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.12.00",
+    "indent": "2",
+    "description": "Decaffeinated",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Arabica:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.12.00.20",
+    "indent": "4",
+    "description": "Certified organic",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.12.00.35",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Robusta:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.12.00.40",
+    "indent": "4",
+    "description": "Certified organic",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.12.00.55",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.12.00.60",
+    "indent": "4",
+    "description": "Certified organic",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.12.00.75",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Coffee, roasted:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.21.00",
+    "indent": "2",
+    "description": "Not decaffeinated",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "In retail containers weighing 2 kg or less:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Arabica:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.21.00.15",
+    "indent": "5",
+    "description": "Certified organic",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.21.00.20",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Robusta:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.21.00.25",
+    "indent": "5",
+    "description": "Certified organic",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.21.00.29",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.21.00.40",
+    "indent": "5",
+    "description": "Certified organic",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.21.00.49",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.21.00.55",
+    "indent": "4",
+    "description": "Certified organic",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.21.00.65",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.22.00",
+    "indent": "2",
+    "description": "Decaffeinated",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "In retail containers weighing 2 kg or less:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.22.00.35",
+    "indent": "4",
+    "description": "Certified organic",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.22.00.40",
+    "indent": "5",
+    "description": "Arabica",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.22.00.50",
+    "indent": "5",
+    "description": "Robusta",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.22.00.55",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Arabica:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.22.00.65",
+    "indent": "5",
+    "description": "Certified organic",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.22.00.70",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Robusta:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.22.00.75",
+    "indent": "5",
+    "description": "Certified organic",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.22.00.80",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.22.00.90",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.90",
+    "indent": "1",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.90.10.00",
+    "indent": "2",
+    "description": "Coffee husks and skins",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "10%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0901.90.20.00",
+    "indent": "2",
+    "description": "Coffee substitutes containing coffee",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "1.5¢/kg",
+    "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",
+    "other": "6.6¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0902",
+    "indent": "0",
+    "description": "Tea, whether or not flavored:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0902.10",
+    "indent": "1",
+    "description": "Green tea (not fermented) in immediate packings of a content not exceeding 3 kg:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0902.10.10",
+    "indent": "2",
+    "description": "Flavored",
+    "superior": null,
+    "units": [],
+    "general": "6.4%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG) 3.2% (JP)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0902.10.10.15",
+    "indent": "3",
+    "description": "Certified organic",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0902.10.10.50",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0902.10.90",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0902.10.90.15",
+    "indent": "3",
+    "description": "Certified organic",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0902.10.90.50",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0902.20",
+    "indent": "1",
+    "description": "Other green tea (not fermented):",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0902.20.10.00",
+    "indent": "2",
+    "description": "Flavored",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6.4%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG) 3.2% (JP)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0902.20.90",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0902.20.90.15",
+    "indent": "3",
+    "description": "Certified organic",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0902.20.90.50",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0902.30.00",
+    "indent": "1",
+    "description": "Black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "In tea bags:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0902.30.00.15",
+    "indent": "3",
+    "description": "Certified organic",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0902.30.00.50",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0902.30.00.90",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0902.40.00.00",
+    "indent": "1",
+    "description": "Other black tea (fermented) and other partly fermented tea",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0903.00.00.00",
+    "indent": "0",
+    "description": "Maté",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "10%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0904",
+    "indent": "0",
+    "description": "Pepper of the genus <i>Piper</i>; dried or crushed or ground fruits of the genus <i>Capsicum</i> (peppers) or of the genus <i>Pimenta</i> (e.g., allspice): <i></i><i> </i>",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Pepper of the genus <i>Piper</i>:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0904.11.00",
+    "indent": "2",
+    "description": "Neither crushed nor ground",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0904.11.00.20",
+    "indent": "3",
+    "description": "Black",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0904.11.00.40",
+    "indent": "3",
+    "description": "White",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0904.12.00.00",
+    "indent": "2",
+    "description": "Crushed or ground",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "2¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Fruits of the genus <i>Capsicum</i> or of the genus <i>Pimenta</i>:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0904.21",
+    "indent": "2",
+    "description": "Dried, neither crushed nor ground:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Of the genus<i style=\"line-height: normal;\">Capsicum</i>(including cayenne pepper, paprika and red pepper):",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0904.21.20.00",
+    "indent": "4",
+    "description": "Paprika",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3¢/kg",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "11¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0904.21.40.00",
+    "indent": "4",
+    "description": "Anaheim and ancho pepper",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5¢/kg",
+    "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",
+    "other": "11¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15.   ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0904.21.60",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "2.5¢/kg",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "11¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0904.21.60.10",
+    "indent": "5",
+    "description": "Bell peppers",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0904.21.60.20",
+    "indent": "5",
+    "description": "Jalapeno peppers",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0904.21.60.90",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0904.21.80.00",
+    "indent": "3",
+    "description": "Of the genus <i>Pimenta</i> (including allspice)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0904.22",
+    "indent": "2",
+    "description": "Crushed or ground:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Of the genus <i>Capsicum</i> (including cayenne Pepper, paprika and red pepper):",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0904.22.20.00",
+    "indent": "4",
+    "description": "Paprika",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3¢/kg",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "11¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0904.22.40.00",
+    "indent": "4",
+    "description": "Anaheim and ancho pepper",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5¢/kg",
+    "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",
+    "other": "11¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0904.22.73.00",
+    "indent": "4",
+    "description": "Mixtures of mashed or macerated hot red peppers and salt",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "17.6¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0904.22.76.00",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5¢/kg",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "17.6¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0904.22.80.00",
+    "indent": "3",
+    "description": "Of the genus <i>Pimenta</i> (including allspice)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0905",
+    "indent": "0",
+    "description": "Vanilla:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0905.10.00.00",
+    "indent": "1",
+    "description": "Neither crushed nor ground",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "66¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0905.20.00.00",
+    "indent": "1",
+    "description": "Crushed or ground",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "66¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0906",
+    "indent": "0",
+    "description": "Cinnamon and cinnamon-tree flowers:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Neither crushed nor ground:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0906.11.00.00",
+    "indent": "2",
+    "description": "Cinnamon (<i>Cinnamomum zeylanicum Blume</i>)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0906.19.00.00",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0906.20.00.00",
+    "indent": "1",
+    "description": "Crushed or ground",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "11¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0907",
+    "indent": "0",
+    "description": "Cloves (whole fruit, cloves and stems):",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0907.10.00.00",
+    "indent": "1",
+    "description": "Neither crushed nor ground",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0907.20.00.00",
+    "indent": "1",
+    "description": "Crushed or ground",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0908",
+    "indent": "0",
+    "description": "Nutmeg, mace and cardamoms:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Nutmeg:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0908.11.00.00",
+    "indent": "2",
+    "description": "Neither crushed nor ground",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0908.12.00.00",
+    "indent": "2",
+    "description": "Crushed or ground",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Mace:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0908.21.00.00",
+    "indent": "2",
+    "description": "Neither crushed nor ground",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0908.22",
+    "indent": "2",
+    "description": "Crushed or ground:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0908.22.20.00",
+    "indent": "3",
+    "description": "Bombay or wild mace, ground",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "7.4¢/kg",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "49¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0908.22.40.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Cardamoms:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0908.31.00.00",
+    "indent": "2",
+    "description": "Neither crushed nor ground",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0908.32.00.00",
+    "indent": "2",
+    "description": "Crushed or ground",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0909",
+    "indent": "0",
+    "description": "Seeds of anise, badian, fennel, coriander, cumin or caraway; juniper berries:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Seeds of coriander:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0909.21.00.00",
+    "indent": "2",
+    "description": "Neither crushed nor ground",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0909.22.00.00",
+    "indent": "2",
+    "description": "Crushed or ground",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Seeds of cumin:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0909.31.00.00",
+    "indent": "2",
+    "description": "Neither crushed nor ground",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0909.32.00.00",
+    "indent": "2",
+    "description": "Crushed or ground",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Seeds of anise, badian, caraway or fennel; juniper berries:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0909.61.00.00",
+    "indent": "2",
+    "description": "Neither crushed nor ground",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0909.62.00.00",
+    "indent": "2",
+    "description": "Crushed or ground",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0910",
+    "indent": "0",
+    "description": "Ginger, saffron, turmeric (curcuma), thyme, bay leaves, curry and other spices:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Ginger:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0910.11.00",
+    "indent": "2",
+    "description": "Neither crushed nor ground",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0910.11.00.10",
+    "indent": "3",
+    "description": "Certified organic",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0910.11.00.15",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0910.12.00.00",
+    "indent": "2",
+    "description": "Crushed or ground",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "1¢/kg",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "11¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0910.20.00.00",
+    "indent": "1",
+    "description": "Saffron",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0910.30.00.00",
+    "indent": "1",
+    "description": "Turmeric (curcuma)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Other spices:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0910.91.00.00",
+    "indent": "2",
+    "description": "Mixtures referred to in note 1(b) to this chapter",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "1.9%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0910.99",
+    "indent": "2",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Thyme; bay leaves:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0910.99.05.00",
+    "indent": "4",
+    "description": "Crude or not manufactured",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0910.99.06.00",
+    "indent": "5",
+    "description": "Thyme",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "4.8%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0910.99.07.00",
+    "indent": "5",
+    "description": "Bay leaves",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.2%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0910.99.10.00",
+    "indent": "3",
+    "description": "Curry",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "11¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Origanum (<i>Lippia spp.</i>):",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0910.99.20.00",
+    "indent": "4",
+    "description": "Crude or not manufactured",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0910.99.40.00",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.4%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0910.99.50.00",
+    "indent": "4",
+    "description": "Dill",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "0910.99.60.00",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "1.9%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  }
+]

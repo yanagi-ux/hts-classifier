@@ -1,0 +1,6523 @@
+[
+  {
+    "htsno": "9101",
+    "indent": "0",
+    "description": "Wrist watches, pocket watches and other watches, including stop watches, with case of precious metal or of metal clad with precious metal:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Wrist watches, electrically operated, whether or not incorporating a stop watch facility:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.11",
+    "indent": "2",
+    "description": "With mechanical display only:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.11.40",
+    "indent": "3",
+    "description": "Having no jewels or only one jewel in the movement",
+    "superior": null,
+    "units": [],
+    "general": "51¢ each + 6.25% on the case and strap, band or bracelet + 5.3% on the battery",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,R,S, SG)",
+    "other": "$2.25 each + 45% on the case +80% on the strap, band or bracelet + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15.  ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.11.80",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "87¢ each + 6.25% on the case and strap, band or bracelet + 5.3% on the battery",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,R,S, SG)",
+    "other": "$3.25 each + 45% on the case +80% on the strap, band or bracelet + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.19",
+    "indent": "2",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.19.20",
+    "indent": "3",
+    "description": "With opto-electronic display only.",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Straps, bands or bracelets entered with watches of subheading 9101.19.20 and classifiable therewith pursuant to additional U.S. note 2 to this chapter; all the foregoing whether or not attached to such watches at the time of entry:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.19.20.20",
+    "indent": "5",
+    "description": "Of textile material or of base metal, whether or not gold- or silver-plated",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.19.20.40",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.19.20.80",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.19.40",
+    "indent": "3",
+    "description": "Other, having no jewels or only one jewel in the movement",
+    "superior": null,
+    "units": [],
+    "general": "41¢ each + 5% on case and strap, band or bracelet + 4.2% on the battery",
+    "special": "Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "$2.25 each + 45% on the case +80% on the strap, band or bracelet + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.19.80",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "61¢ each + 4.4% on case and strap, band or bracelet + 3.7% on the battery",
+    "special": "Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+    "other": "$3.25 each + 45% on the case +80% on the strap, band or bracelet + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Other wrist watches, whether or not incorporating a stop watch facility:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.21",
+    "indent": "2",
+    "description": "With automatic winding:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Having over 17 jewels in the movement:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Straps, bands or bracelets entered with watches of subheading 9101.21.50 and classifiable therewith pursuant to additional U.S. note 2 to this chapter; all the foregoing whether or not attached to such watches at the time of entry:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.21.10.00",
+    "indent": "5",
+    "description": "Of textile material or of base metal, whether or not gold- or silver-plated",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "3.1%",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+    "other": "80%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.21.30.00",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "3.1%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "80%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.21.50",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "$11.50 each + 45% on the case",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.21.80",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "$1.61 each + 4.4% on the case and strap, band or bracelet",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+    "other": "$5.75 each + 45% on the case +80% on the strap, band or bracelet",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.29",
+    "indent": "2",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.29.10",
+    "indent": "3",
+    "description": "Having no jewels or only one jewel in the movement",
+    "superior": null,
+    "units": [],
+    "general": "40¢ each + 5% on the case and strap, band or bracelet",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,R,S, SG)",
+    "other": "$2.25 each + 45% on the case +80% on the strap, band or bracelet",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.29.20",
+    "indent": "3",
+    "description": "Having over 1 jewel but not over 7 jewels in the movement",
+    "superior": null,
+    "units": [],
+    "general": "61¢ each + 4.4% on the case and strap, band or bracelet",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,R,S, SG)",
+    "other": "$3.25 each + 45% on the case +80% on the strap, band or bracelet",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Having over 7 jewels but not over 17 jewels in the movement:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "With movement valued not over $15 each",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.29.30",
+    "indent": "5",
+    "description": "With movement measuring not over 15.2 mm",
+    "superior": null,
+    "units": [],
+    "general": "$2.28 each + 5% on the case and strap, band or bracelet",
+    "special": "Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "$4.75 each + 45% on the case + 80% on the strap, band or bracelet",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.29.40",
+    "indent": "5",
+    "description": "With movement measuring over 15.2 mm",
+    "superior": null,
+    "units": [],
+    "general": "$1.92 each + 5% on the case and strap, band or bracelet",
+    "special": "Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "$4.75 each + 45% on the case + 80% on the strap, band or bracelet",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.29.50",
+    "indent": "4",
+    "description": "With movement valued over $15 each",
+    "superior": null,
+    "units": [],
+    "general": "90¢ each + 4.4% on the case and strap, band or bracelet",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,R,S, SG)",
+    "other": "$4.75 each + 45% on the case + 80% on the strap, band or bracelet",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Having over 17 jewels in the movement:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Straps, bands or bracelets entered with watches of subheading 9101.29.90 and classifiable therewith pursuant to additional U.S. note 2 to this chapter; all the foregoing whether or not attached to such watches at the time of entry:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.29.70.00",
+    "indent": "5",
+    "description": "Of textile material or of base metal, whether or not gold- or silver-plated",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "3.1%",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P, PA,PE,R,S,SG)",
+    "other": "80%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.29.80.00",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "3.1%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "80%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.29.90",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "$11.50 each + 45% on the case",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.91",
+    "indent": "2",
+    "description": "Electrically operated:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.91.20.00",
+    "indent": "3",
+    "description": "With opto-electronic display only",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.91.40",
+    "indent": "4",
+    "description": "Having no jewels or only one jewel in the movement",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "$2.25 each + 45% on the case + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.91.80",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "$3.25 each + 45% on the case + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.99",
+    "indent": "2",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.99.20",
+    "indent": "3",
+    "description": "Having no jewels or not over 7 jewels in the movement",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "$2.25 each + 45% on the case",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Having over 7 but not over 17 jewels in the movement:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.99.40",
+    "indent": "4",
+    "description": "With movement valued not over $15 each",
+    "superior": null,
+    "units": [],
+    "general": "98¢ each + 3% on the case",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "$4.75 each + 45% on the case",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.99.60",
+    "indent": "4",
+    "description": "With movement valued over $15 each",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "$4.75 each + 45% on the case",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9101.99.80",
+    "indent": "3",
+    "description": "Having over 17 jewels in the movement",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "$11.50 each + 45% on the case",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102",
+    "indent": "0",
+    "description": "Wrist watches, pocket watches and other watches, including stop watches, other than those of heading 9101:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Wrist watches, electrically operated, whether or not incorporating a stop watch facility:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.11",
+    "indent": "2",
+    "description": "With mechanical display only:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Having no jewels or only one jewel in the movement:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver-plated",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.11.10",
+    "indent": "5",
+    "description": "With gold- or silver-plated case",
+    "superior": null,
+    "units": [],
+    "general": "44¢ each + 6% on the case + 14% on the strap, band or bracelet + 5.3% on the battery",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "$1.90 each + 45% on the case + 110% on the strap, band or bracelet + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.11.25",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "40¢ each + 8.5% on the case + 14% on the strap, band or bracelet + 5.3% on the battery",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "$1.70 each + 45% on the case + 110% on the strap, band or bracelet + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.11.30",
+    "indent": "5",
+    "description": "With gold- or silver-plated case",
+    "superior": null,
+    "units": [],
+    "general": "44¢ each + 6% on the case + 2.8% on the strap, band or bracelet + 5.3% on the battery",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "$1.90 each + 45% on the case + 35% on the strap, band or bracelet + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.11.45",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "40¢ each + 8.5% on the case + 2.8% on the strap, band or bracelet + 5.3% on the battery",
+    "special": "Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "$1.70 each + 45% on the case + 35% on the strap, band or bracelet + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver-plated",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.11.50",
+    "indent": "5",
+    "description": "With gold- or silver-plated case",
+    "superior": null,
+    "units": [],
+    "general": "80¢ each + 6% on the case + 14% on the strap, band or bracelet + 5.3% on the battery",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "$2.90 each + 45% on the case + 110% on the strap, band or bracelet + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.11.65",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "76¢ each + 8.5% on the case + 14% on the strap, band or bracelet + 5.3% on the battery",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "$2.70 each + 45% on the case + 110% on the strap, band or bracelet + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.11.70",
+    "indent": "5",
+    "description": "With gold- or silver-plated case",
+    "superior": null,
+    "units": [],
+    "general": "80¢ each + 6% on the case + 2.8% on the strap, band or bracelet + 5.3% on the battery",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+    "other": "$2.90 each + 45% on the case + 35% on the strap, band or bracelet + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.11.95",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "76¢ each + 8.5% on the case + 2.8% on the strap, band or bracelet + 5.3% on the battery",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "$2.70 each + 45% on the case + 35% on the strap, band or bracelet + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.12",
+    "indent": "2",
+    "description": "With opto-electronic display only:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Straps, bands or bracelets entered with watches of subheading 9102.12.80 and classifiable therewith pursuant to additional U.S. note 2 to this chapter; all the foregoing whether or not attached to such watches at the time of entry:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.12.20.00",
+    "indent": "4",
+    "description": "Of textile material or of base metal, whether or not gold- or silver-plated",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "35%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.12.40.00",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "35%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.12.80.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.19",
+    "indent": "2",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Having no jewels or only one jewel in the movement:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.19.20",
+    "indent": "4",
+    "description": "With strap, band or bracelet of textile material or of base metal, whether or not gold-or silver-plated",
+    "superior": null,
+    "units": [],
+    "general": "32¢ each + 4.8% on the case + 11% on the strap, band or bracelet + 4.2% on the battery",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "$1.70 each + 45% on the case + 110% on the strap, band or bracelet + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.19.40",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "32¢ each + 4.8% on the case + 2.2% on the strap, band or bracelet + 4.2% on the battery",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "$1.70 each + 45% on the case + 35% on the strap, band or bracelet + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.19.60",
+    "indent": "4",
+    "description": "With strap, band or bracelet of textile material or of base metal, whether or not gold-or silver-plated",
+    "superior": null,
+    "units": [],
+    "general": "57¢ each + 4.5% on the case + 10.6% on the strap, band or bracelet + 4% on the battery",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+    "other": "$2.70 each + 45% on the case + 110% on the strap, band or bracelet + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.19.80",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "57¢ each + 4.5% on the case + 2.1% on the strap, band or bracelet + 4% on the battery",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "$2.70 each + 45% on the case + 35% on the strap, band or bracelet + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Other wrist watches, whether or not incorporating a stop watch facility:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.21",
+    "indent": "2",
+    "description": "With automatic winding:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Having no jewels or only one jewel in the movement:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.21.10",
+    "indent": "4",
+    "description": "With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver-plated",
+    "superior": null,
+    "units": [],
+    "general": "75¢ each + 6% on the case + 14% on the strap, band or bracelet",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "$2.70 each + 45% on the case + 110% on the strap, band or bracelet",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.21.25",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "75¢ each + 6% on the case + 2.8% on the strap, band or bracelet",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "$2.70 each + 45% on the case + 35% on the strap, band or bracelet",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Having over one jewel but not over 17 jewels in the movement:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.21.30",
+    "indent": "4",
+    "description": "With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver-plated",
+    "superior": null,
+    "units": [],
+    "general": "$1.75 each + 4.8% on the case + 11.2% on the strap, band or bracelet",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "$5.20 each + 45% on the case + 110% on the strap, band or bracelet",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.21.50",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "$1.75 each + 4.8% on the case + 2.2% on the strap, band or bracelet",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "$5.20 each + 45% on the case + 35% on the strap, band or bracelet",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Having over 17 jewels in the movement:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.21.70",
+    "indent": "4",
+    "description": "With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver-plated",
+    "superior": null,
+    "units": [],
+    "general": "$1.53 each + 4.2% on the case + 9.8% on the strap, band or bracelet",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "$10.95 each + 45% on the case + 110% on the strap, band or bracelet",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.21.90",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "$1.53 each + 4.2% on the case + 2% on the strap, band or bracelet",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "$10.95 each + 45% on the case + 35% on the strap, band or bracelet",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.29",
+    "indent": "2",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Having no jewels or only one jewel in the movement:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver-plated:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.29.02.00",
+    "indent": "5",
+    "description": "Straps, bands or bracelets entered with watches of subheading 9102.29.04 and classifiable therewith pursuant to additional U.S. note 2 to this chapter; all the foregoing whether or not attached to such watches at the time of entry",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "14%",
+    "special": "Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "110%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.29.04",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "40¢ each + 6% on the case",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "$1.70 each + 45% on the case",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.29.10",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "40¢ each + 6% on the case + 2.8% on the strap, band or bracelet",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "$1.70 each + 45% on the case + 35% on the strap, band or bracelet",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Having over one jewel but not over 7 jewels in the movement:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.29.15",
+    "indent": "4",
+    "description": "With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver-plated",
+    "superior": null,
+    "units": [],
+    "general": "58¢ each + 4.6% on the case + 10.6% on the strap, band or bracelet",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "$2.70 each + 45% on the case + 110% on the strap, band or bracelet",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.29.20",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "56¢ each + 4.4% on the case + 2% on the strap, band or bracelet",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+    "other": "$2.70 each + 45% on the case + 35% on the strap, band or bracelet",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Having over 7 but not over 17 jewels in the movement:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "With movement valued not over $15 each:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "5",
+    "description": "With movement measuring not over 15.2 mm:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.29.25",
+    "indent": "6",
+    "description": "With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver- plated",
+    "superior": null,
+    "units": [],
+    "general": "$2.19 each + 4.8% on the case + 11.2% on the strap, band or bracelet",
+    "special": "Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "$4.20 each + 45% on the case + 110% on the strap, band or bracelet",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.29.30",
+    "indent": "6",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "$2.19 each + 4.8% on the case + 2.2% on the strap, band or bracelet",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "$4.20 each + 45% on the case + 35% on the strap, band or bracelet",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "5",
+    "description": "With movement measuring over 15.2 mm:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.29.35",
+    "indent": "6",
+    "description": "With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver- plated",
+    "superior": null,
+    "units": [],
+    "general": "$1.61 each + 4.2% on the case + 9.8% on the strap, band or bracelet",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+    "other": "$4.20 each + 45% on the case + 110% on the strap, band or bracelet",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.29.40",
+    "indent": "6",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "$1.83 each + 4.8% on the case + 2.2% on the strap, band or bracelet",
+    "special": "Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "$4.20 each + 45% on the case + 35% on the strap, band or bracelet",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "With movement valued over $15 each:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.29.45",
+    "indent": "5",
+    "description": "With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver-plated",
+    "superior": null,
+    "units": [],
+    "general": "93¢ each + 4.8% on the case + 11.2% on the strap, band or bracelet",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "$4.20 each + 45% on the case + 110% on the strap, band or bracelet",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.29.50",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "93¢ each + 4.8% on the case + 2.2% on the strap, band or bracelet",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "$4.20 each + 45% on the case + 35% on the strap, band or bracelet",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Having over 17 jewels in the movement:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.29.55",
+    "indent": "4",
+    "description": "With strap, band or bracelet of textile material or of base metal, whether or not gold-or silver-plated",
+    "superior": null,
+    "units": [],
+    "general": "$1.55 each + 4.2% on the case + 9.9% on the strap, band or bracelet",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "$10.95 each + 45% on the case + 110% on the strap, band or bracelet",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.29.60",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "$1.75 each + 4.8% on the case + 2.2% on the strap, band or bracelet",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "$10.95 each + 45% on the case + 35% on the strap, band or bracelet",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.91",
+    "indent": "2",
+    "description": "Electrically operated:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.91.20",
+    "indent": "3",
+    "description": "With opto-electronic display only",
+    "superior": null,
+    "units": [],
+    "general": "3.9% on the movement and case + 5.3% on the battery",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.91.40",
+    "indent": "4",
+    "description": "Having no jewels or only one jewel in the movement",
+    "superior": null,
+    "units": [],
+    "general": "40¢ each + 6% on the case + 5.3% on the battery",
+    "special": "Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "$1.70 each + 45% on the case + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.91.80",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "76¢ each + 6% on the case + 5.3% on the battery",
+    "special": "Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "$2.70 each + 45% on the case + 35% on thebattery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.99",
+    "indent": "2",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.99.20",
+    "indent": "3",
+    "description": "Having no jewels or not over 7 jewels in the movement",
+    "superior": null,
+    "units": [],
+    "general": "20¢ each + 3% on the case",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "$1.70 each + 45% on the case",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Having over 7 but not over 17 jewels in the movement:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.99.40",
+    "indent": "4",
+    "description": "With movement valued not over $15 each",
+    "superior": null,
+    "units": [],
+    "general": "92¢ each + 3% on the case",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "$4.20 each + 45% on the case",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.99.60",
+    "indent": "4",
+    "description": "With movement valued over $15 each",
+    "superior": null,
+    "units": [],
+    "general": "$1.16 each + 6% on the case",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "$4.20 each + 45% on the case",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9102.99.80",
+    "indent": "3",
+    "description": "Having over 17 jewels in the movement",
+    "superior": null,
+    "units": [],
+    "general": "$2.19 each + 6% on the case",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "$10.95 each + 45% on the case",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9103",
+    "indent": "0",
+    "description": "Clocks with watch movements, excluding clocks of heading 9104:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9103.10",
+    "indent": "1",
+    "description": "Electrically operated:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9103.10.20",
+    "indent": "2",
+    "description": "With opto-electronic display only",
+    "superior": null,
+    "units": [],
+    "general": "2.6% on the movement and case + 3.6% on the battery",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9103.10.40",
+    "indent": "3",
+    "description": "Having no jewels or only one jewel in the movement",
+    "superior": null,
+    "units": [],
+    "general": "24¢ each + 4.5% on the case + 3.5% on the battery",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "$1.50 each + 45% on the case + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9103.10.80",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "48¢ each + 4.6% on the case + 3.5% on the battery",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "$2.50 each + 45% on the case + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9103.90.00",
+    "indent": "1",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "24¢ each + 4.6% on the case",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "$1.50 each + 45% on the case",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9104.00",
+    "indent": "0",
+    "description": "Instrument panel clocks and clocks of a similar type for vehicles, aircraft, spacecraft or vessels:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "With clock movements measuring over 50 mm in width or diameter:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Valued not over $10 each:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9104.00.05",
+    "indent": "3",
+    "description": "With opto-electronic display only",
+    "superior": null,
+    "units": [],
+    "general": "2.6% on the movement and case + 3.5% on the battery",
+    "special": "Free (A+,AU,B,BH, C,CL,CO,D,E, IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter.",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9104.00.10",
+    "indent": "4",
+    "description": "Electric (including battery operated)",
+    "superior": null,
+    "units": [],
+    "general": "20¢ each + 4.3% on the movement and case + 3.5% on the battery",
+    "special": "Free (A+,AU,B,BH, C,CL,CO,D,E, IL,JO,KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "$3 each + 65% on the movement and case + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter.",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9104.00.20.00",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "30¢ each + 6.4%",
+    "special": "Free (A+,AU,B,BH, C,CL,CO,D,E, IL,JO,KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "$3 each + 65%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Valued over $10 each:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9104.00.25",
+    "indent": "3",
+    "description": "With opto-electronic display only",
+    "superior": null,
+    "units": [],
+    "general": "3.9% on the movement and case + 5.3% on the battery",
+    "special": "Free (A+,AU,B,BH, C,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter.",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9104.00.30",
+    "indent": "4",
+    "description": "Electric (including battery operated)",
+    "superior": null,
+    "units": [],
+    "general": "30¢ each + 4.3% on the movement and case + 3.5% on the battery",
+    "special": "Free (A+,AU,B,BH, C,CL,CO,D, E,IL,JO,KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "$4.50 each + 65% on the movement and case + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter.",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9104.00.40.00",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "30¢ each + 4.3%",
+    "special": "Free (A+,AU,B,BH, C,CL,CO,D, E,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "$4.50 each + 65%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9104.00.45",
+    "indent": "2",
+    "description": "With opto-electronic display only",
+    "superior": null,
+    "units": [],
+    "general": "2.6% on the movement and case + 3.5% on the battery",
+    "special": "Free (A+,AU,B,BH, C,CL,CO,D, E,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter.",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9104.00.50",
+    "indent": "3",
+    "description": "Electric (including battery operated)",
+    "superior": null,
+    "units": [],
+    "general": "20¢ each + 4.6% on the case + 3.5% on the battery",
+    "special": "Free (A+,AU,B,BH, C,CL,CO,D, E,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "75¢ each + 45% on the case + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter.",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9104.00.60",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "19¢ each + 4.5% on the case",
+    "special": "Free (A+,AU,B,BH, C,CL,CO,D, E,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "75¢ each + 45% on the case",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9105",
+    "indent": "0",
+    "description": "Other clocks:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Alarm clocks:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9105.11",
+    "indent": "2",
+    "description": "Electrically operated:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9105.11.40",
+    "indent": "3",
+    "description": "With opto-electronic display only",
+    "superior": null,
+    "units": [],
+    "general": "3.9% on the movement and case + 5.3% on the battery",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9105.11.80",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "30¢ each + 6.9% on the case + 5.3% on the battery",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "75¢ each + 45% on the case + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9105.19",
+    "indent": "2",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "With movement measuring not over 50 mm in width or diameter:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9105.19.10",
+    "indent": "4",
+    "description": "Not constructed or designed to operate for over 47 hours without rewinding",
+    "superior": null,
+    "units": [],
+    "general": "30¢ each + 6.9% on the case",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "75¢ each + 45% on the case",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Constructed or designed to operate for over 47 hours without rewinding:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9105.19.20",
+    "indent": "5",
+    "description": "Having no jewels or only one jewel",
+    "superior": null,
+    "units": [],
+    "general": "60¢ each + 6.9% on the case",
+    "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "$1.75 each + 45% on the case",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9105.19.30",
+    "indent": "5",
+    "description": "Having over one jewel",
+    "superior": null,
+    "units": [],
+    "general": "43¢ each + 2.8¢/jewel over 7 + 3.7% on the case",
+    "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "$2.25 each + 15¢/jewel over 7 + 60% on the case",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9105.19.40.00",
+    "indent": "4",
+    "description": "Valued not over $5 each",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "15¢ each + 6.4%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "$1.50 each + 65%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9105.19.50.00",
+    "indent": "4",
+    "description": "Valued over $5 each",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "23¢ each + 3.2%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "$4.50 each + 65%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Wall clocks:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9105.21",
+    "indent": "2",
+    "description": "Electrically operated:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9105.21.40",
+    "indent": "3",
+    "description": "With opto-electronic display only",
+    "superior": null,
+    "units": [],
+    "general": "3.9% on the movement and case+ 5.3% on the battery",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9105.21.80",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "30¢ each + 6.9% on the case + 5.3% on the battery",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "75¢ each + 45% on the case + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9105.29",
+    "indent": "2",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "With movement measuring not over 50 mm in width or diameter:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9105.29.10",
+    "indent": "4",
+    "description": "Not constructed or designed to operate for over 47 hours without rewinding",
+    "superior": null,
+    "units": [],
+    "general": "20¢ each + 4.6% on the case",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "75¢ each + 45% on the case",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Constructed or designed to operate for over 47 hours without rewinding:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9105.29.20",
+    "indent": "5",
+    "description": "Having no jewels or only one jewel",
+    "superior": null,
+    "units": [],
+    "general": "40¢ each + 4.6% on the case",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "$1.75 each + 45% on the case",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9105.29.30",
+    "indent": "5",
+    "description": "Having over one jewel",
+    "superior": null,
+    "units": [],
+    "general": "57¢ each + 3.7¢/jewel over 7 + 4.9% on the case",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "$2.25 each + 15¢/jewel over 7 + 60% on the case",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9105.29.40.00",
+    "indent": "4",
+    "description": "Valued not over $5 each",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "15¢ each + 6.4%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "$1.50 each + 65%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9105.29.50.00",
+    "indent": "4",
+    "description": "Valued over $5 each",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "30¢ each + 4.3%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "$4.50 each + 65%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9105.91",
+    "indent": "2",
+    "description": "Electrically operated:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9105.91.40",
+    "indent": "3",
+    "description": "With opto-electronic display only",
+    "superior": null,
+    "units": [],
+    "general": "3.9% on the movement and case+ 5.3% on the battery",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9105.91.80",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "30¢ each + 6.9% on the case + 5.3% on the battery",
+    "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "75¢ each + 45% on the case + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9105.99",
+    "indent": "2",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9105.99.10.00",
+    "indent": "3",
+    "description": "Standard marine chronometers having spring-detent escapements",
+    "superior": null,
+    "units": [
+      "No.",
+      "Jwls."
+    ],
+    "general": "17¢ each + 2.5% + 1¢/jewel",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "$4.50 each + 65% + 25¢/jewel",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other, with movement measuring not over 50 mm in width or diameter:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9105.99.20",
+    "indent": "4",
+    "description": "Not constructed or designed to operate for over 47 hours without rewinding",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "75¢ each + 45% on the case",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Constructed or designed to operate for over 47 hours without rewinding:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9105.99.30",
+    "indent": "5",
+    "description": "Having no jewels or only one jewel",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "$1.75 each + 45% on the case",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9105.99.40",
+    "indent": "5",
+    "description": "Having over one jewel",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "$2.25 each + 15¢/jewel over 7 + 60% on the case",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9105.99.50.00",
+    "indent": "4",
+    "description": "Valued not over $5 each",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "7.5¢ each + 3.2%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "$1.50 each + 65%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9105.99.60.00",
+    "indent": "4",
+    "description": "Valued over $5 each",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "23¢ each + 3.2%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "$4.50 each + 65%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9106",
+    "indent": "0",
+    "description": "Time of day recording apparatus and apparatus for measuring, recording or otherwise indicating intervals of time, with clock or watch movement or with synchronous motor (for example, time registers, time-recorders):",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9106.10.00.00",
+    "indent": "1",
+    "description": "Time registers; time-recorders",
+    "superior": null,
+    "units": [
+      "No.",
+      "Jwls."
+    ],
+    "general": "36¢ each + 5.6% + 2¢/jewel",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "$4.50 each + 65% + 25¢/jewel",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9106.90",
+    "indent": "1",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9106.90.20.00",
+    "indent": "2",
+    "description": "Parking meters",
+    "superior": null,
+    "units": [
+      "No.",
+      "Jwls."
+    ],
+    "general": "36¢ each + 5.6% + 2¢/jewel",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "$4.50 each + 65% + 25¢/jewel",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9106.90.40.00",
+    "indent": "2",
+    "description": "Time locks valued over $10 each",
+    "superior": null,
+    "units": [
+      "No.",
+      "Jwls."
+    ],
+    "general": "36¢ each + 5.6% + 2¢/jewel",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "$4.50 each + 65% + 25¢/jewel",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Apparatus for measuring, recording, or otherwise indicating intervals of time, with clock or watch movements, battery powered:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9106.90.55",
+    "indent": "4",
+    "description": "With opto-electronic display only",
+    "superior": null,
+    "units": [],
+    "general": "3.9% on the apparatus + 5.3% on the battery",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "$4.50 each + 65%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9106.90.65.00",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No.",
+      "Jwls."
+    ],
+    "general": "15¢ each + 2.3% + 0.8¢/jewel",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "$4.50 each + 65% + 25¢/jewel",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9106.90.75.00",
+    "indent": "4",
+    "description": "Apparatus for measuring, recording or otherwise indicating intervals of time, with clock or watch movements, AC powered and with opto-electronic display only",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "3.9%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "$4.50 each + 65%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9106.90.85.00",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No.",
+      "Jwls."
+    ],
+    "general": "15¢ each + 2.3% + 0.8¢/jewel",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "$4.50 each + 65% + 25¢/jewel",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9107.00",
+    "indent": "0",
+    "description": "Time switches with clock or watch movement or with synchronous motor:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9107.00.40",
+    "indent": "1",
+    "description": "Valued not over $5 each",
+    "superior": null,
+    "units": [],
+    "general": "15¢ each + 4% + 2.5¢/jewel",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "$1.50 each + 65% + 25¢/jewel",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9107.00.40.40",
+    "indent": "2",
+    "description": "Time switches that operate on a fixed-time cycle, of a type used in household type refrigerators and combined refrigerator-freezers, to alternately control the operations of the compressor and the defrost unit (defrost timers)",
+    "superior": null,
+    "units": [
+      "No.",
+      "Jwls."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9107.00.40.80",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No.",
+      "Jwls."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9107.00.80.00",
+    "indent": "1",
+    "description": "Valued over $5 each",
+    "superior": null,
+    "units": [
+      "No.",
+      "Jwls."
+    ],
+    "general": "45¢ each + 6.4% + 2.5¢/jewel",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "$4.50 each + 65% + 25¢/jewel",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9108",
+    "indent": "0",
+    "description": "Watch movements, complete and assembled:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Electrically operated:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9108.11",
+    "indent": "2",
+    "description": "With mechanical display only or with a device to which a mechanical display can be incorporated:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9108.11.40",
+    "indent": "3",
+    "description": "Having no jewels or only one jewel",
+    "superior": null,
+    "units": [],
+    "general": "36¢ each + 5.3% on the battery",
+    "special": "Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "$1.50 each + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9108.11.80",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "72¢ each + 5.3% on the battery",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+    "other": "$2.50 each + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9108.12.00",
+    "indent": "2",
+    "description": "With opto-electronic display only",
+    "superior": null,
+    "units": [],
+    "general": "3.1% on the movement + 4.2% on the battery",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9108.19",
+    "indent": "2",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9108.19.40",
+    "indent": "3",
+    "description": "Having no jewels or only one jewel",
+    "superior": null,
+    "units": [],
+    "general": "28¢ each + 4.2% on the battery",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+    "other": "$1.50 each + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9108.19.80",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "53¢ each + 3.9% on the battery",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+    "other": "$2.50 each + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9108.20",
+    "indent": "1",
+    "description": "With automatic winding:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9108.20.40.00",
+    "indent": "2",
+    "description": "Having over 17 jewels",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "$10.75 each",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9108.20.80.00",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "$5.00 each",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9108.90",
+    "indent": "1",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Having no jewels or only one jewel:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9108.90.10.00",
+    "indent": "3",
+    "description": "Measuring 33.8 mm or less",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "29¢ each",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "$1.50 each",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9108.90.20.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "25¢ each",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "$1.50 each",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Having over one jewel but not over 7 jewels:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9108.90.30.00",
+    "indent": "3",
+    "description": "Measuring 33.8 mm or less",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "57¢ each",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+    "other": "$2.50 each",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9108.90.40.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "25¢ each",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+    "other": "$1.50 each",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Having over 7 jewels but not over 17 jewels:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Measuring 33.8 mm or less",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Valued not over $15 each",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9108.90.50.00",
+    "indent": "5",
+    "description": "Measuring not over 15.2 mm",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "$2.16 each",
+    "special": "Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "$4 each",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9108.90.60.00",
+    "indent": "5",
+    "description": "Measuring over 15.2 mm",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "$1.80 each",
+    "special": "Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "$4 each",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9108.90.70.00",
+    "indent": "4",
+    "description": "Valued over $15 each",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "90¢ each",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "$4 each",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9108.90.80.00",
+    "indent": "4",
+    "description": "Valued not over $15 each",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "$1.44 each",
+    "special": "Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "$4 each",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9108.90.85.00",
+    "indent": "4",
+    "description": "Valued over $15 each",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "$4 each",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Having over 17 jewels:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9108.90.90.00",
+    "indent": "3",
+    "description": "Measuring 33.8 mm or less",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "$1.50 each",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "$10.75 each",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9108.90.95.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "$1.72 each",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "$10.75 each",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9109",
+    "indent": "0",
+    "description": "Clock movements, complete and assembled:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9109.10",
+    "indent": "1",
+    "description": "Electrically operated:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Of alarm clocks:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9109.10.10",
+    "indent": "3",
+    "description": "With opto-electronic display only",
+    "superior": null,
+    "units": [],
+    "general": "3.9% on the movement + 5.3% on the battery",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9109.10.20",
+    "indent": "4",
+    "description": "Measuring not over 50 mm in width or diameter",
+    "superior": null,
+    "units": [],
+    "general": "30¢ each + 5.3% on the battery",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "75¢ each + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9109.10.30",
+    "indent": "5",
+    "description": "Valued not over $5 each",
+    "superior": null,
+    "units": [],
+    "general": "7.5¢ each + 3.2% on the movement + 2.6% on the battery",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO, KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "$1.50 each + 65% on the movement + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9109.10.40",
+    "indent": "5",
+    "description": "Valued over $5 each",
+    "superior": null,
+    "units": [],
+    "general": "22¢ each + 3.2% on the movement + 2.6% on the battery",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "$4.50 each + 65% on the movement + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9109.10.50",
+    "indent": "3",
+    "description": "With opto-electronic display only",
+    "superior": null,
+    "units": [],
+    "general": "3.9% on the movement + 5.3% on the battery",
+    "special": "Free (A+,AU,BH, C,CL,CO,D,E, IL,JO,KR,MA,OM,P, PA,PE,S,SG) ",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9109.10.60",
+    "indent": "4",
+    "description": "Measuring not over 50 mm in width or diameter",
+    "superior": null,
+    "units": [],
+    "general": "20¢ each + 3.5% on the battery",
+    "special": "Free (A+,AU,BH, C,CL,CO,D,E, IL,JO,KR,MA,OM,P, PA,PE,S,SG) ",
+    "other": "75¢ each + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9109.10.70",
+    "indent": "5",
+    "description": "Valued not over $5 each",
+    "superior": null,
+    "units": [],
+    "general": "12¢ each + 5.1% on the movement + 4.2% on the battery",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "$1.50 each + 65% on the movement + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9109.10.80",
+    "indent": "5",
+    "description": "Valued over $5 each",
+    "superior": null,
+    "units": [],
+    "general": "30¢ each + 4.3% on the movement + 3.5% on the battery",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S, SG) ",
+    "other": "$4.50 each + 65% on the movement + 35% on the battery",
+    "footnotes": [
+      {
+        "columns": [
+          "stat",
+          "units"
+        ],
+        "value": "See statistical note 1 to this chapter. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9109.90",
+    "indent": "1",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9109.90.20.00",
+    "indent": "2",
+    "description": "Measuring not over 50 mm in width or diameter",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "20¢ each",
+    "special": "Free (A+,AU,B,BH, C,CL,CO,D,E, IL,JO,KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "75¢ each",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9109.90.40.00",
+    "indent": "3",
+    "description": "Valued not over $5 each",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "15¢ each + 6.4%",
+    "special": "Free (A+,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "$1.50 each + 65%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9109.90.60.00",
+    "indent": "3",
+    "description": "Valued over $5 each",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "30¢ each + 4.3%",
+    "special": "Free (A+,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "$4.50 each + 65%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9110",
+    "indent": "0",
+    "description": "Complete watch or clock movements, unassembled or partly assembled (movement sets); incomplete watch or clock movements, assembled; rough watch or clock movements:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Of watches:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9110.11.00.00",
+    "indent": "2",
+    "description": "Complete movements, unassembled or partly assembled (movement sets)",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "The rate applicable to the complete, assembled movement",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "The rate applicable to the complete, assembled",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15, 9903.88.25, 9903.88.26, 9903.88.27 and 9903.88.28. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9110.12.00.00",
+    "indent": "2",
+    "description": "Incomplete movements, assembled",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "9%",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9110.19.00.00",
+    "indent": "2",
+    "description": "Rough movements",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "9%",
+    "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9110.90",
+    "indent": "1",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9110.90.20.00",
+    "indent": "2",
+    "description": "Complete movements, unassembled or partly assembled (movement sets)",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "The rate applicable to the complete, assembled movement",
+    "special": "Free (A+,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "The rate applicable to the complete, assembled movement",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15, 9903.88.25, 9903.88.26, 9903.88.27 and 9903.88.28. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9110.90.40.00",
+    "indent": "3",
+    "description": "Consisting of two or more pieces or parts fastened or joined together",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "4.3% + 1.7¢/jewel + 0.2¢ for each other piece or part, but if consisting in part of a plate or a set of plates the total duty shall not exceed the duty for the complete movement",
+    "special": "Free (A+,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "65% + 25¢/jewel + 3¢ for each other piece or part, but if consisting in part of a plate or a set of plates the total duty shall not exceed the duty for the complete movement",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9110.90.60.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "4.2%",
+    "special": "Free (A+,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "65%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9111",
+    "indent": "0",
+    "description": "Watch cases and parts thereof:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9111.10.00.00",
+    "indent": "1",
+    "description": "Cases of precious metal or of metal clad with precious metal",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "12¢ each + 4.8%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "75¢ each + 45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9111.20",
+    "indent": "1",
+    "description": "Cases of base metal, whether or not gold- or silver-plated:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9111.20.20.00",
+    "indent": "2",
+    "description": "Gold- or silver-plated",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "7¢ each + 5.4%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "40¢ each + 45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9111.20.40.00",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "3.6¢ each + 7.6%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "20¢ each + 45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9111.80.00.00",
+    "indent": "1",
+    "description": "Other cases",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "3.6¢ each + 7.6%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "20¢ each + 45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9111.90",
+    "indent": "1",
+    "description": "Parts:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9111.90.40.00",
+    "indent": "2",
+    "description": "Of precious metal or of metal clad with precious metal",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "6.4%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "75¢ each + 45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9111.90.50.00",
+    "indent": "3",
+    "description": "Bezels, backs and centers",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "1.6¢ each + 6.8%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "10¢ each + 45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9111.90.70.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "6.4%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9112",
+    "indent": "0",
+    "description": "Clock cases and cases of a similar type for other goods of this chapter, and parts thereof:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9112.20",
+    "indent": "1",
+    "description": "Cases:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9112.20.40.00",
+    "indent": "2",
+    "description": "Cases of metal",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "3.5%",
+    "special": "Free (A+,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9112.20.80.00",
+    "indent": "2",
+    "description": "Other cases",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "5.5%",
+    "special": "Free (A,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9112.90.00.00",
+    "indent": "1",
+    "description": "Parts",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.5%",
+    "special": "Free (A,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9113",
+    "indent": "0",
+    "description": "Watch straps, watch bands and watch bracelets, and parts thereof:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9113.10.00.00",
+    "indent": "1",
+    "description": "Of precious metal or of metal clad with precious metal",
+    "superior": null,
+    "units": [
+      "doz."
+    ],
+    "general": "4.5%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "80%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9113.20",
+    "indent": "1",
+    "description": "Of base metal, whether or not gold- or silver-plated:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Straps, bands and bracelets:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9113.20.20.00",
+    "indent": "3",
+    "description": "Valued not over $5 per dozen",
+    "superior": null,
+    "units": [
+      "doz."
+    ],
+    "general": "11.2%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "110%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9113.20.40.00",
+    "indent": "3",
+    "description": "Valued over $5 per dozen",
+    "superior": null,
+    "units": [
+      "doz."
+    ],
+    "general": "11.2%",
+    "special": "Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "110%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Parts:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9113.20.60.00",
+    "indent": "3",
+    "description": "Of watch bracelets, valued not over $12 per dozen",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "8.8%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "110%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9113.20.90.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "8.8%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "110%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9113.90",
+    "indent": "1",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9113.90.40.00",
+    "indent": "2",
+    "description": "Of textile material",
+    "superior": null,
+    "units": [
+      "doz."
+    ],
+    "general": "7.2%",
+    "special": "Free (A+,AU,BH,CL,CO,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "78.5%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9113.90.80.00",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "doz."
+    ],
+    "general": "1.8%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9114",
+    "indent": "0",
+    "description": "Other clock or watch parts:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9114.30",
+    "indent": "1",
+    "description": "Dials:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9114.30.40.00",
+    "indent": "2",
+    "description": "Not exceeding 50 mm in width",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "0.4¢ each + 7.2%",
+    "special": "Free (A+,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "5¢ each + 45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9114.30.80.00",
+    "indent": "2",
+    "description": "Exceeding 50 mm in width",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "4.4%",
+    "special": "Free (A+,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "50%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9114.40",
+    "indent": "1",
+    "description": "Plates and bridges:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9114.40.20.00",
+    "indent": "2",
+    "description": "Watch movement bottom or pillar plates or their equivalent",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "12¢ each",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "75¢ each",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9114.40.40.00",
+    "indent": "2",
+    "description": "Any plate, or set of plates, suitable for assembling thereon a clock movement",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "10¢ each",
+    "special": "Free (A+,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "38¢ each",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9114.40.60.00",
+    "indent": "3",
+    "description": "For watches",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "7.3%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "65%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9114.40.80.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "4.2%",
+    "special": "Free (A+,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "65%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9114.90",
+    "indent": "1",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9114.90.10.00",
+    "indent": "2",
+    "description": "Jewels",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "10%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Assemblies and subassemblies for watch or clock movements consisting of two or more pieces or parts fastened or joined inseparably together:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9114.90.15.00",
+    "indent": "3",
+    "description": "For watch movements",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "7.2%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9114.90.30.00",
+    "indent": "3",
+    "description": "For clock movements",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6% + 2.3¢/jewel + 0.2¢ for each other piece or part, but if consisting in part of a plate or a set of plates the total duty shall not exceed the duty for the complete movement",
+    "special": "Free (A+,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "65% + 25¢/jewel + 3¢ for each other piece or part, but if consisting in part of a plate or a set of plates the total duty shall not exceed the duty for the complete movement",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Springs, including hairsprings:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9114.90.34.00",
+    "indent": "3",
+    "description": "For watches",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "7.3%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "65%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9114.90.38.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "4.2%",
+    "special": "Free (A+,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "65%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9114.90.40.00",
+    "indent": "3",
+    "description": "For watches",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "8.8%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,R,S,SG)",
+    "other": "65%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9114.90.50.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "4.2%",
+    "special": "Free (A+,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "65%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  }
+]

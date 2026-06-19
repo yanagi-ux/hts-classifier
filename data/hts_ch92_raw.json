@@ -1,0 +1,1794 @@
+[
+  {
+    "htsno": "9201",
+    "indent": "0",
+    "description": "Pianos, including player pianos; harpsichords and other keyboard stringed instruments:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9201.10.00",
+    "indent": "1",
+    "description": "Upright pianos",
+    "superior": null,
+    "units": [],
+    "general": "4.7%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,JP,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9201.10.00.05",
+    "indent": "2",
+    "description": "Used",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9201.10.00.11",
+    "indent": "3",
+    "description": "Containing a case measuring less than 111.76 cm in height",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9201.10.00.21",
+    "indent": "3",
+    "description": "Containing a case measuring 111.76 cm or more but less than 121.92 cm in height",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9201.10.00.31",
+    "indent": "3",
+    "description": "Containing a case measuring 121.92 cm or more but less than 129.54 cm in height",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9201.10.00.41",
+    "indent": "3",
+    "description": "Containing a case measuring 129.54 cm or more in height",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9201.20.00",
+    "indent": "1",
+    "description": "Grand pianos",
+    "superior": null,
+    "units": [],
+    "general": "4.7%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,JP,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9201.20.00.05",
+    "indent": "2",
+    "description": "Used",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9201.20.00.11",
+    "indent": "3",
+    "description": "Containing a case measuring less than 152.40 cm in length",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9201.20.00.21",
+    "indent": "3",
+    "description": "Containing a case measuring 152.40 cm or more but less than 167.64 cm in length",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9201.20.00.31",
+    "indent": "3",
+    "description": "Containing a case measuring 167.64 cm or more but less than 180.34 cm in length",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9201.20.00.41",
+    "indent": "3",
+    "description": "Containing a case measuring 180.34 cm or more but less than 195.58 cm in length",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9201.20.00.51",
+    "indent": "3",
+    "description": "Containing a case measuring 195.58 cm or more in length",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9201.90.00.00",
+    "indent": "1",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "3.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9202",
+    "indent": "0",
+    "description": "Other string musical instruments (for example, guitars, violins, harps):",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9202.10.00.00",
+    "indent": "1",
+    "description": "Played with a bow",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "3.2%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "37.5%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9202.90",
+    "indent": "1",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Guitars:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9202.90.20.00",
+    "indent": "3",
+    "description": "Valued not over $100 each, excluding the value of the case",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "4.5%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9202.90.40.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "8.7%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9202.90.60.00",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "4.6%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9205",
+    "indent": "0",
+    "description": "Wind musical instruments (for example, keyboard pipe organs, accordions, clarinets, trumpets, bagpipes), other than fairground organs and mechanical street organs:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9205.10.00",
+    "indent": "1",
+    "description": "Brass-wind instruments",
+    "superior": null,
+    "units": [],
+    "general": "2.9%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,JP,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9205.10.00.40",
+    "indent": "2",
+    "description": "Valued not over $10 each",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9205.10.00.80",
+    "indent": "2",
+    "description": "Valued over $10 each",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9205.90",
+    "indent": "1",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Keyboard pipe organs; harmoniums and similar keyboard instruments with free metal reeds:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9205.90.12.00",
+    "indent": "3",
+    "description": "Keyboard pipe organs",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9205.90.14.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "2.7%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,JP,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Accordions and similar instruments; mouth organs:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Accordions and similar instruments:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9205.90.15.00",
+    "indent": "4",
+    "description": "Piano accordions",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9205.90.18.00",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "2.6%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,JP,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9205.90.19.00",
+    "indent": "3",
+    "description": "Mouth organs",
+    "superior": null,
+    "units": [
+      "doz."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Woodwind instruments:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9205.90.20.00",
+    "indent": "3",
+    "description": "Bagpipes",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9205.90.40",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "4.9%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,JP,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9205.90.40.20",
+    "indent": "4",
+    "description": "Clarinets",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9205.90.40.40",
+    "indent": "4",
+    "description": "Saxophones",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9205.90.40.60",
+    "indent": "4",
+    "description": "Flutes and piccolos (except bamboo)",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9205.90.40.80",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9205.90.60.00",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9206.00",
+    "indent": "0",
+    "description": "Percussion musical instruments (for example, drums, xylophones, cymbals, castanets, maracas):",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9206.00.20.00",
+    "indent": "1",
+    "description": "Drums",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "4.8%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9206.00.40.00",
+    "indent": "1",
+    "description": "Cymbals",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9206.00.60.00",
+    "indent": "1",
+    "description": "Sets of tuned bells known as chimes, peals or carillons",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "50%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9206.00.80.00",
+    "indent": "1",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "5.3%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9207",
+    "indent": "0",
+    "description": "Musical instruments, the sound of which is produced, or must be amplified, electrically (for example, organs, guitars, accordions):",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9207.10.00",
+    "indent": "1",
+    "description": "Keyboard instruments, other than accordions",
+    "superior": null,
+    "units": [],
+    "general": "5.4%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG) 2.7% (JP)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Music synthesizers:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9207.10.00.05",
+    "indent": "3",
+    "description": "Valued under $100 each",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9207.10.00.10",
+    "indent": "3",
+    "description": "Valued $100 or over each",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "With more than one keyboard:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9207.10.00.45",
+    "indent": "4",
+    "description": "Valued under $200 each",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9207.10.00.55",
+    "indent": "4",
+    "description": "Valued $200 or over each",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "With one keyboard:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9207.10.00.60",
+    "indent": "4",
+    "description": "Hand-held",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9207.10.00.65",
+    "indent": "5",
+    "description": "Valued under $100 each",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9207.10.00.75",
+    "indent": "5",
+    "description": "Valued $100 or over each",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9207.90.00",
+    "indent": "1",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "5%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,JP,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9207.90.00.40",
+    "indent": "2",
+    "description": "Fretted stringed instruments",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9207.90.00.80",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9208",
+    "indent": "0",
+    "description": "Music boxes, fairground organs, mechanical street organs, mechanical singing birds, musical saws and other musical instruments not falling within any other heading of this chapter; decoy calls of all kinds; whistles, call horns and other mouth-blown sound signaling instruments:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9208.10.00.00",
+    "indent": "1",
+    "description": "Music boxes",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "3.2%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9208.90.00",
+    "indent": "1",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "5.3%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9208.90.00.40",
+    "indent": "2",
+    "description": "Musical instruments",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9208.90.00.80",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9209",
+    "indent": "0",
+    "description": "Parts (for example, mechanisms for music boxes) and accessories (for example, cards, discs and rolls for mechanical instruments) of musical instruments; metronomes, tuning forks and pitch pipes of all kinds:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9209.30.00.00",
+    "indent": "1",
+    "description": "Musical instrument strings",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9209.91",
+    "indent": "2",
+    "description": "Parts and accessories for pianos:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9209.91.40.00",
+    "indent": "3",
+    "description": "Tuning pins",
+    "superior": null,
+    "units": [
+      "thousands"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "$1/1,000 pins + 35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9209.91.80.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "4.2%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9209.92",
+    "indent": "2",
+    "description": "Parts and accessories for the musical instruments of heading 9202:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9209.92.20.00",
+    "indent": "3",
+    "description": "Mutes, collapsible musical instrument stands and music holders for attachment to musical instruments",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "3.9%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "45%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9209.92.40.00",
+    "indent": "3",
+    "description": "Tuning pins",
+    "superior": null,
+    "units": [
+      "thousands"
+    ],
+    "general": "10¢/1,000 pins + 3.5%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "$1/1,000 pins + 35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9209.92.60.00",
+    "indent": "3",
+    "description": "Bows, parts of bows, bow hair, chin rests and other parts and accessories for string instruments played with a bow",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9209.92.80.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "4.6%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9209.94",
+    "indent": "2",
+    "description": "Parts and accessories for the musical instruments of heading 9207:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9209.94.40.00",
+    "indent": "3",
+    "description": "Collapsible musical instrument stands",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "5.7%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "45%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9209.94.80.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "2.7%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,JP,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9209.99",
+    "indent": "2",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9209.99.05.00",
+    "indent": "3",
+    "description": "Metronomes, tuning forks and pitch pipes",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9209.99.10.00",
+    "indent": "3",
+    "description": "Mutes for musical instruments; pedals, dampers and spurs for drums; pedals and holders for cymbals; lyres and other music holders for attachment to musical instruments; and collapsible stands for holding music or for holding musical instruments",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "5.7%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9209.99.16.00",
+    "indent": "4",
+    "description": "For pipe organs of subheading 9205.90.12",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9209.99.18.00",
+    "indent": "4",
+    "description": "For instruments of subheading 9205.90.14",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "2.7%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9209.99.20.00",
+    "indent": "4",
+    "description": "For bagpipes",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9209.99.40",
+    "indent": "4",
+    "description": "For other woodwind and brass wind musical instruments",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9209.99.40.40",
+    "indent": "5",
+    "description": "For woodwind musical instruments",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9209.99.40.80",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9209.99.61.00",
+    "indent": "4",
+    "description": "For music boxes",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9209.99.80.00",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "5.3%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  }
+]

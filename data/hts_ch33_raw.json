@@ -1,0 +1,1960 @@
+[
+  {
+    "htsno": "3301",
+    "indent": "0",
+    "description": "Essential oils (terpeneless or not), including concretes and absolutes; resinoids; extracted oleoresins; concentrates of essential oils in fats, in fixed oils, in waxes or the like, obtained by enfleurage or maceration; terpenic by products of the deterpenation of essential oils; aqueous distillates and aqueous solutions of essential oils:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Essential oils of citrus fruit:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.12.00.00",
+    "indent": "2",
+    "description": "Of orange",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "2.7%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.13.00.00",
+    "indent": "2",
+    "description": "Of lemon",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.8%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.19",
+    "indent": "2",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.19.10.00",
+    "indent": "3",
+    "description": "Of grapefruit",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "2.7%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.19.51",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.19.51.10",
+    "indent": "4",
+    "description": "Bergamot",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.19.51.20",
+    "indent": "4",
+    "description": "Lime",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.19.51.50",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Essential oils other than those of citrus fruit:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.24.00.00",
+    "indent": "2",
+    "description": "Of peppermint (<u>Mentha piperita</u>)     ",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "4.2%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.25.00",
+    "indent": "2",
+    "description": "Of other mints",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.25.00.10",
+    "indent": "3",
+    "description": "Of cornmint, including \"peppermint\" derived from <u>Mentha arvensis</u>",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.25.00.20",
+    "indent": "3",
+    "description": "Of spearmint",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.25.00.50",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.29",
+    "indent": "2",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.29.10.00",
+    "indent": "3",
+    "description": "Of eucalyptus",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "1.8%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "15%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.29.20.00",
+    "indent": "3",
+    "description": "Of orris",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "1.1%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.29.51",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.29.51.03",
+    "indent": "4",
+    "description": "Of anise",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.29.51.05",
+    "indent": "4",
+    "description": "Of caraway",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.29.51.07",
+    "indent": "4",
+    "description": "Of cassia",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.29.51.09",
+    "indent": "4",
+    "description": "Of cedarwood",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.29.51.11",
+    "indent": "4",
+    "description": "Of citronella",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.29.51.13",
+    "indent": "4",
+    "description": "Of clove",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.29.51.15",
+    "indent": "4",
+    "description": "Of garlic",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.29.51.16",
+    "indent": "4",
+    "description": "Of geranium",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.29.51.17",
+    "indent": "4",
+    "description": "Of jasmine",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.29.51.18",
+    "indent": "4",
+    "description": "Of lavender or lavandin",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.29.51.19",
+    "indent": "4",
+    "description": "Of lemongrass",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.29.51.21",
+    "indent": "4",
+    "description": "Of linaloe or bois de rose",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.29.51.25",
+    "indent": "4",
+    "description": "Of nutmeg",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.29.51.28",
+    "indent": "4",
+    "description": "Of onion",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.29.51.29",
+    "indent": "4",
+    "description": "Of patchouli",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.29.51.33",
+    "indent": "4",
+    "description": "Of petitgrain",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.29.51.35",
+    "indent": "4",
+    "description": "Of rose (attar of roses)",
+    "superior": null,
+    "units": [
+      "g"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.29.51.37",
+    "indent": "4",
+    "description": "Of rosemary",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.29.51.39",
+    "indent": "4",
+    "description": "Of sandalwood",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.29.51.41",
+    "indent": "4",
+    "description": "Of sassafras including <u>Ocotea</u> <u>cymbarum</u>",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.29.51.42",
+    "indent": "4",
+    "description": "Of vetiver",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.29.51.43",
+    "indent": "4",
+    "description": "Of ylang ylang or cananga",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.29.51.50",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.30.00.00",
+    "indent": "1",
+    "description": "Resinoids",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.90",
+    "indent": "1",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.90.10",
+    "indent": "2",
+    "description": "Extracted oleoresins",
+    "superior": null,
+    "units": [],
+    "general": "3.8%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.90.10.10",
+    "indent": "3",
+    "description": "Paprika",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.90.10.20",
+    "indent": "3",
+    "description": "Black pepper",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.90.10.50",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3301.90.50.00",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3302",
+    "indent": "0",
+    "description": "Mixtures of odoriferous substances and mixtures (including alcoholic solutions) with a basis of one or more of these substances, of a kind used as raw materials in industry; other preparations based on odoriferous substances, of a kind used for the manufacture of beverages:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3302.10",
+    "indent": "1",
+    "description": "Of a kind used in the food or drink industries:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3302.10.10.00",
+    "indent": "2",
+    "description": "Not containing alcohol",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Containing alcohol:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3302.10.20.00",
+    "indent": "3",
+    "description": "Containing not over 20 percent of alcohol by weight",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "44¢/kg + 25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general",
+          "other"
+        ],
+        "value": "Imports under this provision may be subject to Federal Excise Tax (26 U.S.C. 5001). ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Containing over 20 percent of alcohol by weight:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Preparations requiring only the addition of ethyl alcohol or water to produce a beverage suitable for human consumption:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3302.10.40.00",
+    "indent": "5",
+    "description": "Containing over 20 percent but not over 50 percent of alcohol by weight",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "8.4¢/kg + 1.9%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "88¢/kg +25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general",
+          "special",
+          "other"
+        ],
+        "value": "Imports under this provision may be subject to Federal Excise Tax (26 U.S.C. 5001). ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3302.10.50.00",
+    "indent": "5",
+    "description": "Containing over 50 percent of alcohol by weight",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "17¢/kg + 1.9%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "$1.76/kg + 25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general",
+          "special",
+          "other"
+        ],
+        "value": "Imports under this provision may be subject to Federal Excise Tax (26 U.S.C. 5001). ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3302.10.90.00",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "50%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3302.90",
+    "indent": "1",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3302.90.10",
+    "indent": "2",
+    "description": "Containing no alcohol or not over 10 percent of alcohol by weight",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "88¢/kg + 50%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.  ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3302.90.10.10",
+    "indent": "3",
+    "description": "Perfume oil mixtures and blends, consisting of products ready for use as finished perfume bases",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3302.90.10.50",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3302.90.20",
+    "indent": "2",
+    "description": "Containing over 10 percent of alcohol by weight",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "88¢/kg + 75%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3302.90.20.10",
+    "indent": "3",
+    "description": "Perfume oil mixtures and blends, consisting of products ready for use as finished perfume bases",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3302.90.20.50",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3303.00",
+    "indent": "0",
+    "description": "Perfumes and toilet waters:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Not containing alcohol:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3303.00.10.00",
+    "indent": "2",
+    "description": "Floral or flower waters",
+    "superior": null,
+    "units": [
+      "liters"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3303.00.20.00",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "75%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3303.00.30.00",
+    "indent": "1",
+    "description": "Containing alcohol",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "88¢/kg + 75%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3304",
+    "indent": "0",
+    "description": "Beauty or make-up preparations and preparations for the care of the skin (other than medicaments), including sunscreen or sun tan preparations; manicure or pedicure preparations:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3304.10.00.00",
+    "indent": "1",
+    "description": "Lip make-up preparations",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "75%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3304.20.00.00",
+    "indent": "1",
+    "description": "Eye make-up preparations",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "75%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3304.30.00.00",
+    "indent": "1",
+    "description": "Manicure or pedicure preparations",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "75%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3304.91.00",
+    "indent": "2",
+    "description": "Powders, whether or not compressed",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "75%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3304.91.00.10",
+    "indent": "3",
+    "description": "Rouges",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3304.91.00.50",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3304.99.10.00",
+    "indent": "3",
+    "description": "Petroleum jelly put up for retail sale",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "75%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3304.99.50.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "75%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3305",
+    "indent": "0",
+    "description": "Preparations for use on the hair:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3305.10.00.00",
+    "indent": "1",
+    "description": "Shampoos",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "75%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3305.20.00.00",
+    "indent": "1",
+    "description": "Preparations for permanent waving or straightening",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "75%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3305.30.00.00",
+    "indent": "1",
+    "description": "Hair lacquers",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "88¢/kg + 75%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3305.90.00.00",
+    "indent": "1",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "88¢/kg + 75%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3306",
+    "indent": "0",
+    "description": "Preparations for oral or dental hygiene, including denture fixative pastes and powders; yarn used to clean between the teeth (dental floss), in individual retail packages:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3306.10.00.00",
+    "indent": "1",
+    "description": "Dentifrices",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "75%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3306.20.00.00",
+    "indent": "1",
+    "description": "Yarn used to clean between the teeth (dental floss)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "88¢/kg + 75%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3306.90.00.00",
+    "indent": "1",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "88¢/kg + 75%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3307",
+    "indent": "0",
+    "description": "Pre-shave, shaving or after-shave preparations, personal deodorants, bath preparations, depilatories and other perfumery, cosmetic or toilet preparations, not elsewhere specified or included; prepared room deodorizers, whether or not perfumed or having disinfectant properties:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3307.10",
+    "indent": "1",
+    "description": "Pre-shave, shaving or after-shave preparations:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3307.10.10.00",
+    "indent": "2",
+    "description": "Not containing alcohol",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "4.9%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "75%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3307.10.20.00",
+    "indent": "2",
+    "description": "Containing alcohol",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "4.9%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "81.7%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3307.20.00.00",
+    "indent": "1",
+    "description": "Personal deodorants and antiperspirants",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "4.9%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "75%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3307.30",
+    "indent": "1",
+    "description": "Perfumed bath salts and other bath preparations:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3307.30.10.00",
+    "indent": "2",
+    "description": "Bath salts, whether or not perfumed",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.8%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "75%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3307.30.50.00",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "4.9%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "75%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Preparations for perfuming or deodorizing rooms, including odoriferous preparations used during religious rites:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3307.41.00.00",
+    "indent": "2",
+    "description": "\"Agarbatti\" and other odoriferous preparations which operate by burning",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "2.4%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3307.49.00.00",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "73.2%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "3307.90.00.00",
+    "indent": "1",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.4%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "75%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  }
+]

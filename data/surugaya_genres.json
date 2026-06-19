@@ -1,0 +1,4641 @@
+{
+  "categories": [
+    {
+      "jp_name": "フィギュア",
+      "parent": null,
+      "url": "/toreka/figure_menu.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll",
+        "action figure"
+      ]
+    },
+    {
+      "jp_name": "プラモデル",
+      "parent": null,
+      "url": "/toreka/plamodel_menu.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "plastic model",
+        "scale model",
+        "model kit"
+      ]
+    },
+    {
+      "jp_name": "トレーディングカード",
+      "parent": null,
+      "url": "/toreka/toreka_menu.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "trading card",
+        "playing card",
+        "card game"
+      ]
+    },
+    {
+      "jp_name": "グッズ・ファッション",
+      "parent": null,
+      "url": "/toreka/goods_menu.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise",
+        "novelty"
+      ]
+    },
+    {
+      "jp_name": "ぬいぐるみ",
+      "parent": null,
+      "url": "/hobby/nuigurumi/nuigurumi.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "stuffed animal",
+        "plush toy",
+        "stuffed toy"
+      ]
+    },
+    {
+      "jp_name": "ボードゲーム",
+      "parent": null,
+      "url": "/hobby/boardgame/index.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "board game",
+        "game",
+        "puzzle"
+      ]
+    },
+    {
+      "jp_name": "おもちゃ・ホビー全般",
+      "parent": null,
+      "url": "/hobby.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "ゲーム(現行機)",
+      "parent": null,
+      "url": "/game.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game software",
+        "game cartridge"
+      ]
+    },
+    {
+      "jp_name": "レトロゲーム",
+      "parent": null,
+      "url": "/vintagegame.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "retro game",
+        "game cartridge"
+      ]
+    },
+    {
+      "jp_name": "書籍・コミック",
+      "parent": null,
+      "url": "/books.html",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "comic book",
+        "manga",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "同人誌",
+      "parent": null,
+      "url": "/dozin.html",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "doujinshi",
+        "self-published book",
+        "booklet"
+      ]
+    },
+    {
+      "jp_name": "BL・TL",
+      "parent": null,
+      "url": "/boyslove.html",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "comic book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "音楽ソフト(CD)",
+      "parent": null,
+      "url": "/cd.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "compact disc",
+        "recorded compact disc"
+      ]
+    },
+    {
+      "jp_name": "映像ソフト(DVD/Blu-ray)",
+      "parent": null,
+      "url": "/avsoft.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "blu-ray",
+        "recorded optical disc"
+      ]
+    },
+    {
+      "jp_name": "家電・カメラ・AV機器",
+      "parent": null,
+      "url": "/kaden.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment",
+        "camera",
+        "audio visual"
+      ]
+    },
+    {
+      "jp_name": "パソコン・スマホ",
+      "parent": null,
+      "url": "/pcsp.html",
+      "hts_chapter": "84",
+      "en_keywords": [
+        "computer",
+        "laptop",
+        "smartphone"
+      ]
+    },
+    {
+      "jp_name": "セーフサーチ 未設定",
+      "parent": "フィギュア",
+      "url": "/safe_search/config?return_url=%2Ftoreka%2Ffigure_menu.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "カートはこちら",
+      "parent": "フィギュア",
+      "url": "/cargo/detail",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "映像ソフト",
+      "parent": "フィギュア",
+      "url": "/avsoft.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "アニメ",
+      "parent": "フィギュア",
+      "url": "/search?category=300&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "映画",
+      "parent": "フィギュア",
+      "url": "/search?category=301&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "TVドラマ",
+      "parent": "フィギュア",
+      "url": "/search?category=302&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "音楽",
+      "parent": "フィギュア",
+      "url": "/search?category=303&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "特撮",
+      "parent": "フィギュア",
+      "url": "/search?category=305&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "その他",
+      "parent": "フィギュア",
+      "url": "/search?category=306&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "舞台",
+      "parent": "フィギュア",
+      "url": "/search?category=308&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "スポーツ",
+      "parent": "フィギュア",
+      "url": "/search?category=309&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "お笑い",
+      "parent": "フィギュア",
+      "url": "/search?category=310&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "趣味・教養",
+      "parent": "フィギュア",
+      "url": "/search?category=311&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "グラビア",
+      "parent": "フィギュア",
+      "url": "/feature/idol/gradol.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "音楽ソフト",
+      "parent": "フィギュア",
+      "url": "/cd.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "邦楽",
+      "parent": "フィギュア",
+      "url": "/search?category=403&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "洋楽",
+      "parent": "フィギュア",
+      "url": "/search?category=406&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "クラシック",
+      "parent": "フィギュア",
+      "url": "/search?category=407&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "アニメ・ゲーム",
+      "parent": "フィギュア",
+      "url": "/search?category=408&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "サウンドトラック",
+      "parent": "フィギュア",
+      "url": "/search?category=409&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "演劇／ミュージカル",
+      "parent": "フィギュア",
+      "url": "/search?category=410&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "ジャズ",
+      "parent": "フィギュア",
+      "url": "/search?category=411&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "アジア",
+      "parent": "フィギュア",
+      "url": "/search?category=416&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "おもちゃ・ホビー",
+      "parent": "フィギュア",
+      "url": "/hobby.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "おもちゃ",
+      "parent": "フィギュア",
+      "url": "/search?category=500&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "ぬいぐるみ",
+      "parent": "フィギュア",
+      "url": "/hobby/nuigurumi/nuigurumi.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "ドール",
+      "parent": "フィギュア",
+      "url": "/search?category=50109&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "パズル",
+      "parent": "フィギュア",
+      "url": "/search?category=50101&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "ミニカー",
+      "parent": "フィギュア",
+      "url": "/search?category=5000000&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "ボードゲーム",
+      "parent": "フィギュア",
+      "url": "/hobby/boardgame/index.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "ホビー",
+      "parent": "フィギュア",
+      "url": "/search?category=501&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "フィギュア",
+      "parent": "フィギュア",
+      "url": "/toreka/figure_menu.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "プラモデル",
+      "parent": "フィギュア",
+      "url": "/toreka/plamodel_menu.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "トレカ　ボックス・パック",
+      "parent": "フィギュア",
+      "url": "/toreka/toreka_menu.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "トレカ　シングルカード",
+      "parent": "フィギュア",
+      "url": "/toreka/toreka_single.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "ラジコン",
+      "parent": "フィギュア",
+      "url": "/search?category=50001&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "グッズ・ファッション",
+      "parent": "フィギュア",
+      "url": "/toreka/goods_menu.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "衣類",
+      "parent": "フィギュア",
+      "url": "/search?category=1000&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "アクセサリー",
+      "parent": "フィギュア",
+      "url": "/search?category=1021&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "小物",
+      "parent": "フィギュア",
+      "url": "/search?category=1004&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "文房具",
+      "parent": "フィギュア",
+      "url": "/search?category=1010&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "シール・ステッカー",
+      "parent": "フィギュア",
+      "url": "/search?category=1011&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "ストラップ・キーホルダー",
+      "parent": "フィギュア",
+      "url": "/search?category=1014&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "バック・袋類",
+      "parent": "フィギュア",
+      "url": "/search?category=1017&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "タオル・手ぬぐい",
+      "parent": "フィギュア",
+      "url": "/search?category=1018&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "クッション・シーツ・枕カバー",
+      "parent": "フィギュア",
+      "url": "/search?category=1024&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "カレンダー",
+      "parent": "フィギュア",
+      "url": "/search?category=1002&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "ポスター",
+      "parent": "フィギュア",
+      "url": "/search?category=1003&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "タペストリー",
+      "parent": "フィギュア",
+      "url": "/search?category=1022&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "figure",
+        "toy figure",
+        "doll"
+      ]
+    },
+    {
+      "jp_name": "セーフサーチ 未設定",
+      "parent": "グッズ・ファッション",
+      "url": "/safe_search/config?return_url=%2Ftoreka%2Fgoods_menu.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "カートはこちら",
+      "parent": "グッズ・ファッション",
+      "url": "/cargo/detail",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "映像ソフト",
+      "parent": "グッズ・ファッション",
+      "url": "/avsoft.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "アニメ",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=300&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "映画",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=301&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "TVドラマ",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=302&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "音楽",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=303&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "特撮",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=305&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "その他",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=306&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "舞台",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=308&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "スポーツ",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=309&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "お笑い",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=310&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "趣味・教養",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=311&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "グラビア",
+      "parent": "グッズ・ファッション",
+      "url": "/feature/idol/gradol.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "音楽ソフト",
+      "parent": "グッズ・ファッション",
+      "url": "/cd.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "邦楽",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=403&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "洋楽",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=406&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "クラシック",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=407&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "アニメ・ゲーム",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=408&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "サウンドトラック",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=409&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "演劇／ミュージカル",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=410&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "ジャズ",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=411&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "アジア",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=416&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "おもちゃ・ホビー",
+      "parent": "グッズ・ファッション",
+      "url": "/hobby.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "おもちゃ",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=500&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "ぬいぐるみ",
+      "parent": "グッズ・ファッション",
+      "url": "/hobby/nuigurumi/nuigurumi.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "ドール",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=50109&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "パズル",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=50101&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "ミニカー",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=5000000&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "ボードゲーム",
+      "parent": "グッズ・ファッション",
+      "url": "/hobby/boardgame/index.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "ホビー",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=501&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "フィギュア",
+      "parent": "グッズ・ファッション",
+      "url": "/toreka/figure_menu.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "プラモデル",
+      "parent": "グッズ・ファッション",
+      "url": "/toreka/plamodel_menu.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "トレカ　ボックス・パック",
+      "parent": "グッズ・ファッション",
+      "url": "/toreka/toreka_menu.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "トレカ　シングルカード",
+      "parent": "グッズ・ファッション",
+      "url": "/toreka/toreka_single.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "ラジコン",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=50001&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "グッズ・ファッション",
+      "parent": "グッズ・ファッション",
+      "url": "/toreka/goods_menu.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "衣類",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=1000&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "アクセサリー",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=1021&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "小物",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=1004&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "文房具",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=1010&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "シール・ステッカー",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=1011&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "ストラップ・キーホルダー",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=1014&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "バック・袋類",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=1017&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "タオル・手ぬぐい",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=1018&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "クッション・シーツ・枕カバー",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=1024&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "カレンダー",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=1002&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "ポスター",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=1003&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "タペストリー",
+      "parent": "グッズ・ファッション",
+      "url": "/search?category=1022&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "goods",
+        "merchandise"
+      ]
+    },
+    {
+      "jp_name": "セーフサーチ 未設定",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/safe_search/config?return_url=%2Fhobby.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "カートはこちら",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/cargo/detail",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "映像ソフト",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/avsoft.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "アニメ",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=300&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "映画",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=301&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "TVドラマ",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=302&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "音楽",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=303&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "特撮",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=305&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "その他",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=306&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "舞台",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=308&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "スポーツ",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=309&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "お笑い",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=310&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "趣味・教養",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=311&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "グラビア",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/feature/idol/gradol.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "音楽ソフト",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/cd.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "邦楽",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=403&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "洋楽",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=406&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "クラシック",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=407&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "アニメ・ゲーム",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=408&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "サウンドトラック",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=409&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "演劇／ミュージカル",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=410&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "ジャズ",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=411&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "アジア",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=416&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "おもちゃ・ホビー",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/hobby.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "おもちゃ",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=500&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "ぬいぐるみ",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/hobby/nuigurumi/nuigurumi.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "ドール",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=50109&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "パズル",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=50101&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "ミニカー",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=5000000&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "ボードゲーム",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/hobby/boardgame/index.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "ホビー",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=501&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "フィギュア",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/toreka/figure_menu.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "プラモデル",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/toreka/plamodel_menu.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "トレカ　ボックス・パック",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/toreka/toreka_menu.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "トレカ　シングルカード",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/toreka/toreka_single.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "ラジコン",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=50001&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "グッズ・ファッション",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/toreka/goods_menu.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "衣類",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=1000&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "アクセサリー",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=1021&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "小物",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=1004&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "文房具",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=1010&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "シール・ステッカー",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=1011&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "ストラップ・キーホルダー",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=1014&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "バック・袋類",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=1017&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "タオル・手ぬぐい",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=1018&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "クッション・シーツ・枕カバー",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=1024&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "カレンダー",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=1002&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "ポスター",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=1003&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "タペストリー",
+      "parent": "おもちゃ・ホビー全般",
+      "url": "/search?category=1022&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "toy",
+        "hobby"
+      ]
+    },
+    {
+      "jp_name": "セーフサーチ 未設定",
+      "parent": "ゲーム(現行機)",
+      "url": "/safe_search/config?return_url=%2Fgame.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "カートはこちら",
+      "parent": "ゲーム(現行機)",
+      "url": "/cargo/detail",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "映像ソフト",
+      "parent": "ゲーム(現行機)",
+      "url": "/avsoft.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "アニメ",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=300&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "映画",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=301&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "TVドラマ",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=302&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "音楽",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=303&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "特撮",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=305&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "その他",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=306&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "舞台",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=308&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "スポーツ",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=309&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "お笑い",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=310&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "趣味・教養",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=311&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "グラビア",
+      "parent": "ゲーム(現行機)",
+      "url": "/feature/idol/gradol.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "音楽ソフト",
+      "parent": "ゲーム(現行機)",
+      "url": "/cd.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "邦楽",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=403&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "洋楽",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=406&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "クラシック",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=407&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "アニメ・ゲーム",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=408&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "サウンドトラック",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=409&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "演劇／ミュージカル",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=410&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "ジャズ",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=411&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "アジア",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=416&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "おもちゃ・ホビー",
+      "parent": "ゲーム(現行機)",
+      "url": "/hobby.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "おもちゃ",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=500&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "ぬいぐるみ",
+      "parent": "ゲーム(現行機)",
+      "url": "/hobby/nuigurumi/nuigurumi.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "ドール",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=50109&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "パズル",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=50101&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "ミニカー",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=5000000&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "ボードゲーム",
+      "parent": "ゲーム(現行機)",
+      "url": "/hobby/boardgame/index.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "ホビー",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=501&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "フィギュア",
+      "parent": "ゲーム(現行機)",
+      "url": "/toreka/figure_menu.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "プラモデル",
+      "parent": "ゲーム(現行機)",
+      "url": "/toreka/plamodel_menu.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "トレカ　ボックス・パック",
+      "parent": "ゲーム(現行機)",
+      "url": "/toreka/toreka_menu.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "トレカ　シングルカード",
+      "parent": "ゲーム(現行機)",
+      "url": "/toreka/toreka_single.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "ラジコン",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=50001&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "グッズ・ファッション",
+      "parent": "ゲーム(現行機)",
+      "url": "/toreka/goods_menu.html",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "衣類",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=1000&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "アクセサリー",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=1021&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "小物",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=1004&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "文房具",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=1010&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "シール・ステッカー",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=1011&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "ストラップ・キーホルダー",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=1014&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "バック・袋類",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=1017&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "タオル・手ぬぐい",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=1018&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "クッション・シーツ・枕カバー",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=1024&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "カレンダー",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=1002&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "ポスター",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=1003&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "タペストリー",
+      "parent": "ゲーム(現行機)",
+      "url": "/search?category=1022&search_word=",
+      "hts_chapter": "95",
+      "en_keywords": [
+        "video game",
+        "game"
+      ]
+    },
+    {
+      "jp_name": "セーフサーチ 未設定",
+      "parent": "書籍・コミック",
+      "url": "/safe_search/config?return_url=%2Fbooks.html",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "カートはこちら",
+      "parent": "書籍・コミック",
+      "url": "/cargo/detail",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "映像ソフト",
+      "parent": "書籍・コミック",
+      "url": "/avsoft.html",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "アニメ",
+      "parent": "書籍・コミック",
+      "url": "/search?category=300&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "映画",
+      "parent": "書籍・コミック",
+      "url": "/search?category=301&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "TVドラマ",
+      "parent": "書籍・コミック",
+      "url": "/search?category=302&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "音楽",
+      "parent": "書籍・コミック",
+      "url": "/search?category=303&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "特撮",
+      "parent": "書籍・コミック",
+      "url": "/search?category=305&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "その他",
+      "parent": "書籍・コミック",
+      "url": "/search?category=306&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "舞台",
+      "parent": "書籍・コミック",
+      "url": "/search?category=308&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "スポーツ",
+      "parent": "書籍・コミック",
+      "url": "/search?category=309&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "お笑い",
+      "parent": "書籍・コミック",
+      "url": "/search?category=310&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "趣味・教養",
+      "parent": "書籍・コミック",
+      "url": "/search?category=311&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "グラビア",
+      "parent": "書籍・コミック",
+      "url": "/feature/idol/gradol.html",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "音楽ソフト",
+      "parent": "書籍・コミック",
+      "url": "/cd.html",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "邦楽",
+      "parent": "書籍・コミック",
+      "url": "/search?category=403&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "洋楽",
+      "parent": "書籍・コミック",
+      "url": "/search?category=406&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "クラシック",
+      "parent": "書籍・コミック",
+      "url": "/search?category=407&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "アニメ・ゲーム",
+      "parent": "書籍・コミック",
+      "url": "/search?category=408&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "サウンドトラック",
+      "parent": "書籍・コミック",
+      "url": "/search?category=409&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "演劇／ミュージカル",
+      "parent": "書籍・コミック",
+      "url": "/search?category=410&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "ジャズ",
+      "parent": "書籍・コミック",
+      "url": "/search?category=411&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "アジア",
+      "parent": "書籍・コミック",
+      "url": "/search?category=416&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "おもちゃ・ホビー",
+      "parent": "書籍・コミック",
+      "url": "/hobby.html",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "おもちゃ",
+      "parent": "書籍・コミック",
+      "url": "/search?category=500&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "ぬいぐるみ",
+      "parent": "書籍・コミック",
+      "url": "/hobby/nuigurumi/nuigurumi.html",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "ドール",
+      "parent": "書籍・コミック",
+      "url": "/search?category=50109&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "パズル",
+      "parent": "書籍・コミック",
+      "url": "/search?category=50101&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "ミニカー",
+      "parent": "書籍・コミック",
+      "url": "/search?category=5000000&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "ボードゲーム",
+      "parent": "書籍・コミック",
+      "url": "/hobby/boardgame/index.html",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "ホビー",
+      "parent": "書籍・コミック",
+      "url": "/search?category=501&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "フィギュア",
+      "parent": "書籍・コミック",
+      "url": "/toreka/figure_menu.html",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "プラモデル",
+      "parent": "書籍・コミック",
+      "url": "/toreka/plamodel_menu.html",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "トレカ　ボックス・パック",
+      "parent": "書籍・コミック",
+      "url": "/toreka/toreka_menu.html",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "トレカ　シングルカード",
+      "parent": "書籍・コミック",
+      "url": "/toreka/toreka_single.html",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "ラジコン",
+      "parent": "書籍・コミック",
+      "url": "/search?category=50001&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "グッズ・ファッション",
+      "parent": "書籍・コミック",
+      "url": "/toreka/goods_menu.html",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "衣類",
+      "parent": "書籍・コミック",
+      "url": "/search?category=1000&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "アクセサリー",
+      "parent": "書籍・コミック",
+      "url": "/search?category=1021&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "小物",
+      "parent": "書籍・コミック",
+      "url": "/search?category=1004&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "文房具",
+      "parent": "書籍・コミック",
+      "url": "/search?category=1010&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "シール・ステッカー",
+      "parent": "書籍・コミック",
+      "url": "/search?category=1011&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "ストラップ・キーホルダー",
+      "parent": "書籍・コミック",
+      "url": "/search?category=1014&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "バック・袋類",
+      "parent": "書籍・コミック",
+      "url": "/search?category=1017&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "タオル・手ぬぐい",
+      "parent": "書籍・コミック",
+      "url": "/search?category=1018&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "クッション・シーツ・枕カバー",
+      "parent": "書籍・コミック",
+      "url": "/search?category=1024&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "カレンダー",
+      "parent": "書籍・コミック",
+      "url": "/search?category=1002&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "ポスター",
+      "parent": "書籍・コミック",
+      "url": "/search?category=1003&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "タペストリー",
+      "parent": "書籍・コミック",
+      "url": "/search?category=1022&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "publication"
+      ]
+    },
+    {
+      "jp_name": "セーフサーチ 未設定",
+      "parent": "同人誌",
+      "url": "/safe_search/config?return_url=%2Fdozin.html",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "カートはこちら",
+      "parent": "同人誌",
+      "url": "/cargo/detail",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "映像ソフト",
+      "parent": "同人誌",
+      "url": "/avsoft.html",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "アニメ",
+      "parent": "同人誌",
+      "url": "/search?category=300&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "映画",
+      "parent": "同人誌",
+      "url": "/search?category=301&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "TVドラマ",
+      "parent": "同人誌",
+      "url": "/search?category=302&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "音楽",
+      "parent": "同人誌",
+      "url": "/search?category=303&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "特撮",
+      "parent": "同人誌",
+      "url": "/search?category=305&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "その他",
+      "parent": "同人誌",
+      "url": "/search?category=306&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "舞台",
+      "parent": "同人誌",
+      "url": "/search?category=308&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "スポーツ",
+      "parent": "同人誌",
+      "url": "/search?category=309&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "お笑い",
+      "parent": "同人誌",
+      "url": "/search?category=310&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "趣味・教養",
+      "parent": "同人誌",
+      "url": "/search?category=311&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "グラビア",
+      "parent": "同人誌",
+      "url": "/feature/idol/gradol.html",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "音楽ソフト",
+      "parent": "同人誌",
+      "url": "/cd.html",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "邦楽",
+      "parent": "同人誌",
+      "url": "/search?category=403&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "洋楽",
+      "parent": "同人誌",
+      "url": "/search?category=406&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "クラシック",
+      "parent": "同人誌",
+      "url": "/search?category=407&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "アニメ・ゲーム",
+      "parent": "同人誌",
+      "url": "/search?category=408&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "サウンドトラック",
+      "parent": "同人誌",
+      "url": "/search?category=409&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "演劇／ミュージカル",
+      "parent": "同人誌",
+      "url": "/search?category=410&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "ジャズ",
+      "parent": "同人誌",
+      "url": "/search?category=411&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "アジア",
+      "parent": "同人誌",
+      "url": "/search?category=416&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "おもちゃ・ホビー",
+      "parent": "同人誌",
+      "url": "/hobby.html",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "おもちゃ",
+      "parent": "同人誌",
+      "url": "/search?category=500&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "ぬいぐるみ",
+      "parent": "同人誌",
+      "url": "/hobby/nuigurumi/nuigurumi.html",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "ドール",
+      "parent": "同人誌",
+      "url": "/search?category=50109&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "パズル",
+      "parent": "同人誌",
+      "url": "/search?category=50101&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "ミニカー",
+      "parent": "同人誌",
+      "url": "/search?category=5000000&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "ボードゲーム",
+      "parent": "同人誌",
+      "url": "/hobby/boardgame/index.html",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "ホビー",
+      "parent": "同人誌",
+      "url": "/search?category=501&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "フィギュア",
+      "parent": "同人誌",
+      "url": "/toreka/figure_menu.html",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "プラモデル",
+      "parent": "同人誌",
+      "url": "/toreka/plamodel_menu.html",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "トレカ　ボックス・パック",
+      "parent": "同人誌",
+      "url": "/toreka/toreka_menu.html",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "トレカ　シングルカード",
+      "parent": "同人誌",
+      "url": "/toreka/toreka_single.html",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "ラジコン",
+      "parent": "同人誌",
+      "url": "/search?category=50001&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "グッズ・ファッション",
+      "parent": "同人誌",
+      "url": "/toreka/goods_menu.html",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "衣類",
+      "parent": "同人誌",
+      "url": "/search?category=1000&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "アクセサリー",
+      "parent": "同人誌",
+      "url": "/search?category=1021&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "小物",
+      "parent": "同人誌",
+      "url": "/search?category=1004&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "文房具",
+      "parent": "同人誌",
+      "url": "/search?category=1010&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "シール・ステッカー",
+      "parent": "同人誌",
+      "url": "/search?category=1011&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "ストラップ・キーホルダー",
+      "parent": "同人誌",
+      "url": "/search?category=1014&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "バック・袋類",
+      "parent": "同人誌",
+      "url": "/search?category=1017&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "タオル・手ぬぐい",
+      "parent": "同人誌",
+      "url": "/search?category=1018&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "クッション・シーツ・枕カバー",
+      "parent": "同人誌",
+      "url": "/search?category=1024&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "カレンダー",
+      "parent": "同人誌",
+      "url": "/search?category=1002&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "ポスター",
+      "parent": "同人誌",
+      "url": "/search?category=1003&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "タペストリー",
+      "parent": "同人誌",
+      "url": "/search?category=1022&search_word=",
+      "hts_chapter": "49",
+      "en_keywords": [
+        "printed book",
+        "booklet",
+        "doujinshi"
+      ]
+    },
+    {
+      "jp_name": "セーフサーチ 未設定",
+      "parent": "音楽ソフト(CD)",
+      "url": "/safe_search/config?return_url=%2Fcd.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "カートはこちら",
+      "parent": "音楽ソフト(CD)",
+      "url": "/cargo/detail",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "映像ソフト",
+      "parent": "音楽ソフト(CD)",
+      "url": "/avsoft.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "アニメ",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=300&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "映画",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=301&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "TVドラマ",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=302&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "音楽",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=303&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "特撮",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=305&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "その他",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=306&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "舞台",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=308&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "スポーツ",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=309&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "お笑い",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=310&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "趣味・教養",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=311&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "グラビア",
+      "parent": "音楽ソフト(CD)",
+      "url": "/feature/idol/gradol.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "音楽ソフト",
+      "parent": "音楽ソフト(CD)",
+      "url": "/cd.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "邦楽",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=403&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "洋楽",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=406&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "クラシック",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=407&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "アニメ・ゲーム",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=408&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "サウンドトラック",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=409&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "演劇／ミュージカル",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=410&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "ジャズ",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=411&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "アジア",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=416&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "おもちゃ・ホビー",
+      "parent": "音楽ソフト(CD)",
+      "url": "/hobby.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "おもちゃ",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=500&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "ぬいぐるみ",
+      "parent": "音楽ソフト(CD)",
+      "url": "/hobby/nuigurumi/nuigurumi.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "ドール",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=50109&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "パズル",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=50101&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "ミニカー",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=5000000&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "ボードゲーム",
+      "parent": "音楽ソフト(CD)",
+      "url": "/hobby/boardgame/index.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "ホビー",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=501&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "フィギュア",
+      "parent": "音楽ソフト(CD)",
+      "url": "/toreka/figure_menu.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "プラモデル",
+      "parent": "音楽ソフト(CD)",
+      "url": "/toreka/plamodel_menu.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "トレカ　ボックス・パック",
+      "parent": "音楽ソフト(CD)",
+      "url": "/toreka/toreka_menu.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "トレカ　シングルカード",
+      "parent": "音楽ソフト(CD)",
+      "url": "/toreka/toreka_single.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "ラジコン",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=50001&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "グッズ・ファッション",
+      "parent": "音楽ソフト(CD)",
+      "url": "/toreka/goods_menu.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "衣類",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=1000&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "アクセサリー",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=1021&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "小物",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=1004&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "文房具",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=1010&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "シール・ステッカー",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=1011&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "ストラップ・キーホルダー",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=1014&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "バック・袋類",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=1017&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "タオル・手ぬぐい",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=1018&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "クッション・シーツ・枕カバー",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=1024&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "カレンダー",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=1002&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "ポスター",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=1003&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "タペストリー",
+      "parent": "音楽ソフト(CD)",
+      "url": "/search?category=1022&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "music cd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "セーフサーチ 未設定",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/safe_search/config?return_url=%2Favsoft.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "カートはこちら",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/cargo/detail",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "映像ソフト",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/avsoft.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "アニメ",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=300&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "映画",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=301&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "TVドラマ",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=302&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "音楽",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=303&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "特撮",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=305&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "その他",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=306&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "舞台",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=308&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "スポーツ",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=309&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "お笑い",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=310&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "趣味・教養",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=311&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "グラビア",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/feature/idol/gradol.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "音楽ソフト",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/cd.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "邦楽",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=403&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "洋楽",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=406&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "クラシック",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=407&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "アニメ・ゲーム",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=408&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "サウンドトラック",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=409&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "演劇／ミュージカル",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=410&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "ジャズ",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=411&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "アジア",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=416&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "おもちゃ・ホビー",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/hobby.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "おもちゃ",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=500&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "ぬいぐるみ",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/hobby/nuigurumi/nuigurumi.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "ドール",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=50109&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "パズル",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=50101&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "ミニカー",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=5000000&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "ボードゲーム",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/hobby/boardgame/index.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "ホビー",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=501&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "フィギュア",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/toreka/figure_menu.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "プラモデル",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/toreka/plamodel_menu.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "トレカ　ボックス・パック",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/toreka/toreka_menu.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "トレカ　シングルカード",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/toreka/toreka_single.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "ラジコン",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=50001&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "グッズ・ファッション",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/toreka/goods_menu.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "衣類",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=1000&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "アクセサリー",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=1021&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "小物",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=1004&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "文房具",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=1010&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "シール・ステッカー",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=1011&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "ストラップ・キーホルダー",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=1014&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "バック・袋類",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=1017&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "タオル・手ぬぐい",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=1018&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "クッション・シーツ・枕カバー",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=1024&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "カレンダー",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=1002&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "ポスター",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=1003&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "タペストリー",
+      "parent": "映像ソフト(DVD/Blu-ray)",
+      "url": "/search?category=1022&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "dvd",
+        "recorded disc"
+      ]
+    },
+    {
+      "jp_name": "セーフサーチ 未設定",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/safe_search/config?return_url=%2Fkaden.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "カートはこちら",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/cargo/detail",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "映像ソフト",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/avsoft.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "アニメ",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=300&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "映画",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=301&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "TVドラマ",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=302&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "音楽",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=303&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "特撮",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=305&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "その他",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=306&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "舞台",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=308&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "スポーツ",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=309&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "お笑い",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=310&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "趣味・教養",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=311&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "グラビア",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/feature/idol/gradol.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "音楽ソフト",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/cd.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "邦楽",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=403&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "洋楽",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=406&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "クラシック",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=407&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "アニメ・ゲーム",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=408&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "サウンドトラック",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=409&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "演劇／ミュージカル",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=410&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "ジャズ",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=411&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "アジア",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=416&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "おもちゃ・ホビー",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/hobby.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "おもちゃ",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=500&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "ぬいぐるみ",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/hobby/nuigurumi/nuigurumi.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "ドール",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=50109&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "パズル",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=50101&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "ミニカー",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=5000000&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "ボードゲーム",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/hobby/boardgame/index.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "ホビー",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=501&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "フィギュア",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/toreka/figure_menu.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "プラモデル",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/toreka/plamodel_menu.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "トレカ　ボックス・パック",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/toreka/toreka_menu.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "トレカ　シングルカード",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/toreka/toreka_single.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "ラジコン",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=50001&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "グッズ・ファッション",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/toreka/goods_menu.html",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "衣類",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=1000&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "アクセサリー",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=1021&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "小物",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=1004&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "文房具",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=1010&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "シール・ステッカー",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=1011&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "ストラップ・キーホルダー",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=1014&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "バック・袋類",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=1017&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "タオル・手ぬぐい",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=1018&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "クッション・シーツ・枕カバー",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=1024&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "カレンダー",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=1002&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "ポスター",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=1003&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    },
+    {
+      "jp_name": "タペストリー",
+      "parent": "家電・カメラ・AV機器",
+      "url": "/search?category=1022&search_word=",
+      "hts_chapter": "85",
+      "en_keywords": [
+        "electronic equipment"
+      ]
+    }
+  ]
+}

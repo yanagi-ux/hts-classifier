@@ -1,0 +1,3787 @@
+[
+  {
+    "htsno": "2101",
+    "indent": "0",
+    "description": "Extracts, essences and concentrates, of coffee, tea or maté and preparations with a basis of these products or with a basis of coffee, tea or maté; roasted chicory and other roasted coffee substitutes, and extracts, essences and concentrates thereof:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Extracts, essences and concentrates of coffee, and preparations with a basis of these extracts, essences or concentrates or with a basis of coffee:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.11",
+    "indent": "2",
+    "description": "Extracts, essences and concentrates:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.11.21",
+    "indent": "3",
+    "description": "Instant coffee, not flavored",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Not decaffeinated:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.11.21.26",
+    "indent": "5",
+    "description": "Packaged for retail sale",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.11.21.29",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Decaffeinated:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.11.21.31",
+    "indent": "5",
+    "description": "Packaged for retail sale",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.11.21.39",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.11.29",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.11.29.41",
+    "indent": "4",
+    "description": "Packaged for retail sale",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.11.29.49",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.12",
+    "indent": "2",
+    "description": "Preparations with a basis of extracts, essences or concentrates or with a basis of coffee:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.12.32.00",
+    "indent": "3",
+    "description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "10%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Blended syrups described in additional U.S. note 4 to chapter 17:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.12.34.00",
+    "indent": "5",
+    "description": "Described in additional U.S. note 9 to chapter 17 and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "10%",
+    "special": "Free (CO,KR,OM,PA,PE,S)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.12.38.00",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "30.5¢/kg + 8.5%",
+    "special": "Free (BH,CL,JO,KR,OM,SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)",
+    "other": "35.9¢/kg + 10%",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9904.17.66-9904.17.84. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Articles containing over 65 percent by dry weight of sugar described in additional U.S. note 2 to chapter 17:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.12.44.00",
+    "indent": "5",
+    "description": "Described in additional U.S. note 7 to chapter 17 and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "10%",
+    "special": "Free (CO,KR,OM,PA,PE,S)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.12.48.00",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "30.5¢/kg + 8.5%",
+    "special": "Free (BH,CL,JO,KR,OM,SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)",
+    "other": "35.9¢/kg + 10%",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9904.17.17-9904.17.48. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Articles containing over 10 percent by dry weight of sugar described in additional U.S. note 3 to chapter 17:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.12.54.00",
+    "indent": "5",
+    "description": "Described in additional U.S. note 8 to chapter 17 and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "10%",
+    "special": "Free (A,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.12.58.00",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "30.5¢/kg + 8.5%",
+    "special": "Free (BH,CL,JO,KR,OM,SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)",
+    "other": "35.9¢/kg + 10%",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9904.17.49-9904.17.65. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.12.90.00",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "8.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.20",
+    "indent": "1",
+    "description": "Extracts, essences and concentrates, of tea or maté, and preparations with a basis of these extracts, essences or concentrates or with a basis of tea or maté:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.20.20",
+    "indent": "2",
+    "description": "Extracts, essences and concentrates",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "10%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.20.20.10",
+    "indent": "3",
+    "description": "Instant tea",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.20.20.90",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.20.32.00",
+    "indent": "3",
+    "description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "10%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Blended syrups described in additional U.S. note 4 to chapter 17:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.20.34.00",
+    "indent": "5",
+    "description": "Described in additional U.S. note 9 to chapter 17 and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "10%",
+    "special": "Free (CO,KR,OM,PA,PE,S)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.20.38.00",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "30.5¢/kg + 8.5%",
+    "special": "Free (BH,CL,JO,KR,OM,SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)",
+    "other": "35.9¢/kg + 10%",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9904.17.66-9904.17.84. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Articles containing over 65 percent by dry weight of sugar described in additional U.S. note 2 to chapter 17:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.20.44.00",
+    "indent": "5",
+    "description": "Described in additional U.S. note 7 to chapter 17 and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "10%",
+    "special": "Free (CO,KR,OM,PA,PE,S)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.20.48.00",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "30.5¢/kg + 8.5%",
+    "special": "Free (BH,CL,JO,KR,OM,SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)",
+    "other": "35.9¢/kg + 10%",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9904.17.17-9904.17.48. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Articles containing over 10 percent by dry weight of sugar described in additional U.S. note 3 to chapter 17:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.20.54.00",
+    "indent": "5",
+    "description": "Described in additional U.S. note 8 to chapter 17 and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "10%",
+    "special": "Free (A*,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.20.58.00",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "30.5¢/kg + 8.5%",
+    "special": "Free (BH,CL,JO,KR,OM,SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)",
+    "other": "35.9¢/kg + 10%",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9904.17.49-9904.17.65. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.20.90.00",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "8.5%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2101.30.00.00",
+    "indent": "1",
+    "description": "Roasted chicory and other roasted coffee substitutes and extracts, essences and concentrates thereof",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "2.1¢/kg",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "6.6¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2102",
+    "indent": "0",
+    "description": "Yeasts (active or inactive); other single-cell microorganisms, dead (but not including vaccines of heading 3002); prepared baking powders:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2102.10.00.00",
+    "indent": "1",
+    "description": "Active yeasts",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6.4%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2102.20",
+    "indent": "1",
+    "description": "Inactive yeasts; other single-cell microorganisms, dead:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2102.20.20.00",
+    "indent": "2",
+    "description": "Yeasts (except dried brewers' yeast)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6.4%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2102.20.40.00",
+    "indent": "2",
+    "description": "Dried brewers' yeast, crude",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "Free",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2102.20.60.00",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.2%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2102.30.00.00",
+    "indent": "1",
+    "description": "Prepared baking powders",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2103",
+    "indent": "0",
+    "description": "Sauces and preparations therefore; mixed condiments and mixed seasonings; mustard flour and meal and prepared mustard:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2103.10.00.00",
+    "indent": "1",
+    "description": "Soy sauce",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,JP,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2103.20",
+    "indent": "1",
+    "description": "Tomato ketchup and other tomato sauces:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2103.20.20.00",
+    "indent": "2",
+    "description": "Tomato ketchup",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2103.20.40",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "11.6%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "50%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2103.20.40.20",
+    "indent": "3",
+    "description": "In containers holding less than 1.4 kg",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2103.20.40.40",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2103.30",
+    "indent": "1",
+    "description": "Mustard flour and meal and prepared mustard:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2103.30.20.00",
+    "indent": "2",
+    "description": "Mustard flour and meal",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "22¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2103.30.40.00",
+    "indent": "2",
+    "description": "Prepared mustard",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "2.8¢/kg",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "22¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2103.90",
+    "indent": "1",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2103.90.20.00",
+    "indent": "2",
+    "description": "Sauces derived or prepared from fish",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2103.90.40.00",
+    "indent": "2",
+    "description": "Nonalcoholic preparations of yeast extract (other than sauces)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.2%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,JP,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Mixed condiments and mixed seasonings:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Mixed condiments and mixed seasonings described in additional U.S. note 3 to this chapter:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2103.90.72.00",
+    "indent": "5",
+    "description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "7.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG) 3.75% (JP)",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2103.90.74.00",
+    "indent": "5",
+    "description": "Described in additional U.S. note 4 to this chapter and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "7.5%",
+    "special": "Free (A,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2103.90.78.00",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "30.5¢/kg + 6.4%",
+    "special": "Free (BH,CL,JO,KR,OM,SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)",
+    "other": "35.9¢/kg + 7.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9904.21.01-9904.21.09. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2103.90.80.00",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6.4%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2103.90.90",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "6.4%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2103.90.90.20",
+    "indent": "4",
+    "description": "Mayonnaise",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2103.90.90.40",
+    "indent": "4",
+    "description": "Other salad dressings",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Tomato-based preparations for sauces:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2103.90.90.51",
+    "indent": "5",
+    "description": "In containers holding less than 1.4 kg",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2103.90.90.59",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2103.90.90.91",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2104",
+    "indent": "0",
+    "description": "Soups and broths and preparations therefor; homogenized composite food preparations:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2104.10.00",
+    "indent": "1",
+    "description": "Soups and broths and preparations therefor",
+    "superior": null,
+    "units": [],
+    "general": "3.2%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2104.10.00.20",
+    "indent": "2",
+    "description": "Dried",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2104.10.00.40",
+    "indent": "3",
+    "description": "Based on fish or other seafood",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2104.10.00.60",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2104.20",
+    "indent": "1",
+    "description": "Homogenized composite food preparations:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2104.20.10.00",
+    "indent": "2",
+    "description": "Put up for retail sale as food suitable for infants or for dietetic purposes",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "2.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2104.20.50.00",
+    "indent": "2",
+    "description": "Put up for retail sale as food suitable for young children",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6.4%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2105.00",
+    "indent": "0",
+    "description": "Ice cream and other edible ice, whether or not containing cocoa:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Ice cream:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2105.00.05.00",
+    "indent": "2",
+    "description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "20%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG) 10% (JP)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2105.00.10.00",
+    "indent": "2",
+    "description": "Described in additional U.S. note 5 to this chapter and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg",
+      "liters"
+    ],
+    "general": "20%",
+    "special": "Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2105.00.20.00",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg",
+      "liters"
+    ],
+    "general": "50.2¢/kg + 17%",
+    "special": "Free (BH,CL,CO,JO,KR,MA,OM,P,PE,SG) See 9822.04.05 (AU) See 9823.01.01-9823.01.07 (S+) See 9908.21.01 (IL) See 9919.21.10, 9919.21.11-9919.21.12 (PA)",
+    "other": "59¢/kg +20%",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9904.21.10-9904.21.18. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Dairy products described in additional U.S. note 1 to chapter 4:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2105.00.25.00",
+    "indent": "3",
+    "description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "20%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG) 10% (JP)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2105.00.30.00",
+    "indent": "3",
+    "description": "Described in additional U.S. note 10 to chapter 4 and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg",
+      "kg cmsc"
+    ],
+    "general": "20%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2105.00.40.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg",
+      "kg cmsc"
+    ],
+    "general": "50.2¢/kg + 17%",
+    "special": "Free (BH,CL,JO,KR,MA,OM,P,PA,PE,SG) See 9822.04.25 (AU) See 9823.08.01-9823.08.38 (S+) See 9918.04.60-9918.04.80 (CO)",
+    "other": "59¢/kg + 20%",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9904.04.50-9904.05.01. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2105.00.50.00",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "17%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106",
+    "indent": "0",
+    "description": "Food preparations not elsewhere specified or included:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.10.00.00",
+    "indent": "1",
+    "description": "Protein concentrates and textured protein substances",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6.4%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90",
+    "indent": "1",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Products derived from the dried milk, dried buttermilk or dried whey of subheadings 0402.10, 0402.21.05, 0402.21.25, 0402.21.30, 0402.21.50, 0403.90.41, 0403.90.45, 0404.10.50 or 0404.10.90, which contain not over 5.5 percent by weight of butterfat and which are mixed with other ingredients including, but not limited to sugar, if such mixtures contain over 16 percent milk solids by weight, are capable of being further processed or mixed with similar ingredients and are not prepared for marketing to the retail consumer in the identical form and package in which imported:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.03.00",
+    "indent": "3",
+    "description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "2.9¢/kg",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "12.1¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.06.00",
+    "indent": "3",
+    "description": "Described in additional U.S. note 10 to chapter 4 and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg",
+      "kg cmsc"
+    ],
+    "general": "2.9¢/kg",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "12.1¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.09.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg",
+      "kg cmsc"
+    ],
+    "general": "86.2¢/kg",
+    "special": "Free (BH,CL,JO,KR,MA,OM,P,PA,PE,SG) See 9822.04.25 (AU) See 9823.08.01-9823.08.38 (S+) See 9918.04.60-9918.04.80 (CO)",
+    "other": "$1.014/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9904.04.50-9904.05.01. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Compound alcoholic preparations of an alcoholic strength by volume exceeding 0.5 percent vol., of a kind used for the manufacture of beverages:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.12.00",
+    "indent": "3",
+    "description": "Containing not over 20 percent of alcohol by weight",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "4.2¢/kg + 1.9%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "44¢/kg + 25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general",
+          "special",
+          "other"
+        ],
+        "value": "Imports under this subheading may be subject to Federal Excise Tax (26 U.S.C. 5001 or 26 U.S.C. 5041).  ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.15.00",
+    "indent": "3",
+    "description": "Containing over 20 percent but not over 50 percent of alcohol by weight",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "8.4¢/kg + 1.9%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "88¢/kg + 25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general",
+          "special",
+          "other"
+        ],
+        "value": "Imports under this subheading may be subject to Federal Excise Tax (26 U.S.C. 5001 or 26 U.S.C. 5041). ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.18.00",
+    "indent": "3",
+    "description": "Containing over 50 percent of alcohol by weight",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "17¢/kg + 1.9%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "$1.76/kg + 25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general",
+          "special",
+          "other"
+        ],
+        "value": "Imports under this subheading may be subject to Federal Excise Tax (26 U.S.C. 5001 or 26 U.S.C. 5041). ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Butter substitutes, whether in liquid or solid state, containing over 15 percent by weight of butter or other fats or oils derived from milk:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Containing over 10 percent by weight of milk solids:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Butter substitutes containing over 45 percent by weight of butterfat:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.22.00",
+    "indent": "5",
+    "description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "15.4¢/kg",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "31¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.24.00",
+    "indent": "5",
+    "description": "Described in additional U.S. note 14 to chapter 4 and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg",
+      "kg cmsc"
+    ],
+    "general": "15.4¢/kg",
+    "special": "Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "31¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.26.00",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg",
+      "kg cmsc"
+    ],
+    "general": "$1.996/kg",
+    "special": "Free (BH,CL,CO,JO,KR,MA,OM,P,PA,PE,SG) See 9822.04.10 (AU) See 9823.03.01-9823.03.12 (S+)",
+    "other": "$2.348/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9904.05.37-9904.05.47. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.28.00",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg",
+      "kg cmsc"
+    ],
+    "general": "13.1¢/kg",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "31¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Butter substitutes containing over 45 percent by weight of butterfat:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.32.00",
+    "indent": "5",
+    "description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "15.4¢/kg",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "31¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.34.00",
+    "indent": "5",
+    "description": "Described in additional U.S. note 14 to chapter 4 and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg",
+      "kg cmsc"
+    ],
+    "general": "15.4¢/kg",
+    "special": "Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "31¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.36.00",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg",
+      "kg cmsc"
+    ],
+    "general": "$1.996/kg",
+    "special": "Free (BH,CL,CO,JO,KR,MA,OM,P,PA,PE,SG) See 9822.04.10 (AU) See 9823.03.01-9823.03.12 (S+)",
+    "other": "$2.348/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9904.05.37-9904.05.47. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.38.00",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg",
+      "kg cmsc"
+    ],
+    "general": "13.1¢/kg",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "31¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.39.00",
+    "indent": "2",
+    "description": "Artificially sweetened cough drops",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "30%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Syrups derived from cane or beet sugar, containing added coloring but not added flavoring matter:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.42.00",
+    "indent": "3",
+    "description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.6606¢/kg of total sugars",
+    "special": "Free (A*,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "6.58170¢/kg of total sugars",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.44.00",
+    "indent": "3",
+    "description": "Described in additional U.S. note 5 to chapter 17 andentered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.6606¢/kg of total sugars",
+    "special": "Free (A*,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG) See 9822.05.15 (P+)",
+    "other": "6.58170¢/kg of total sugars",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.46.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "35.74¢/kg",
+    "special": "Free (BH,CL,JO,KR,OM,SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)",
+    "other": "42.05¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9904.17.08-9904.17.16. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Fruit or vegetable juices, fortified with vitamins or minerals:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.48.00",
+    "indent": "3",
+    "description": "Orange juice",
+    "superior": null,
+    "units": [
+      "liters"
+    ],
+    "general": "7.85¢/liter",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "18¢/liter",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.52.00",
+    "indent": "4",
+    "description": "Juice of any single fruit or vegetable",
+    "superior": null,
+    "units": [
+      "liters"
+    ],
+    "general": "The rate applicable to the natural juice in heading 2009",
+    "special": "Free (AU,BH,CL,CO,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)The rate applicable to the natural juice in heading 2009 (A*,D)",
+    "other": "The rate applicable to the natural juice in heading 2009",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15, 9903.88.25, 9903.88.26, 9903.88.27 and 9903.88.28. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.54.00",
+    "indent": "4",
+    "description": "Mixtures of juices",
+    "superior": null,
+    "units": [
+      "liters"
+    ],
+    "general": "The rate applicable to the natural juice in heading 2009",
+    "special": "Free (AU,BH,CL,CO,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)The rate applicable to the natural juice in heading 2009 (A*,D)",
+    "other": "The rate applicable to the natural juice in heading 2009",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15, 9903.88.25, 9903.88.26, 9903.88.27 and 9903.88.28. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.58",
+    "indent": "3",
+    "description": "Of gelatin",
+    "superior": null,
+    "units": [],
+    "general": "4.8%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Put up for retail sale:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.58.30",
+    "indent": "5",
+    "description": "Containing sugar derived from sugar cane or sugar beets",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.58.50",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.58.70",
+    "indent": "5",
+    "description": "Containing sugar derived from sugar cane or sugar beets",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.58.90",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Containing over 10 percent by weight of milk solids",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.62.00",
+    "indent": "5",
+    "description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "10%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "5",
+    "description": "Other, dairy products described in additional U.S. note 1 to chapter 4:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.64.00",
+    "indent": "6",
+    "description": "Described in additional U.S. note 10 to chapter 4 and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg",
+      "kg cmsc"
+    ],
+    "general": "10%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.66.00",
+    "indent": "6",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg",
+      "kg cmsc"
+    ],
+    "general": "70.4¢/kg + 8.5%",
+    "special": "Free (BH,CL,JO,KR,MA,OM,P,PA,PE,SG) See 9822.04.25 (AU) See 9823.08.01-9823.08.38 (S+) See 9918.04.60, 9918.04.67 (CO)",
+    "other": "82.8¢/kg + 10%",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9904.04.50-9904.05.01. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "5",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "6",
+    "description": "Blended syrups described in additional U.S. note 4 to chapter 17:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.68.00",
+    "indent": "7",
+    "description": "Described in additional U.S. note 9 to chapter 17 and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg",
+      "kg cmsc"
+    ],
+    "general": "10%",
+    "special": "Free (CO,KR,OM,PA,PE,S)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.72.00",
+    "indent": "7",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg",
+      "kg cmsc"
+    ],
+    "general": "70.4¢/kg + 8.5%",
+    "special": "Free (BH,CL,JO,KR,OM,SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)",
+    "other": "82.8¢/kg + 10%",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9904.17.66-9904.17.84. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "6",
+    "description": "Articles containing over 65 percent by dry weight of sugar described in additional U.S. note 2 to chapter 17:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.74.00",
+    "indent": "7",
+    "description": "Described in additional U.S. note 7 to chapter 17 and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg",
+      "kg cmsc"
+    ],
+    "general": "10%",
+    "special": "Free (CO,KR,OM,PA,PE,S)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.76.00",
+    "indent": "7",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg",
+      "kg cmsc"
+    ],
+    "general": "70.4¢/kg + 8.5%",
+    "special": "Free (BH,CL,JO,KR,OM,SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)",
+    "other": "82.8¢/kg + 10%",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9904.17.17-9904.17.48. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "6",
+    "description": "Articles containing over 10 percent by dry weight of sugar described in additional U.S. note 3 to chapter 17:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.78.00",
+    "indent": "7",
+    "description": "Described in additional U.S. note 8 to chapter 17 and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg",
+      "kg cmsc"
+    ],
+    "general": "10%",
+    "special": "Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.80.00",
+    "indent": "7",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg",
+      "kg cmsc"
+    ],
+    "general": "70.4¢/kg + 8.5%",
+    "special": "Free (BH,CL,JO,KR,OM,SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)",
+    "other": "82.8¢/kg + 10%",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9904.17.49-9904.17.65. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.82.00",
+    "indent": "6",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg",
+      "kg cmsc"
+    ],
+    "general": "6.4%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.83.00",
+    "indent": "5",
+    "description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "10%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "5",
+    "description": "Other, dairy products described in additional U.S. note 1 to chapter 4:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.85.00",
+    "indent": "6",
+    "description": "Described in additional U.S. note 10 to chapter 4 and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "10%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.87.00",
+    "indent": "6",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "28.8¢/kg + 8.5%",
+    "special": "Free (BH,CL,JO,KR,MA,OM,P,PA,PE,SG) See 9822.04.25 (AU) See 9823.08.01-9823.08.38 (S+) See 9918.04.60, 9918.04.79 (CO)",
+    "other": "33.9¢/kg +10%",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9904.04.50-9904.05.01. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "5",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "6",
+    "description": "Blended syrups described in additional U.S. note 4 to chapter 17:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.89.00",
+    "indent": "7",
+    "description": "Described in additional U.S. note 9 to chapter 17 and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "10%",
+    "special": "Free (CO,KR,OM,PA,PE,S)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.91.00",
+    "indent": "7",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "28.8¢/kg + 8.5%",
+    "special": "Free (BH,CL,JO,KR,OM,SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)",
+    "other": "33.9¢/kg + 10%",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9904.17.66-9904.17.84. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "6",
+    "description": "Articles containing over 65 percent by dry weight of sugar described in additional U.S. note 2 to chapter 17:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.92.00",
+    "indent": "7",
+    "description": "Described in additional U.S. note 7 to chapter 17 and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "10%",
+    "special": "Free (CO,KR,OM,PA,PE,S)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.94.00",
+    "indent": "7",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "28.8¢/kg + 8.5%",
+    "special": "Free (BH,CL,JO,KR,OM,SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)",
+    "other": "33.9¢/kg + 10%",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9904.17.17-9904.17.48. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "6",
+    "description": "Articles containing over 10 percent by dry weight of sugar described in additional U.S. note 3 to chapter 17:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.95.00",
+    "indent": "7",
+    "description": "Described in additional U.S. note 8 to chapter 17 and entered pursuant to its provisions",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "10%",
+    "special": "Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.97.00",
+    "indent": "7",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "28.8¢/kg + 8.5%",
+    "special": "Free (BH,CL,JO,KR,OM,SG) See 9822.05.20 (P+) See 9822.06.10 (PE) See 9822.08.01 (CO) See 9822.09.17 (PA) See 9823.10.01-9823.10.45 (S+) See 9822.03.01(MA)",
+    "other": "33.9¢/kg + 10%",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9904.17.49-9904.17.65. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.19.21 and 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.99",
+    "indent": "6",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "6.4%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.19.22 and  9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "7",
+    "description": "Preparations for the manufacture of beverages:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.99.71",
+    "indent": "8",
+    "description": "Containing high-intensity sweeteners (e.g., aspartame and/or saccharin",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.99.72",
+    "indent": "8",
+    "description": "Containing sugar derived from sugar cane and/or sugar beets",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.99.73",
+    "indent": "8",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.99.75",
+    "indent": "7",
+    "description": "Non-dairy coffee whiteners",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.99.80",
+    "indent": "7",
+    "description": "Other cream or milk substitutes",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.99.85",
+    "indent": "7",
+    "description": "Confectionery (including gum) containing synthetic sweetening agents (e.g., saccharin) instead of sugar",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.99.87",
+    "indent": "7",
+    "description": "Herbal teas and herbal infusions comprising mixed herbs",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.99.88",
+    "indent": "7",
+    "description": "Flavored honey",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "7",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.99.90",
+    "indent": "8",
+    "description": "Canned",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "8",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.99.95",
+    "indent": "9",
+    "description": "Frozen",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "9",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.99.97",
+    "indent": "10",
+    "description": "Containing sugar derived from sugar cane and/or sugar beets",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "2106.90.99.98",
+    "indent": "10",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  }
+]

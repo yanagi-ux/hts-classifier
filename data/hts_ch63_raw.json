@@ -1,0 +1,6654 @@
+[
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "I. OTHER MADE UP TEXTILE ARTICLES",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6301",
+    "indent": "0",
+    "description": "Blankets and traveling rugs:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6301.10.00.00",
+    "indent": "1",
+    "description": "Electric blankets (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "11.4%",
+    "special": "Free (AU,BH, CL,CO,E*,IL,JO, KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "77.5%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6301.20.00",
+    "indent": "1",
+    "description": "Blankets (other than electric blankets) and traveling rugs, of wool or fine animal hair",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "$1.10/kg + 60%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6301.20.00.10",
+    "indent": "2",
+    "description": "Not over 3 meters in length (464)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6301.20.00.20",
+    "indent": "2",
+    "description": "Over 3 meters in length (410)",
+    "superior": null,
+    "units": [
+      "m<sup>2</sup>",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6301.30.00",
+    "indent": "1",
+    "description": "Blankets (other than electric blankets) and traveling rugs, of cotton",
+    "superior": null,
+    "units": [],
+    "general": "8.4%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.08. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6301.30.00.10",
+    "indent": "2",
+    "description": "Woven (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6301.30.00.20",
+    "indent": "2",
+    "description": "Other (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6301.40.00",
+    "indent": "1",
+    "description": "Blankets (other than electric blankets) and traveling rugs, of synthetic fibers",
+    "superior": null,
+    "units": [],
+    "general": "8.5%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "77.5%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6301.40.00.10",
+    "indent": "2",
+    "description": "Woven (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6301.40.00.20",
+    "indent": "2",
+    "description": "Other (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6301.90.00",
+    "indent": "1",
+    "description": "Other blankets and traveling rugs",
+    "superior": null,
+    "units": [],
+    "general": "7.2%",
+    "special": "Free (AU,BH, CL,CO,E*,IL, JO,KR, MA,NP,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6301.90.00.10",
+    "indent": "2",
+    "description": "Of artificial fibers (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6301.90.00.20",
+    "indent": "3",
+    "description": "Containing 85 percent or more by weight of silk or silk waste",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6301.90.00.30",
+    "indent": "3",
+    "description": "Other (899)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302",
+    "indent": "0",
+    "description": "Bed linen, table linen, toilet linen and kitchen linen:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.10.00",
+    "indent": "1",
+    "description": "Bed linen, knitted or crocheted",
+    "superior": null,
+    "units": [],
+    "general": "6%",
+    "special": "Free (AU,BH, CL,CO,E*,IL,JO, KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.08. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Of cotton:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.10.00.05",
+    "indent": "3",
+    "description": "Pillowcases and bolster cases (362)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.10.00.08",
+    "indent": "3",
+    "description": "Sheets (362)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.10.00.15",
+    "indent": "3",
+    "description": "Other (362)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.10.00.20",
+    "indent": "2",
+    "description": "Other (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9903.88.69. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Other bed linen, printed:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.21",
+    "indent": "2",
+    "description": "Of cotton:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Containing any embroidery, lace, braid, edging, trimming, piping or applique work:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.21.30",
+    "indent": "4",
+    "description": "Napped",
+    "superior": null,
+    "units": [],
+    "general": "11.9%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.21.30.10",
+    "indent": "5",
+    "description": "Pillowcases, other than bolster cases (360)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.21.30.20",
+    "indent": "5",
+    "description": "Sheets (361)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.21.30.30",
+    "indent": "5",
+    "description": "Bolster cases (360)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.21.30.40",
+    "indent": "5",
+    "description": "Pillowcovers (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.21.30.50",
+    "indent": "5",
+    "description": "Other (362)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.21.50",
+    "indent": "4",
+    "description": "Not napped",
+    "superior": null,
+    "units": [],
+    "general": "20.9%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.21.50.10",
+    "indent": "5",
+    "description": "Pillowcases, other than bolster cases (360)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.21.50.20",
+    "indent": "5",
+    "description": "Sheets (361)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.21.50.30",
+    "indent": "5",
+    "description": "Bolster cases (360)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.21.50.40",
+    "indent": "5",
+    "description": "Pillowcovers (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.21.50.50",
+    "indent": "5",
+    "description": "Other (362)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.21.70",
+    "indent": "4",
+    "description": "Napped",
+    "superior": null,
+    "units": [],
+    "general": "2.5%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.21.70.10",
+    "indent": "5",
+    "description": "Pillowcases, other than bolster cases (360)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.21.70.20",
+    "indent": "5",
+    "description": "Sheets (361)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.21.70.30",
+    "indent": "5",
+    "description": "Bolster cases (360)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.21.70.40",
+    "indent": "5",
+    "description": "Pillow covers (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.21.70.50",
+    "indent": "5",
+    "description": "Other (362)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.21.90",
+    "indent": "4",
+    "description": "Not napped",
+    "superior": null,
+    "units": [],
+    "general": "6.7%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See  9903.88.15. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.08. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.21.90.10",
+    "indent": "5",
+    "description": "Pillowcases, other than bolster cases (360)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.21.90.20",
+    "indent": "5",
+    "description": "Sheets (361)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.21.90.30",
+    "indent": "5",
+    "description": "Bolster cases (360)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.21.90.40",
+    "indent": "5",
+    "description": "Pillow covers (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.21.90.50",
+    "indent": "5",
+    "description": "Other (362)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.22",
+    "indent": "2",
+    "description": "Of man-made fibers:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.22.10",
+    "indent": "3",
+    "description": "Containing any embroidery, lace, braid, edging, trimming, piping or applique work",
+    "superior": null,
+    "units": [],
+    "general": "14.9%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Pillowcases, other than bolster cases:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.22.10.10",
+    "indent": "5",
+    "description": "Napped (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.22.10.20",
+    "indent": "5",
+    "description": "Not napped (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Sheets:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.22.10.30",
+    "indent": "5",
+    "description": "Napped (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.22.10.40",
+    "indent": "5",
+    "description": "Not napped (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.22.10.50",
+    "indent": "5",
+    "description": "Bolster cases (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.22.10.60",
+    "indent": "5",
+    "description": "Other (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.22.20",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "11.4%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "77.5%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.22.20.10",
+    "indent": "4",
+    "description": "Pillow cases (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.22.20.20",
+    "indent": "4",
+    "description": "Sheets (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.22.20.30",
+    "indent": "4",
+    "description": "Other (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.29.00",
+    "indent": "2",
+    "description": "Of other textile materials",
+    "superior": null,
+    "units": [],
+    "general": "4.5%",
+    "special": "Free (AU,BH, CL,CO,E*, IL, JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.29.00.10",
+    "indent": "3",
+    "description": "Containing 85 percent or more by weight of silk or silk waste",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.29.00.20",
+    "indent": "3",
+    "description": "Other (899)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Other bed linen:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.31",
+    "indent": "2",
+    "description": "Of cotton:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Containing any embroidery, lace, braid, edging, trimming, piping or applique work:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.31.30",
+    "indent": "4",
+    "description": "Napped",
+    "superior": null,
+    "units": [],
+    "general": "11.9%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.31.30.10",
+    "indent": "5",
+    "description": "Pillowcases, other than bolster cases (360)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.31.30.20",
+    "indent": "5",
+    "description": "Sheets (361)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.31.30.30",
+    "indent": "5",
+    "description": "Bolster cases (360)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.31.30.40",
+    "indent": "5",
+    "description": "Pillowcovers (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.31.30.50",
+    "indent": "5",
+    "description": "Other (362)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.31.50",
+    "indent": "4",
+    "description": "Not napped",
+    "superior": null,
+    "units": [],
+    "general": "20.9%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.31.50.10",
+    "indent": "5",
+    "description": "Pillowcases, other than bolster cases (360)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.31.50.20",
+    "indent": "5",
+    "description": "Sheets (361)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.31.50.30",
+    "indent": "5",
+    "description": "Bolster cases (360)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.31.50.40",
+    "indent": "5",
+    "description": "Pillowcovers (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.31.50.50",
+    "indent": "5",
+    "description": "Other (362)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.31.70",
+    "indent": "4",
+    "description": "Napped",
+    "superior": null,
+    "units": [],
+    "general": "3.8%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.31.70.10",
+    "indent": "5",
+    "description": "Pillowcases, other than bolster cases (360)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.31.70.20",
+    "indent": "5",
+    "description": "Sheets (361)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.31.70.30",
+    "indent": "5",
+    "description": "Bolster cases (360)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.31.70.40",
+    "indent": "5",
+    "description": "Pillowcovers (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.31.70.50",
+    "indent": "5",
+    "description": "Other (362)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.31.90",
+    "indent": "4",
+    "description": "Not napped",
+    "superior": null,
+    "units": [],
+    "general": "6.7%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.08. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.31.90.10",
+    "indent": "5",
+    "description": "Pillowcases, other than bolster cases (360)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.31.90.20",
+    "indent": "5",
+    "description": "Sheets (361)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.31.90.30",
+    "indent": "5",
+    "description": "Bolster cases (360)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.31.90.40",
+    "indent": "5",
+    "description": "Pillowcovers (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9903.88.69. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.31.90.50",
+    "indent": "5",
+    "description": "Other (362)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.32",
+    "indent": "2",
+    "description": "Of man-made fibers:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.32.10",
+    "indent": "3",
+    "description": "Containing any embroidery, lace, braid, edging, trimming, piping or applique work",
+    "superior": null,
+    "units": [],
+    "general": "14.9%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Pillowcases, other than bolster cases:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.32.10.10",
+    "indent": "5",
+    "description": "Napped (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.32.10.20",
+    "indent": "5",
+    "description": "Not napped (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Sheets:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.32.10.30",
+    "indent": "5",
+    "description": "Napped (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.32.10.40",
+    "indent": "5",
+    "description": "Not napped (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.32.10.50",
+    "indent": "5",
+    "description": "Bolster cases (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.32.10.60",
+    "indent": "5",
+    "description": "Other (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.32.20",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "11.4%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "77.5%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Pillowcases, other than bolster cases:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.32.20.10",
+    "indent": "5",
+    "description": "Napped (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.32.20.20",
+    "indent": "5",
+    "description": "Not napped (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Sheets:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.32.20.30",
+    "indent": "5",
+    "description": "Napped (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.32.20.40",
+    "indent": "5",
+    "description": "Not napped (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.32.20.50",
+    "indent": "5",
+    "description": "Bolster cases (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.32.20.60",
+    "indent": "5",
+    "description": "Other (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.39.00",
+    "indent": "2",
+    "description": "Of other textile materials",
+    "superior": null,
+    "units": [],
+    "general": "4.3%",
+    "special": "Free (AU,BH, CL,CO,E*,IL, JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.39.00.10",
+    "indent": "3",
+    "description": "Of wool or fine animal hair (469)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.39.00.20",
+    "indent": "4",
+    "description": "Containing 85 percent or more by weight of silk or silk waste",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.39.00.30",
+    "indent": "4",
+    "description": "Other (899)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.40",
+    "indent": "1",
+    "description": "Table linen, knitted or crocheted:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.40.10.00",
+    "indent": "2",
+    "description": "Of vegetable fibers (except cotton) (899)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "6.4%",
+    "special": "Free (AU,BH, CL,CO,E*,IL,JO, KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.40.20",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "6.8%",
+    "special": "Free (AU,BH, CL,CO,E*,IL,JO, KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.40.20.10",
+    "indent": "3",
+    "description": "Of cotton (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.40.20.20",
+    "indent": "3",
+    "description": "Other (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Other table linen:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.51",
+    "indent": "2",
+    "description": "Of cotton:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Tablecloths and napkins:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.51.10.00",
+    "indent": "4",
+    "description": "Damask (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "6.1%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.08. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.51.20.00",
+    "indent": "5",
+    "description": "Plain woven (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "4.8%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.51.30.00",
+    "indent": "5",
+    "description": "Other (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "5.8%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.51.40.00",
+    "indent": "3",
+    "description": "Other (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "6.3%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.53.00",
+    "indent": "2",
+    "description": "Of man-made fibers",
+    "superior": null,
+    "units": [],
+    "general": "11.3%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Tablecloths and napkins:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.53.00.10",
+    "indent": "4",
+    "description": "Damask (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.53.00.20",
+    "indent": "4",
+    "description": "Other (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.53.00.30",
+    "indent": "3",
+    "description": "Other (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.59",
+    "indent": "2",
+    "description": "Of other textile materials:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Of flax:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.59.10",
+    "indent": "4",
+    "description": "Tablecloths and napkins",
+    "superior": null,
+    "units": [],
+    "general": "5.1%",
+    "special": "Free (AU,BH, CL,CO,E*,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.59.10.10",
+    "indent": "5",
+    "description": "Damask (899)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.59.10.20",
+    "indent": "5",
+    "description": "Other (899)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.59.20.00",
+    "indent": "4",
+    "description": "Other (899)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.59.30",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "8.8%",
+    "special": "Free (AU,BH, CL,CO,E*,IL, JO,KR,MA,OM,P,PA, PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.59.30.10",
+    "indent": "4",
+    "description": "Containing 85 percent or more by weight of silk or silk waste",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.59.30.20",
+    "indent": "4",
+    "description": "Other (899)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.60.00",
+    "indent": "1",
+    "description": "Toilet linen and kitchen linen, of terry toweling or similar terry fabrics, of cotton",
+    "superior": null,
+    "units": [],
+    "general": "9.1%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Towels:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.60.00.10",
+    "indent": "3",
+    "description": "Dish (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.60.00.20",
+    "indent": "3",
+    "description": "Other (363)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.60.00.30",
+    "indent": "2",
+    "description": "Other (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.91.00",
+    "indent": "2",
+    "description": "Of cotton",
+    "superior": null,
+    "units": [],
+    "general": "9.2%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9817.57.01 and 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Of pile or tufted construction:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Towels:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.91.00.05",
+    "indent": "5",
+    "description": "Dish (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.91.00.15",
+    "indent": "5",
+    "description": "Other (363)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.91.00.25",
+    "indent": "4",
+    "description": "Other (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Towels:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.91.00.35",
+    "indent": "5",
+    "description": "Jacquard figured (363)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "5",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.91.00.45",
+    "indent": "6",
+    "description": "Dish (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.91.00.50",
+    "indent": "6",
+    "description": "Other (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.91.00.60",
+    "indent": "4",
+    "description": "Other (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.93",
+    "indent": "2",
+    "description": "Of man-made fibers:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.93.10.00",
+    "indent": "3",
+    "description": "Pile or tufted construction (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "6.2%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "78%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9817.57.01. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.93.20.00",
+    "indent": "3",
+    "description": "Other (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "9.9%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9817.57.01. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.99",
+    "indent": "2",
+    "description": "Of other textile materials:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.99.10.00",
+    "indent": "3",
+    "description": "Containing 85 percent or more by weight of silk or silk waste",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "2.7%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.99.15",
+    "indent": "3",
+    "description": "Of flax",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.99.15.10",
+    "indent": "4",
+    "description": "Towels (863)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.99.15.20",
+    "indent": "4",
+    "description": "Other (899)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6302.99.20.00",
+    "indent": "3",
+    "description": "Other (899)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "8.4%",
+    "special": "Free (AU,BH, CL,CO,E*,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9817.57.01 and 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6303",
+    "indent": "0",
+    "description": "Curtains (including drapes) and interior blinds; curtain or bed valances:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Knitted or crocheted:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6303.12.00",
+    "indent": "2",
+    "description": "Of synthetic fibers",
+    "superior": null,
+    "units": [],
+    "general": "11.3%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6303.12.00.10",
+    "indent": "3",
+    "description": "Window shades and window blinds (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6303.12.00.90",
+    "indent": "3",
+    "description": "Other (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6303.19",
+    "indent": "2",
+    "description": "Of other textile materials:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6303.19.11.00",
+    "indent": "3",
+    "description": "Of cotton (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "10.3%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6303.19.21",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "6.4%",
+    "special": "Free (AU,BH, CL,CO,E*,IL,JO, KR,MA,OM,P, PA, PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6303.19.21.10",
+    "indent": "4",
+    "description": "Of artificial fibers (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6303.19.21.20",
+    "indent": "4",
+    "description": "Other (899)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6303.91.00",
+    "indent": "2",
+    "description": "Of cotton",
+    "superior": null,
+    "units": [],
+    "general": "10.3%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6303.91.00.10",
+    "indent": "3",
+    "description": "Window curtains (including drapes) and window valances (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6303.91.00.20",
+    "indent": "3",
+    "description": "Other (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6303.92",
+    "indent": "2",
+    "description": "Of synthetic fibers:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6303.92.10.00",
+    "indent": "3",
+    "description": "Made up from fabrics described in subheading 5407.61.11, 5407.61.21 or 5407.61.91 (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "11.3%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6303.92.20",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "11.3%",
+    "special": "Free (AU,BH,CL,CO,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6303.92.20.10",
+    "indent": "4",
+    "description": "Window curtains (including drapes) and window valances (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6303.92.20.30",
+    "indent": "5",
+    "description": "Window shades and window blinds (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6303.92.20.50",
+    "indent": "5",
+    "description": "Other (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6303.99.00",
+    "indent": "2",
+    "description": "Of other textile materials",
+    "superior": null,
+    "units": [],
+    "general": "11.3%",
+    "special": "Free (AU,BH, CL,CO,E*,IL, JO,KR,MA,OM,P,PA, PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9817.57.01 and 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6303.99.00.10",
+    "indent": "3",
+    "description": "Of artificial fibers (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6303.99.00.30",
+    "indent": "4",
+    "description": "Containing 85 percent or more by weight of silk or silk waste",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6303.99.00.60",
+    "indent": "4",
+    "description": "Other (899)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304",
+    "indent": "0",
+    "description": "Other furnishing articles, excluding those of heading 9404:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Bedspreads:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.11",
+    "indent": "2",
+    "description": "Knitted or crocheted:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.11.10.00",
+    "indent": "3",
+    "description": "Of cotton (362)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "12%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.11.20.00",
+    "indent": "3",
+    "description": "Of man-made fibers (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "6.5%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "77.5%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.11.30.00",
+    "indent": "3",
+    "description": "Other (899)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "5.9%",
+    "special": "Free (AU,BH, CL,CO,E*,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.19",
+    "indent": "2",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Of cotton:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.19.05.00",
+    "indent": "4",
+    "description": "Containing any embroidery, lace, braid, edging, trimming, piping or applique work (362)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "12%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.19.10.00",
+    "indent": "4",
+    "description": "Other (362)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "4.4%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Of man-made fibers:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.19.15.00",
+    "indent": "4",
+    "description": "Containing any embroidery, lace, braid, edging, trimming, piping or applique work (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "14.9%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.19.20.00",
+    "indent": "4",
+    "description": "Other (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "6.5%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "77.5%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.19.30",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "6.3%",
+    "special": "Free (AU,BH, CL,CO,E*,IL, JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.19.30.30",
+    "indent": "4",
+    "description": "Containing 85 percent or more by weight of silk or silk waste",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.19.30.40",
+    "indent": "5",
+    "description": "Of wool or fine animal hair (469)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.19.30.60",
+    "indent": "5",
+    "description": "Other (899)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.20.00",
+    "indent": "1",
+    "description": "Bed nets specified in subheading note 1 to this chapter",
+    "superior": null,
+    "units": [],
+    "general": "5.8%",
+    "special": "Free (AU,BH, CL,CO,E*,IL, JO,KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.20.00.20",
+    "indent": "2",
+    "description": "Of cotton (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.20.00.40",
+    "indent": "2",
+    "description": "Of man-made fibers (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.20.00.50",
+    "indent": "3",
+    "description": "Of wool or fine animal hair (469)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.20.00.60",
+    "indent": "4",
+    "description": "Containing 85 percent or more by weight of silk or silk waste",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.20.00.70",
+    "indent": "4",
+    "description": "Other (899)",
+    "superior": null,
+    "units": [
+      "doz.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.91.01",
+    "indent": "2",
+    "description": "Knitted or crocheted",
+    "superior": null,
+    "units": [],
+    "general": "5.8%",
+    "special": "Free (AU,BH, CL,CO,E*,IL, JO,KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.91.01.20",
+    "indent": "3",
+    "description": "Of cotton (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.91.01.40",
+    "indent": "3",
+    "description": "Of man-made fibers (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.91.01.50",
+    "indent": "4",
+    "description": "Of wool or fine animal hair (469)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.91.01.60",
+    "indent": "5",
+    "description": "Containing 85 percent or more by weight of silk or silk waste",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.91.01.70",
+    "indent": "5",
+    "description": "Other (899)",
+    "superior": null,
+    "units": [
+      "doz.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [
+      {
+        "columns": [],
+        "value": "?",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.92.00.00",
+    "indent": "2",
+    "description": "Not knitted or crocheted, of cotton (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "6.3%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9817.57.01 and 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.93.00.00",
+    "indent": "2",
+    "description": "Not knitted or crocheted, of synthetic fibers (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "9.3%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9817.57.01. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.99",
+    "indent": "2",
+    "description": "Not knitted or crocheted, of other textile materials:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Wall hangings of wool or fine animal hair:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.99.10.00",
+    "indent": "4",
+    "description": "Certified hand-loomed and folklore products",
+    "superior": null,
+    "units": [
+      "m<sup>2</sup>",
+      "kg"
+    ],
+    "general": "3.8%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "50%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.99.15.00",
+    "indent": "4",
+    "description": "Other (469)",
+    "superior": null,
+    "units": [
+      "m<sup>2</sup>",
+      "<u>kg</u>"
+    ],
+    "general": "11.3%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9817.57.01 and 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Of vegetable fibers (except cotton):",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.99.25.00",
+    "indent": "5",
+    "description": "Wall hangings of jute",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "11.3%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.99.35.00",
+    "indent": "5",
+    "description": "Other (899)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "11.3%",
+    "special": "Free (AU,BH, CL,CO,E*,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9817.57.01 and 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.99.40.00",
+    "indent": "4",
+    "description": "Certified hand-loomed and folklore pillow covers of wool or fine animal hair",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.8%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "50%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.99.60",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "3.2%",
+    "special": "Free (AU,BH, CL,CO,E*,IL, JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9817.57.01 and 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.99.60.10",
+    "indent": "5",
+    "description": "Of wool or fine animal hair (469)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.99.60.20",
+    "indent": "5",
+    "description": "Of artificial fibers (666)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "5",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.99.60.30",
+    "indent": "6",
+    "description": "Containing 85 percent or more by weight of silk or silk waste",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6304.99.60.40",
+    "indent": "6",
+    "description": "Other (899)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6305",
+    "indent": "0",
+    "description": "Sacks and bags, of a kind used for the packing of goods:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6305.10.00.00",
+    "indent": "1",
+    "description": "Of jute or of other textile bast fibers of heading 5303",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "2.2¢/kg + 10%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6305.20.00.00",
+    "indent": "1",
+    "description": "Of cotton (369)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6.2%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Of man-made textile materials:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6305.32.00",
+    "indent": "2",
+    "description": "Flexible intermediate bulk containers",
+    "superior": null,
+    "units": [],
+    "general": "8.4%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "103%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6305.32.00.10",
+    "indent": "3",
+    "description": "Weighing one kg or more (669)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6305.32.00.20",
+    "indent": "3",
+    "description": "Other (669)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6305.33.00",
+    "indent": "2",
+    "description": "Other, of polyethylene or polypropylene strip or the like",
+    "superior": null,
+    "units": [],
+    "general": "8.4%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "103%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6305.33.00.10",
+    "indent": "3",
+    "description": "Weighing one kg or more (669)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Weighing less than 1 kg, with an outer laminated ply of plastics sheeting:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6305.33.00.40",
+    "indent": "5",
+    "description": "Printed with three or more colors (669)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6305.33.00.60",
+    "indent": "5",
+    "description": "Other (669)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6305.33.00.80",
+    "indent": "4",
+    "description": "Other (669)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6305.39.00.00",
+    "indent": "2",
+    "description": "Other (669)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "8.4%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "103%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6305.90.00.00",
+    "indent": "1",
+    "description": "Of other textile materials (899)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6.2%",
+    "special": "Free (AU,BH, CL,CO,E*,IL,JO, KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6306",
+    "indent": "0",
+    "description": "Tarpaulins, awnings and sunblinds; tents (including temporary canopies and similar articles); sails for boats, sailboards or landcraft; camping goods:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Tarpaulins, awnings and sunblinds:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6306.12.00.00",
+    "indent": "2",
+    "description": "Of synthetic fibers (669)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "8.8%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6306.19",
+    "indent": "2",
+    "description": "Of other textile materials:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6306.19.11.00",
+    "indent": "3",
+    "description": "Of cotton (369)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "8%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6306.19.21",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "5.1%",
+    "special": "Free (AU,BH, CL,CO,E*,IL,JO, KR,MA,OM,P, PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6306.19.21.10",
+    "indent": "4",
+    "description": "Of artificial fibers (669)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6306.19.21.20",
+    "indent": "4",
+    "description": "Other (899)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Tents (including temporary canopies and similar articles):",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6306.22",
+    "indent": "2",
+    "description": "Of synthetic fibers:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6306.22.10.00",
+    "indent": "3",
+    "description": "Backpacking tents",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6306.22.90",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "8.8%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6306.22.90.10",
+    "indent": "4",
+    "description": "Screen houses",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6306.22.90.30",
+    "indent": "4",
+    "description": "Other (669)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6306.29",
+    "indent": "2",
+    "description": "Of other textile materials:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6306.29.11.00",
+    "indent": "3",
+    "description": "Of cotton",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "8%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6306.29.21.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "2.9%",
+    "special": "Free (AU,BH, CL,CO,E*,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6306.30.00",
+    "indent": "1",
+    "description": "Sails",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6306.30.00.10",
+    "indent": "2",
+    "description": "Of synthetic fibers",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6306.30.00.20",
+    "indent": "2",
+    "description": "Of other textile materials",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6306.40",
+    "indent": "1",
+    "description": "Pneumatic mattresses:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6306.40.41.00",
+    "indent": "2",
+    "description": "Of cotton",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.7%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6306.40.49.00",
+    "indent": "2",
+    "description": "Of other textile materials",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.7%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6306.90",
+    "indent": "1",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6306.90.10.00",
+    "indent": "2",
+    "description": "Of cotton",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.5%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6306.90.50.00",
+    "indent": "2",
+    "description": "Of other textile materials",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "4.5%",
+    "special": "Free (AU,BH, CL,CO,E*,IL, JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "78.5%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307",
+    "indent": "0",
+    "description": "Other made up articles, including dress patterns:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.10",
+    "indent": "1",
+    "description": "Floorcloths, dishcloths, dusters and similar cleaning cloths:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.10.10",
+    "indent": "2",
+    "description": "Dustcloths, mop cloths and polishing cloths, of cotton",
+    "superior": null,
+    "units": [],
+    "general": "4.1%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "26.2%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.10.10.20",
+    "indent": "3",
+    "description": "Bar mops (measuring 46 to 57 centimeters in length and 38 to43 centimeters in width) of terry fabric (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.10.10.90",
+    "indent": "3",
+    "description": "Other (369)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.10.20",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "5.3%",
+    "special": "Free (AU,BH, CL,CO,E*,IL, JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Shop towels dedicated for use in garages, filling stations and machine shops:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.10.20.05",
+    "indent": "4",
+    "description": "Of cotton (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.10.20.15",
+    "indent": "4",
+    "description": "Other (863)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Dish cloths:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.10.20.27",
+    "indent": "4",
+    "description": "Of cotton (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.10.20.28",
+    "indent": "4",
+    "description": "Other (863)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.10.20.30",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.20.00.00",
+    "indent": "1",
+    "description": "Lifejackets and lifebelts",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "4.5%",
+    "special": "Free (AU,BH, CL,CO,E*,IL, JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "78.5%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90",
+    "indent": "1",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.30",
+    "indent": "2",
+    "description": "Labels",
+    "superior": null,
+    "units": [],
+    "general": "7.9%",
+    "special": "Free (AU,BH, CL,CO,E*,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+    "other": "71.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.30.10",
+    "indent": "3",
+    "description": "Of cotton (369)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.30.20",
+    "indent": "3",
+    "description": "Other (669)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.40",
+    "indent": "2",
+    "description": "Cords and tassels",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "65%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.40.10",
+    "indent": "3",
+    "description": "Of cotton (369)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.40.20",
+    "indent": "3",
+    "description": "Other (669)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.50",
+    "indent": "2",
+    "description": "Corset lacings, footwear lacings or similar lacings",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.50.10",
+    "indent": "3",
+    "description": "Of cotton (369)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.50.20",
+    "indent": "3",
+    "description": "Other (669)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Surgical drapes:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.60",
+    "indent": "3",
+    "description": "Of fabric formed on a base of paper or covered or lined with paper",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "26.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.60.10",
+    "indent": "4",
+    "description": "Perineal towels",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.60.90",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.68.00",
+    "indent": "4",
+    "description": "Spunlaced or bonded fiber fabric disposable surgical drapes of man-made fibers",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "78.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.72.00",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "4.5%",
+    "special": "Free (AU,BH, CL,CO,E*,IL, JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "78.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.75.00",
+    "indent": "2",
+    "description": "Toys for pets, of textile materials",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "4.3%",
+    "special": "Free (AU,BH, CL,CO,E*,IL, JO,KR, MA,OM,P, PA,PE,S,SG)",
+    "other": "80%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.85.00",
+    "indent": "2",
+    "description": "Wall banners, of man-made fibers",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.8%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "74%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9817.57.01 and 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.89",
+    "indent": "3",
+    "description": "Surgical towels; cotton towels of pile or tufted construction; pillow shells, of cotton; shells for quilts, eiderdowns, comforters and similar articles of cotton",
+    "superior": null,
+    "units": [],
+    "general": "7%",
+    "special": "Free (AU,B,BH, CL,CO,E*,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.89.10",
+    "indent": "4",
+    "description": "Surgical towels (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.89.40",
+    "indent": "4",
+    "description": "Cotton towels of pile or tufted construction (363)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.89.45",
+    "indent": "4",
+    "description": "Pillow shells, of cotton (369)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Shells for quilts, eiderdowns, comforters and similar articles of cotton:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.89.50",
+    "indent": "5",
+    "description": "Sleeping bag shells",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "5",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.89.85",
+    "indent": "6",
+    "description": "Containing 85 percent or more by weight of cotton",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.89.95",
+    "indent": "6",
+    "description": "Other (362)",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.98",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "7%",
+    "special": "Free (A*,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9817.57.01, 9903.88.15 and 9903.91.01. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "National flags:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.98.25",
+    "indent": "5",
+    "description": "Of the United States",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.98.35",
+    "indent": "5",
+    "description": "Of other nations",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Face masks, including respirators without replaceable filters:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "5",
+    "description": "N95 respirators:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.98.42",
+    "indent": "6",
+    "description": "Surgical",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9903.91.07. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.98.44",
+    "indent": "6",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9903.91.07. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.98.50",
+    "indent": "5",
+    "description": "Other respirators",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9903.91.07. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "5",
+    "description": "Other face masks:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.98.70",
+    "indent": "6",
+    "description": "Disposable",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9903.91.07. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.98.75",
+    "indent": "6",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9903.91.07. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.98.82",
+    "indent": "5",
+    "description": "Other towels of cotton (369)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.98.84",
+    "indent": "5",
+    "description": "Other towels of man-made fibers (666)",
+    "superior": null,
+    "units": [
+      "No.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.98.85",
+    "indent": "5",
+    "description": "Furniture movers' pads of cotton",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.98.87",
+    "indent": "5",
+    "description": "Furniture movers' pads of man-made fibers",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6307.90.98.91",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [
+      {
+        "columns": [
+          "desc"
+        ],
+        "value": "See 9903.88.69. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "II. NEEDLECRAFT SETS",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6308.00.00",
+    "indent": "0",
+    "description": "Needlecraft sets consisting of woven fabric and yarn, whether or not with accessories, for making up into rugs, tapestries, embroidered tablecloths or napkins, or similar textile articles, put up in packings for retail sale",
+    "superior": null,
+    "units": [],
+    "general": "11.4%",
+    "special": "Free (AU,BH, CL,CO,E*,IL,JO, KR,MA,NP,OM, P,PA,PE,S,SG)",
+    "other": "55%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6308.00.00.10",
+    "indent": "1",
+    "description": "Containing wool yarn (469)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6308.00.00.20",
+    "indent": "1",
+    "description": "Other (669)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "III. WORN CLOTHING AND WORN TEXTILE ARTICLES; RAGS",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6309.00.00",
+    "indent": "0",
+    "description": "Worn clothing and other worn articles",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "93%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6309.00.00.10",
+    "indent": "1",
+    "description": "Worn clothing",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6309.00.00.20",
+    "indent": "1",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6310",
+    "indent": "0",
+    "description": "Used or new rags, scrap twine, cordage, rope and cables, and worn out articles of twine, cordage, rope or cables, of textile materials:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6310.10",
+    "indent": "1",
+    "description": "Sorted:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6310.10.10.00",
+    "indent": "2",
+    "description": "Of wool or fine animal hair",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "39.7¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6310.10.20",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "10%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6310.10.20.10",
+    "indent": "3",
+    "description": "Of cotton",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6310.10.20.20",
+    "indent": "3",
+    "description": "Of man-made fibers",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6310.10.20.30",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6310.90",
+    "indent": "1",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6310.90.10.00",
+    "indent": "2",
+    "description": "Of wool or fine animal hair",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.5¢/kg",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+    "other": "39.7¢/kg",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6310.90.20.00",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "10%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  }
+]
