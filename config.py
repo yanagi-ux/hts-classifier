@@ -4,11 +4,16 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-try:
-    import streamlit as st
-    ANTHROPIC_API_KEY = st.secrets.get("ANTHROPIC_API_KEY", "") or os.environ.get("ANTHROPIC_API_KEY", "")
-except Exception:
-    ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
+
+
+def get_api_key() -> str:
+    """Streamlit Secrets → 環境変数の順で取得する。"""
+    try:
+        import streamlit as st
+        return st.secrets["ANTHROPIC_API_KEY"]
+    except Exception:
+        return ANTHROPIC_API_KEY
 CLAUDE_MODEL = "claude-sonnet-4-6"
 
 # 対応Chapter一覧。data_file が存在しない場合はアプリ上でダウンロードを案内する。

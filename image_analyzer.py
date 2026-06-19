@@ -11,7 +11,7 @@ import logging
 import anthropic
 from PIL import Image
 
-from config import ANTHROPIC_API_KEY, CLAUDE_MODEL
+from config import get_api_key, CLAUDE_MODEL
 from category_lookup import lookup_chapters, get_extra_keywords
 import analysis_cache
 
@@ -146,7 +146,7 @@ def analyze_image(image_bytes: bytes, filename: str, text_context: str = "") -> 
     mime_type = mimetypes.guess_type(filename)[0] or "image/jpeg"
     b64_image = base64.b64encode(image_bytes).decode("utf-8")
 
-    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+    client = anthropic.Anthropic(api_key=get_api_key())
 
     user_content = [
         {
@@ -327,7 +327,7 @@ def analyze_image_ensemble(
     # APIに送信する前に長辺800px以内にリサイズしてトークンコストを削減
     resized_bytes, mime_type = _resize_image(image_bytes, filename)
     b64_image = base64.b64encode(resized_bytes).decode("utf-8")
-    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+    client = anthropic.Anthropic(api_key=get_api_key())
 
     image_block = {
         "type": "image",
@@ -423,7 +423,7 @@ def predict_chapters(
         }
     ]
 
-    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+    client = anthropic.Anthropic(api_key=get_api_key())
 
     user_content: list[dict] = []
     if image_bytes and filename:

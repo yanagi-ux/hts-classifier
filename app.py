@@ -9,7 +9,7 @@ from pathlib import Path
 import streamlit as st
 
 from classifier import classify_ensemble, classify_per_chapter_ensemble, apply_hts_overrides
-from config import ANTHROPIC_API_KEY, SUPPORTED_CHAPTERS
+from config import get_api_key, SUPPORTED_CHAPTERS
 from image_analyzer import analyze_image_ensemble, predict_chapters
 from category_lookup import get_extra_keywords
 import analysis_cache
@@ -296,7 +296,7 @@ def _classify_one(img_file, text_ctx: str, ch_key: str) -> dict:
 if st.button("判定する", type="primary"):
     if not uploaded_images and not text_context:
         st.warning("画像またはテキストを入力してください。")
-    elif chapter_key == AUTO_KEY and not ANTHROPIC_API_KEY:
+    elif chapter_key == AUTO_KEY and not get_api_key():
         st.error("自動判定にはANTHROPIC_API_KEYが必要です。")
     else:
         n_items = len(uploaded_images) if uploaded_images else 1
