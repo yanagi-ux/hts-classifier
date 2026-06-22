@@ -335,14 +335,15 @@ def analyze_image_ensemble(
     同一画像（SHA256一致）はキャッシュから返却してAPIコールをスキップする。
     各 analysis は analyze_image() と同じ構造 {"material", "function", "category_hint", "keywords"}。
     """
-    # モックモード: APIを一切呼ばずダミー解析結果を返す（課金ゼロ）
-    if MOCK_MODE:
-        return [_mock_analysis(text_context)]
-
-    # L1キャッシュ: 同一画像ヒット → API呼び出しスキップ（リサイズ前のハッシュで検索）
+    # まず過去の実API解析結果（L1キャッシュ）を優先する。
+    # モードに関係なく、同一画像なら本物の解析結果を返す（課金ゼロ）。
     cached = analysis_cache.get_cached_analysis(image_bytes)
     if cached:
         return [cached]
+
+    # モックモード: 未知の画像はダミー解析結果（課金ゼロ・精度は参考）
+    if MOCK_MODE:
+        return [_mock_analysis(text_context)]
 
     # APIに送信する前に長辺800px以内にリサイズしてトークンコストを削減
     resized_bytes, mime_type = _resize_image(image_bytes, filename)
@@ -427,9 +428,19 @@ def predict_chapters(
     chapters: {"84": {"label": "第84章: ..."}, ...} の形式。
     戻り値: ["84", "85"] のようなchapter keyのリスト(スコア降順)。
     """
-    # モックモード: APIを呼ばず、駿河屋カテゴリDBのテキスト照合だけで章を推定
+    # モックモード: APIを呼ばずに章を推定
     if MOCK_MODE:
+        # ① 過去の実API実績（章キャッシュ）があれば本物の章を返す
+        if image_bytes:
+            cached_ch = analysis_cache.get_cached_chapters(image_bytes)
+            if cached_ch:
+                return [c for c in cached_ch if c in chapters][:3]
+        # ② 無ければ駿河屋カテゴリDBのテキスト照合で推定
         hints = [ch for ch, _ in lookup_chapters(text_context) if ch in chapters]
+        if not hints:
+            # ③ それも取れない（画像のみ等）場合はデモが止まらないよう代表章を返す
+            _DEMO_DEFAULT = ["95", "49", "39", "42", "61"]
+            hints = [c for c in _DEMO_DEFAULT if c in chapters][:3]
         return hints[:3]
 
     chapters_list = "\n".join(f"  {k}: {v['label']}" for k, v in chapters.items())
@@ -483,4 +494,8 @@ def predict_chapters(
         if ch in chapters and ch not in hints:
             hints.append(ch)
 
-    return hints[:3]
+    result = hints[:3]
+    # 章キャッシュに保存（モードdemoで本物の章を課金ゼロ再現するため）
+    if image_bytes and result:
+        analysis_cache.save_chapters(image_bytes, result)
+    return result

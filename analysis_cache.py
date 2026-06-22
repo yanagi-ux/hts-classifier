@@ -36,6 +36,11 @@ def _get_conn() -> sqlite3.Connection:
                 l1_hits       INTEGER DEFAULT 0,
                 l2_hits       INTEGER DEFAULT 0
             );
+            CREATE TABLE IF NOT EXISTS chapter_cache (
+                image_hash    TEXT PRIMARY KEY,
+                chapters_json TEXT NOT NULL,
+                created_at    TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+            );
         """)
         # 旧スキーマ（cache_hits列）からのマイグレーション
         cols = {r[1] for r in conn.execute("PRAGMA table_info(cache_stats)")}
@@ -100,6 +105,29 @@ def save_analysis(image_bytes: bytes, analysis: dict) -> None:
         (h, json.dumps(clean, ensure_ascii=False)),
     )
     _record_stat(conn, level="api")
+    conn.commit()
+
+
+# ── 章キャッシュ: image_hash → chapter_hints ────────────────────────────────
+
+def get_cached_chapters(image_bytes: bytes) -> list[str] | None:
+    """同一画像の章推定結果（実API実績）を返す。なければ None。"""
+    h = _image_hash(image_bytes)
+    conn = _get_conn()
+    row = conn.execute(
+        "SELECT chapters_json FROM chapter_cache WHERE image_hash = ?", (h,)
+    ).fetchone()
+    return json.loads(row[0]) if row else None
+
+
+def save_chapters(image_bytes: bytes, chapters: list[str]) -> None:
+    """章推定結果を画像ハッシュで保存する。"""
+    h = _image_hash(image_bytes)
+    conn = _get_conn()
+    conn.execute(
+        "INSERT OR REPLACE INTO chapter_cache (image_hash, chapters_json) VALUES (?, ?)",
+        (h, json.dumps(chapters, ensure_ascii=False)),
+    )
     conn.commit()
 
 
