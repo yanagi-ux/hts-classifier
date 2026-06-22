@@ -6,9 +6,21 @@ load_dotenv()
 
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 
-# モックモード: MOCK_MODE=1 で起動するとClaude APIを一切呼ばず、
-# テキスト情報から作ったダミーの解析結果を返す（課金ゼロでUI・動作テスト用）。
-MOCK_MODE = os.environ.get("MOCK_MODE", "").strip().lower() in ("1", "true", "yes", "on")
+# モックモード: 有効にするとClaude APIを一切呼ばず、テキスト情報から作った
+# ダミーの解析結果を返す（課金ゼロでUI・動作テスト用）。
+# ローカルは環境変数 MOCK_MODE=1、Streamlit Cloud は Secrets の MOCK_MODE="1" で設定。
+def _resolve_mock_mode() -> bool:
+    val = os.environ.get("MOCK_MODE", "")
+    if not val:
+        try:
+            import streamlit as st
+            val = str(st.secrets.get("MOCK_MODE", ""))
+        except Exception:
+            val = ""
+    return val.strip().lower() in ("1", "true", "yes", "on")
+
+
+MOCK_MODE = _resolve_mock_mode()
 
 
 def get_api_key() -> str:
