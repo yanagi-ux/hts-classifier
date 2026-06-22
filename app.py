@@ -13,7 +13,7 @@ import streamlit as st
 
 from classifier import classify_ensemble, classify_per_chapter_ensemble, apply_hts_overrides
 from config import get_api_key, SUPPORTED_CHAPTERS
-from image_analyzer import analyze_image_ensemble, predict_chapters
+from image_analyzer import analyze_image_ensemble, predict_chapters, analyze_and_predict
 from category_lookup import get_extra_keywords
 import analysis_cache
 from cpsc_hts import check_cpsc
@@ -215,30 +215,29 @@ def _classify_one(img_file, text_ctx: str, ch_key: str) -> dict:
     image_name  = img_file.name
     suruga_kw   = get_extra_keywords(text_ctx)
 
-    # L1 / API
-    analyses = analyze_image_ensemble(image_bytes, image_name, text_ctx, n=1)
-    image_analysis = analyses[0] if analyses else None
-    cache_hit_l1 = bool(image_analysis and image_analysis.get("_cache_hit"))
-
-    query_list = [_build_query(image_analysis, suruga_kw)]
-
     if ch_key == AUTO_KEY:
-        img_hint_text = " ".join(filter(None, [
+        # 1回のAPIで「解析＋章推定」を同時取得（旧2回API→1回に統合）
+        image_analysis, detected_all = analyze_and_predict(
+            image_bytes, image_name, text_ctx, SUPPORTED_CHAPTERS
+        )
+        cache_hit_l1 = bool(image_analysis and image_analysis.get("_cache_hit"))
+        query_list = [_build_query(image_analysis, suruga_kw)]
+
+        # 画像ヒントに基づく章の除外フィルタを後段で適用
+        img_hint_lower = " ".join(filter(None, [
             (image_analysis or {}).get("category_hint", ""),
             (image_analysis or {}).get("function", ""),
             " ".join((image_analysis or {}).get("keywords", [])),
-        ]))
-        combined_context = " ".join(filter(None, [text_ctx, img_hint_text]))
-
-        img_hint_lower = img_hint_text.lower()
+        ])).lower()
         exclude_chs: set[str] = set()
         for hint_key, excl_list in _HINT_EXCLUDE_CHAPTERS.items():
             if hint_key in img_hint_lower:
                 exclude_chs.update(excl_list)
-        filtered_chapters = {k: v for k, v in SUPPORTED_CHAPTERS.items() if k not in exclude_chs}
+        detected = [c for c in detected_all if c not in exclude_chs][:3]
+        if not detected:
+            # 除外で全滅した場合は元の推定を採用（安全側）
+            detected = detected_all[:3]
 
-        detected = predict_chapters(combined_context, filtered_chapters,
-                                    image_bytes=image_bytes, filename=image_name)
         if not detected:
             return {"error": "章を推定できませんでした", "filename": image_name,
                     "image_bytes": image_bytes,
@@ -280,6 +279,12 @@ def _classify_one(img_file, text_ctx: str, ch_key: str) -> dict:
             "cache_hit_l2": cache_hit_l2,
         }
     else:
+        # 手動で章を選択 → 章推定は不要。画像解析のみ（API1回）
+        analyses = analyze_image_ensemble(image_bytes, image_name, text_ctx, n=1)
+        image_analysis = analyses[0] if analyses else None
+        cache_hit_l1 = bool(image_analysis and image_analysis.get("_cache_hit"))
+        query_list = [_build_query(image_analysis, suruga_kw)]
+
         cache_hit_l2 = False
         l2_cached = analysis_cache.get_cached_hts(image_analysis) if image_analysis else None
         if l2_cached:

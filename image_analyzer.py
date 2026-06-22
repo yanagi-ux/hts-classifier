@@ -407,6 +407,124 @@ def analyze_image_ensemble(
     return results
 
 
+def analyze_and_predict(
+    image_bytes: bytes,
+    filename: str,
+    text_context: str,
+    chapters: dict,
+) -> tuple[dict, list[str]]:
+    """1回のAPIで「画像解析結果」と「対象章の推定」を同時に取得する。
+
+    従来の analyze_image_ensemble + predict_chapters（2回API）を1回に統合し、
+    画像送信とリクエストを半減してコスト・処理時間を削減する。
+    戻り値: (analysis dict, chapter_hints list)
+    chapters は安定キャッシュのため SUPPORTED_CHAPTERS 全体を渡すこと
+    （除外フィルタは呼び出し側で後段適用する）。
+    """
+    def _suruga_chapters(analysis: dict) -> list[str]:
+        text = " ".join([
+            text_context,
+            analysis.get("category_hint", ""),
+            analysis.get("function", ""),
+            " ".join(analysis.get("keywords", [])),
+        ])
+        return [c for c, _ in lookup_chapters(text) if c in chapters][:3]
+
+    # L1キャッシュ: 解析が同一画像でヒットすれば API を呼ばない
+    cached = analysis_cache.get_cached_analysis(image_bytes)
+    if cached:
+        chs = analysis_cache.get_cached_chapters(image_bytes) or _suruga_chapters(cached)
+        return cached, chs[:3]
+
+    # モックモード: API を呼ばずダミー解析＋章推定
+    if MOCK_MODE:
+        analysis = _mock_analysis(text_context)
+        chs = _suruga_chapters(analysis)
+        if not chs:
+            chs = [c for c in ["95", "49", "39", "42", "61"] if c in chapters][:3]
+        return analysis, chs
+
+    # ── 1回のAPI呼び出しで解析＋章推定 ──────────────────────────
+    resized_bytes, mime_type = _resize_image(image_bytes, filename)
+    b64_image = base64.b64encode(resized_bytes).decode("utf-8")
+    client = anthropic.Anthropic(api_key=get_api_key())
+
+    chapters_list = "\n".join(f"  {k}: {v['label']}" for k, v in chapters.items())
+    combined_system = [{
+        "type": "text",
+        "text": (
+            SYSTEM_PROMPT
+            + "\n\n【追加指示】上記の判断に加えて、この商品が該当する米国HTSの章番号を"
+              "最大3つ選び \"chapter_hints\" に含めてください。\n"
+              f"章の選択肢:\n{chapters_list}\n"
+            + "最終的な出力JSONは必ず次の5項目の形式にしてください（説明・前置き不要）:\n"
+            + '{"material": "...", "function": "...", "category_hint": "...", '
+              '"keywords": ["..."], "chapter_hints": ["95"]}'
+        ),
+        "cache_control": {"type": "ephemeral"},
+    }]
+
+    image_block = {"type": "image", "source": {
+        "type": "base64", "media_type": mime_type, "data": b64_image}}
+    text_block = {"type": "text",
+                  "text": f"商品の補足情報: {text_context}" if text_context else "補足情報なし"}
+
+    response = _api_call_with_backoff(
+        client.messages.create,
+        model=CLAUDE_MODEL,
+        max_tokens=600,
+        system=combined_system,
+        messages=[{"role": "user", "content": [image_block, text_block]}],
+        extra_headers={"anthropic-beta": "prompt-caching-2024-07-31"},
+    )
+    raw = "".join(b.text for b in response.content
+                  if getattr(b, "type", None) == "text").strip()
+    parsed = _parse_json_response(raw)
+
+    # 章ヒントを取り出す（数値なので翻訳不要）
+    hints = [str(h) for h in parsed.get("chapter_hints", []) if str(h) in chapters]
+
+    # 解析4項目を取り出して翻訳・正規化（章ヒントは分離して保持）
+    analysis = {
+        "material": parsed.get("material", ""),
+        "function": parsed.get("function", ""),
+        "category_hint": parsed.get("category_hint", ""),
+        "keywords": parsed.get("keywords", []),
+    }
+    for _ in range(3):
+        if not _contains_non_english(analysis):
+            break
+        analysis = _translate_to_english(client, analysis)
+    if _contains_non_english(analysis):
+        combined_text = " ".join([
+            analysis.get("material", ""), analysis.get("function", ""),
+            analysis.get("category_hint", ""),
+            " ".join(analysis.get("keywords", [])), text_context,
+        ])
+        fallback_keywords = get_extra_keywords(combined_text)
+        analysis = {
+            "material": analysis.get("material", "") if not _NON_ASCII_RE.search(analysis.get("material", "")) else "",
+            "function": analysis.get("function", "") if not _NON_ASCII_RE.search(analysis.get("function", "")) else "",
+            "category_hint": analysis.get("category_hint", "") if not _NON_ASCII_RE.search(analysis.get("category_hint", "")) else "",
+            "keywords": [k for k in analysis.get("keywords", []) if not _NON_ASCII_RE.search(k)] + fallback_keywords,
+            "_translation_fallback": True,
+        }
+    analysis = _normalize_terms(analysis)
+
+    # 駿河屋カテゴリDBで章を補完
+    for c in _suruga_chapters(analysis):
+        if c not in hints:
+            hints.append(c)
+    hints = hints[:3]
+
+    # キャッシュ保存（L1解析 + 章）
+    analysis_cache.save_analysis(image_bytes, analysis)
+    if hints:
+        analysis_cache.save_chapters(image_bytes, hints)
+
+    return analysis, hints
+
+
 def keywords_to_query_text(analysis: dict) -> str:
     parts = [
         analysis.get("material", ""),
