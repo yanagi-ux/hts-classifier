@@ -25,23 +25,68 @@ def apply_hts_overrides(results: dict[str, list[dict]], queries: list[dict]) -> 
     if not overrides:
         return results
 
-    # クエリの category_hint を結合してチェック
+    # クエリの category_hint / material を結合してチェック
     combined_hint = " ".join(
         q.get("category_hint", "") for q in queries if isinstance(q, dict)
+    ).lower()
+    combined_material = " ".join(
+        q.get("material", "") for q in queries if isinstance(q, dict)
     ).lower()
 
     for keyword, info in overrides.items():
         if keyword not in combined_hint:
             continue
-        ch = info["chapter"]
-        target_code = info["hts_code"]
-        ch_results = results.get(ch, [])
-        idx = next((i for i, r in enumerate(ch_results) if r["hts_code"] == target_code), None)
-        if idx is not None and idx != 0:
-            ch_results.insert(0, ch_results.pop(idx))
-            results[ch] = ch_results
+        # info は単一dict、または材質条件つきの複数ルール(list)
+        rules = info if isinstance(info, list) else [info]
+        for rule in rules:
+            # material 条件があり、クエリ材質に一致しなければスキップ
+            mat = rule.get("material", "")
+            if mat and mat.lower() not in combined_material:
+                continue
+            ch = rule["chapter"]
+            target_code = rule["hts_code"]
+            ch_results = results.get(ch, [])
+            idx = next((i for i, r in enumerate(ch_results) if r["hts_code"] == target_code), None)
+            if idx is not None:
+                if idx != 0:
+                    ch_results.insert(0, ch_results.pop(idx))
+                    results[ch] = ch_results
+            else:
+                # top-N結果に無い場合は章データから該当コードを読み込んで先頭に注入
+                injected = _build_override_entry(ch, target_code)
+                if injected:
+                    results[ch] = [injected] + ch_results
+            break  # 最初に材質一致したルールのみ適用
 
     return results
+
+
+def _build_override_entry(chapter: str, target_code: str) -> dict | None:
+    """章データから target_code のエントリを読み込み、結果dict形式に整える。"""
+    try:
+        from config import SUPPORTED_CHAPTERS
+        from hts_db import load_classifiable_entries
+        data_file = SUPPORTED_CHAPTERS[chapter]["data_file"]
+        entry = next(
+            (e for e in load_classifiable_entries(data_file) if e["hts_code"] == target_code),
+            None,
+        )
+    except Exception:
+        return None
+    if not entry:
+        return None
+    return {
+        **entry,
+        "score": 999.0,
+        "match_rate": 1.0,
+        "own_match_ratio": 1.0,
+        "matched_keywords": [],
+        "chapter_key": chapter,
+        "effective_score": 999.0,
+        "_ensemble_hit_count": 1,
+        "_ensemble_n": 1,
+        "_override": True,
+    }
 
 STOPWORDS = {
     "and", "or", "for", "the", "of", "with", "in", "on", "to", "a", "an",

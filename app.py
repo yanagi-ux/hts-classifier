@@ -188,6 +188,14 @@ _HINT_EXCLUDE_CHAPTERS: dict[str, list[str]] = {
     "stapler": ["95"],
 }
 
+# 画像ヒントに応じて候補章を強制的に追加する（誤った章のみに誘導されるのを防ぐ）。
+# 例: バッジはプラ製→39 / 金属製→83 のどちらにもなり得るため両方を候補に含める。
+_HINT_INCLUDE_CHAPTERS: dict[str, list[str]] = {
+    "badge": ["39", "83", "71"],
+    "pin badge": ["39", "83", "71"],
+    "brooch": ["71", "39", "83"],
+}
+
 
 def _build_query(analysis: dict | None, suruga_keywords: list[str]) -> dict:
     if analysis:
@@ -233,7 +241,18 @@ def _classify_one(img_file, text_ctx: str, ch_key: str) -> dict:
         for hint_key, excl_list in _HINT_EXCLUDE_CHAPTERS.items():
             if hint_key in img_hint_lower:
                 exclude_chs.update(excl_list)
-        detected = [c for c in detected_all if c not in exclude_chs][:3]
+
+        # ヒントに応じて候補章を強制追加（誤った単一章のみへの誘導を防ぐ）
+        include_chs: list[str] = []
+        for hint_key, inc_list in _HINT_INCLUDE_CHAPTERS.items():
+            if hint_key in img_hint_lower:
+                include_chs.extend(inc_list)
+
+        detected = [c for c in detected_all if c not in exclude_chs]
+        for c in include_chs:
+            if c not in detected and c not in exclude_chs and c in SUPPORTED_CHAPTERS:
+                detected.append(c)
+        detected = detected[:3]
         if not detected:
             # 除外で全滅した場合は元の推定を採用（安全側）
             detected = detected_all[:3]
