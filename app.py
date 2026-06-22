@@ -1,11 +1,14 @@
 import csv
 import datetime
+import io
 import json
 import time
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
+import openpyxl
+from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
 import streamlit as st
 
 from classifier import classify_ensemble, classify_per_chapter_ensemble, apply_hts_overrides
@@ -349,6 +352,95 @@ def _priority_mark(r: dict) -> str:
     return "△"
 
 
+def _build_excel(batch_results: list[dict]) -> bytes:
+    """判定結果一覧をExcelファイルとして返す。"""
+    wb = openpyxl.Workbook()
+    ws = wb.active
+    ws.title = "HTS判定結果"
+
+    # ── ヘッダー ──────────────────────────────────────────────
+    headers = [
+        "ファイル名", "採用HTSコード", "説明（英語）", "説明（日本語）",
+        "スコア", "マッチ率", "CPSC", "メモ",
+        "候補2位", "候補3位",
+    ]
+    header_fill = PatternFill("solid", fgColor="1A6EB5")
+    header_font = Font(bold=True, color="FFFFFF")
+    thin = Side(style="thin", color="CCCCCC")
+    border = Border(left=thin, right=thin, top=thin, bottom=thin)
+
+    for col, h in enumerate(headers, 1):
+        cell = ws.cell(row=1, column=col, value=h)
+        cell.fill = header_fill
+        cell.font = header_font
+        cell.alignment = Alignment(horizontal="center", vertical="center", wrap_text=True)
+        cell.border = border
+    ws.row_dimensions[1].height = 28
+
+    # ── データ行 ──────────────────────────────────────────────
+    fv = st.session_state.get("form_version", 0)
+    alt_fill = PatternFill("solid", fgColor="EEF4FB")
+
+    for row_idx, item in enumerate(batch_results, 2):
+        filename = item.get("filename", "")
+        if "error" in item:
+            ws.cell(row=row_idx, column=1, value=filename)
+            ws.cell(row=row_idx, column=2, value=f"エラー: {item['error']}")
+            continue
+
+        if item.get("is_auto") and isinstance(item.get("results"), dict):
+            flat = [r for ch_r in item["results"].values() for r in ch_r]
+        elif isinstance(item.get("results"), list):
+            flat = item["results"]
+        else:
+            flat = []
+
+        if not flat:
+            ws.cell(row=row_idx, column=1, value=filename)
+            ws.cell(row=row_idx, column=2, value="候補なし")
+            continue
+
+        safe_name = filename.replace(".", "_").replace(" ", "_")
+        chosen_key = f"chosen_{safe_name}_{fv}"
+        note_key   = f"note_{safe_name}_{fv}"
+        chosen_code = st.session_state.get(chosen_key) or flat[0]["hts_code"]
+        note        = st.session_state.get(note_key, "")
+
+        chosen_entry = next((r for r in flat if r["hts_code"] == chosen_code), flat[0])
+        lbl_raw = chosen_entry.get("description") or chosen_entry["full_description"].rsplit(" > ", 1)[-1]
+        lbl_jp  = JP_LABELS.get(lbl_raw.rstrip(":").strip(), "")
+        score   = chosen_entry.get("effective_score", chosen_entry.get("score", 0))
+        ratio   = chosen_entry.get("own_match_ratio", 0)
+        cpsc    = "⚠️ CPSC" if check_cpsc(chosen_code)["is_cpsc"] else ""
+
+        others = [r for r in flat if r["hts_code"] != chosen_code][:2]
+
+        row_data = [
+            filename, chosen_code, lbl_raw.rstrip(":").strip(), lbl_jp,
+            round(score, 3), round(ratio, 3), cpsc, note,
+            others[0]["hts_code"] if len(others) > 0 else "",
+            others[1]["hts_code"] if len(others) > 1 else "",
+        ]
+        fill = alt_fill if row_idx % 2 == 0 else None
+        for col, val in enumerate(row_data, 1):
+            cell = ws.cell(row=row_idx, column=col, value=val)
+            cell.border = border
+            cell.alignment = Alignment(vertical="center", wrap_text=(col in (3, 4)))
+            if fill:
+                cell.fill = fill
+
+    # ── 列幅 ──────────────────────────────────────────────────
+    col_widths = [28, 18, 45, 35, 8, 8, 8, 20, 16, 16]
+    for i, w in enumerate(col_widths, 1):
+        ws.column_dimensions[openpyxl.utils.get_column_letter(i)].width = w
+
+    ws.freeze_panes = "A2"
+
+    buf = io.BytesIO()
+    wb.save(buf)
+    return buf.getvalue()
+
+
 def _render_result_card(r: dict, index: int):
     with st.container(border=True):
         own_label = r["description"] or r["full_description"].rsplit(" > ", 1)[-1]
@@ -390,7 +482,18 @@ def _render_result_card(r: dict, index: int):
 batch_results = st.session_state.get("batch_results", [])
 if batch_results:
     st.divider()
-    st.subheader(f"判定結果（{len(batch_results)}件）")
+    _hdr_col, _dl_col = st.columns([3, 1])
+    _hdr_col.subheader(f"判定結果（{len(batch_results)}件）")
+    with _dl_col:
+        _xlsx = _build_excel(batch_results)
+        _ts = datetime.datetime.now().strftime("%Y%m%d_%H%M")
+        st.download_button(
+            "📥 Excelダウンロード",
+            data=_xlsx,
+            file_name=f"hts_results_{_ts}.xlsx",
+            mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            use_container_width=True,
+        )
 
     for item in batch_results:
         filename = item.get("filename", "")
