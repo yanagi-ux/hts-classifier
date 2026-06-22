@@ -6,10 +6,18 @@ load_dotenv()
 
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 
-# モックモード: 有効にするとClaude APIを一切呼ばず、テキスト情報から作った
-# ダミーの解析結果を返す（課金ゼロでUI・動作テスト用）。
-# ローカルは環境変数 MOCK_MODE=1、Streamlit Cloud は Secrets の MOCK_MODE="1" で設定。
-def _resolve_mock_mode() -> bool:
+
+def get_api_key() -> str:
+    """Streamlit Secrets → 環境変数の順で取得する。"""
+    try:
+        import streamlit as st
+        return st.secrets["ANTHROPIC_API_KEY"]
+    except Exception:
+        return ANTHROPIC_API_KEY
+
+
+def _explicit_mock_flag() -> bool:
+    """環境変数 MOCK_MODE / Streamlit Secrets の MOCK_MODE を読む。"""
     val = os.environ.get("MOCK_MODE", "")
     if not val:
         try:
@@ -20,16 +28,14 @@ def _resolve_mock_mode() -> bool:
     return val.strip().lower() in ("1", "true", "yes", "on")
 
 
-MOCK_MODE = _resolve_mock_mode()
+# モックモード判定:
+#   ① MOCK_MODE が明示的に有効、または
+#   ② APIキーが未設定（フェイルセーフ。誤デプロイでも401を出さずモックで動く）
+# のいずれかで有効になる。判定結果はダミーで課金ゼロ。
+MOCK_EXPLICIT = _explicit_mock_flag()
+MOCK_NO_KEY   = not get_api_key()
+MOCK_MODE     = MOCK_EXPLICIT or MOCK_NO_KEY
 
-
-def get_api_key() -> str:
-    """Streamlit Secrets → 環境変数の順で取得する。"""
-    try:
-        import streamlit as st
-        return st.secrets["ANTHROPIC_API_KEY"]
-    except Exception:
-        return ANTHROPIC_API_KEY
 CLAUDE_MODEL = "claude-sonnet-4-6"
 
 # 対応Chapter一覧。data_file が存在しない場合はアプリ上でダウンロードを案内する。

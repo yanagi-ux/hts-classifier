@@ -85,10 +85,11 @@ st.title("米国HTSコード判定支援ツール")
 st.caption("商品画像を主判断とし、テキスト情報を補助としてHTSコード候補を提示します（最大10件同時判定）。最終判断は担当者が行ってください。")
 
 # モックモード警告（API課金ゼロのテスト用）
-from config import MOCK_MODE as _MOCK_MODE
+from config import MOCK_MODE as _MOCK_MODE, MOCK_EXPLICIT as _MOCK_EXPLICIT
 if _MOCK_MODE:
+    _reason = "Secrets/環境変数で有効化" if _MOCK_EXPLICIT else "APIキー未設定のため自動でモックに切替"
     st.warning(
-        "🧪 **モックモード稼働中** — Claude APIを呼び出していません（課金ゼロ）。"
+        f"🧪 **モックモード稼働中**（{_reason}） — Claude APIを呼び出していません（課金ゼロ）。"
         "判定結果は補足テキストから生成したダミーで、精度は参考になりません。"
         "UI・バッチ処理・Excel出力など動作確認用です。"
     )
