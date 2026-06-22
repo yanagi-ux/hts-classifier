@@ -309,7 +309,7 @@ def _classify_one(img_file, text_ctx: str, ch_key: str) -> dict:
 if st.button("判定する", type="primary"):
     if not uploaded_images and not text_context:
         st.warning("画像またはテキストを入力してください。")
-    elif chapter_key == AUTO_KEY and not get_api_key():
+    elif chapter_key == AUTO_KEY and not get_api_key() and not _MOCK_MODE:
         st.error("自動判定にはANTHROPIC_API_KEYが必要です。")
     else:
         n_items = len(uploaded_images) if uploaded_images else 1
