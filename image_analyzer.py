@@ -11,7 +11,7 @@ import logging
 import anthropic
 from PIL import Image
 
-from config import get_api_key, CLAUDE_MODEL, MOCK_MODE
+from config import get_api_key, CLAUDE_MODEL, CLAUDE_MODEL_FAST, MOCK_MODE, HYBRID_MODE
 from category_lookup import lookup_chapters, get_extra_keywords
 import analysis_cache
 
@@ -63,6 +63,15 @@ def _mock_analysis(text_context: str) -> dict:
         "keywords": kws or ["article", "product"],
         "_mock": True,
     }
+
+
+def _is_weak_analysis(analysis: dict) -> bool:
+    """解析結果が弱い（信頼できない）ときTrue。Sonnet再判定の判断に使う。"""
+    if analysis.get("_translation_fallback"):
+        return True
+    cat = (analysis.get("category_hint") or "").strip()
+    kws = [k for k in analysis.get("keywords", []) if k and str(k).strip()]
+    return not cat and not kws
 
 
 # 指数バックオフの設定
@@ -360,11 +369,12 @@ def analyze_image_ensemble(
     }
 
     _cached_system = [{"type": "text", "text": SYSTEM_PROMPT, "cache_control": {"type": "ephemeral"}}]
-    results: list[dict] = []
-    for _ in range(n):
+
+    def _one(model: str) -> dict:
+        """指定モデルで1回解析し、翻訳・正規化済みの analysis を返す。"""
         response = _api_call_with_backoff(
             client.messages.create,
-            model=CLAUDE_MODEL,
+            model=model,
             max_tokens=512,
             system=_cached_system,
             messages=[{"role": "user", "content": [image_block, text_block]}],
@@ -373,21 +383,15 @@ def analyze_image_ensemble(
             block.text for block in response.content if getattr(block, "type", None) == "text"
         ).strip()
         analysis = _parse_json_response(raw_text)
-
-        # 非英語が含まれる場合はフィールドごとに翻訳
         for _ in range(3):
             if not _contains_non_english(analysis):
                 break
             analysis = _translate_to_english(client, analysis)
-
-        # 翻訳失敗時フォールバック
         if _contains_non_english(analysis):
             combined_text = " ".join([
-                analysis.get("material", ""),
-                analysis.get("function", ""),
+                analysis.get("material", ""), analysis.get("function", ""),
                 analysis.get("category_hint", ""),
-                " ".join(analysis.get("keywords", [])),
-                text_context,
+                " ".join(analysis.get("keywords", [])), text_context,
             ])
             fallback_keywords = get_extra_keywords(combined_text)
             analysis = {
@@ -397,8 +401,15 @@ def analyze_image_ensemble(
                 "keywords": [k for k in analysis.get("keywords", []) if not _NON_ASCII_RE.search(k)] + fallback_keywords,
                 "_translation_fallback": True,
             }
+        return _normalize_terms(analysis)
 
-        results.append(_normalize_terms(analysis))
+    results: list[dict] = []
+    for _ in range(n):
+        # 一次解析はHaiku、弱ければSonnetで再判定（ハイブリッド）
+        a = _one(CLAUDE_MODEL_FAST if HYBRID_MODE else CLAUDE_MODEL)
+        if HYBRID_MODE and _is_weak_analysis(a):
+            a = _one(CLAUDE_MODEL)
+        results.append(a)
 
     # L1キャッシュに保存（翻訳・正規化済みの状態）
     if results:
@@ -469,47 +480,51 @@ def analyze_and_predict(
     text_block = {"type": "text",
                   "text": f"商品の補足情報: {text_context}" if text_context else "補足情報なし"}
 
-    response = _api_call_with_backoff(
-        client.messages.create,
-        model=CLAUDE_MODEL,
-        max_tokens=600,
-        system=combined_system,
-        messages=[{"role": "user", "content": [image_block, text_block]}],
-        extra_headers={"anthropic-beta": "prompt-caching-2024-07-31"},
-    )
-    raw = "".join(b.text for b in response.content
-                  if getattr(b, "type", None) == "text").strip()
-    parsed = _parse_json_response(raw)
-
-    # 章ヒントを取り出す（数値なので翻訳不要）
-    hints = [str(h) for h in parsed.get("chapter_hints", []) if str(h) in chapters]
-
-    # 解析4項目を取り出して翻訳・正規化（章ヒントは分離して保持）
-    analysis = {
-        "material": parsed.get("material", ""),
-        "function": parsed.get("function", ""),
-        "category_hint": parsed.get("category_hint", ""),
-        "keywords": parsed.get("keywords", []),
-    }
-    for _ in range(3):
-        if not _contains_non_english(analysis):
-            break
-        analysis = _translate_to_english(client, analysis)
-    if _contains_non_english(analysis):
-        combined_text = " ".join([
-            analysis.get("material", ""), analysis.get("function", ""),
-            analysis.get("category_hint", ""),
-            " ".join(analysis.get("keywords", [])), text_context,
-        ])
-        fallback_keywords = get_extra_keywords(combined_text)
-        analysis = {
-            "material": analysis.get("material", "") if not _NON_ASCII_RE.search(analysis.get("material", "")) else "",
-            "function": analysis.get("function", "") if not _NON_ASCII_RE.search(analysis.get("function", "")) else "",
-            "category_hint": analysis.get("category_hint", "") if not _NON_ASCII_RE.search(analysis.get("category_hint", "")) else "",
-            "keywords": [k for k in analysis.get("keywords", []) if not _NON_ASCII_RE.search(k)] + fallback_keywords,
-            "_translation_fallback": True,
+    def _run(model: str) -> tuple[dict, list[str]]:
+        """指定モデルで1回呼び出し、解析4項目＋章ヒントを処理して返す。"""
+        response = _api_call_with_backoff(
+            client.messages.create,
+            model=model,
+            max_tokens=600,
+            system=combined_system,
+            messages=[{"role": "user", "content": [image_block, text_block]}],
+            extra_headers={"anthropic-beta": "prompt-caching-2024-07-31"},
+        )
+        raw = "".join(b.text for b in response.content
+                      if getattr(b, "type", None) == "text").strip()
+        parsed = _parse_json_response(raw)
+        hints_ = [str(h) for h in parsed.get("chapter_hints", []) if str(h) in chapters]
+        a = {
+            "material": parsed.get("material", ""),
+            "function": parsed.get("function", ""),
+            "category_hint": parsed.get("category_hint", ""),
+            "keywords": parsed.get("keywords", []),
         }
-    analysis = _normalize_terms(analysis)
+        for _ in range(3):
+            if not _contains_non_english(a):
+                break
+            a = _translate_to_english(client, a)
+        if _contains_non_english(a):
+            combined_text = " ".join([
+                a.get("material", ""), a.get("function", ""),
+                a.get("category_hint", ""),
+                " ".join(a.get("keywords", [])), text_context,
+            ])
+            fallback_keywords = get_extra_keywords(combined_text)
+            a = {
+                "material": a.get("material", "") if not _NON_ASCII_RE.search(a.get("material", "")) else "",
+                "function": a.get("function", "") if not _NON_ASCII_RE.search(a.get("function", "")) else "",
+                "category_hint": a.get("category_hint", "") if not _NON_ASCII_RE.search(a.get("category_hint", "")) else "",
+                "keywords": [k for k in a.get("keywords", []) if not _NON_ASCII_RE.search(k)] + fallback_keywords,
+                "_translation_fallback": True,
+            }
+        return _normalize_terms(a), hints_
+
+    # ① 一次解析は低単価のHaikuで実行
+    analysis, hints = _run(CLAUDE_MODEL_FAST if HYBRID_MODE else CLAUDE_MODEL)
+    # ② 結果が弱い（カテゴリ/キーワード欠落・翻訳失敗・章未取得）ときだけSonnetで再判定
+    if HYBRID_MODE and (_is_weak_analysis(analysis) or not hints):
+        analysis, hints = _run(CLAUDE_MODEL)
 
     # 駿河屋カテゴリDBで章を補完
     for c in _suruga_chapters(analysis):

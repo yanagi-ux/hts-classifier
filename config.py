@@ -36,7 +36,25 @@ MOCK_EXPLICIT = _explicit_mock_flag()
 MOCK_NO_KEY   = not get_api_key()
 MOCK_MODE     = MOCK_EXPLICIT or MOCK_NO_KEY
 
-CLAUDE_MODEL = "claude-sonnet-4-6"
+CLAUDE_MODEL = "claude-sonnet-4-6"          # 高精度モデル（フォールバック）
+CLAUDE_MODEL_FAST = "claude-haiku-4-5"       # 低単価モデル（一次解析）
+
+# ハイブリッド判定: 一次解析をHaikuで行い、結果が弱い場合のみSonnetで再判定する。
+# 無効化したい場合は HYBRID_MODE=0 を環境変数/Secretsで設定。
+def _resolve_hybrid_mode() -> bool:
+    import os as _os
+    val = _os.environ.get("HYBRID_MODE", "")
+    if not val:
+        try:
+            import streamlit as st
+            val = str(st.secrets.get("HYBRID_MODE", ""))
+        except Exception:
+            val = ""
+    # 既定は有効（未設定なら True）
+    return val.strip().lower() not in ("0", "false", "no", "off")
+
+
+HYBRID_MODE = _resolve_hybrid_mode()
 
 # 対応Chapter一覧。data_file が存在しない場合はアプリ上でダウンロードを案内する。
 SUPPORTED_CHAPTERS = {
