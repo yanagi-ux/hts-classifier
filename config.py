@@ -6,6 +6,10 @@ load_dotenv()
 
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 
+# モックモード: MOCK_MODE=1 で起動するとClaude APIを一切呼ばず、
+# テキスト情報から作ったダミーの解析結果を返す（課金ゼロでUI・動作テスト用）。
+MOCK_MODE = os.environ.get("MOCK_MODE", "").strip().lower() in ("1", "true", "yes", "on")
+
 
 def get_api_key() -> str:
     """Streamlit Secrets → 環境変数の順で取得する。"""

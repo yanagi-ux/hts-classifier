@@ -84,6 +84,15 @@ div[data-testid="stExpander"] div[data-testid="stExpander"] > details > summary 
 st.title("米国HTSコード判定支援ツール")
 st.caption("商品画像を主判断とし、テキスト情報を補助としてHTSコード候補を提示します（最大10件同時判定）。最終判断は担当者が行ってください。")
 
+# モックモード警告（API課金ゼロのテスト用）
+from config import MOCK_MODE as _MOCK_MODE
+if _MOCK_MODE:
+    st.warning(
+        "🧪 **モックモード稼働中** — Claude APIを呼び出していません（課金ゼロ）。"
+        "判定結果は補足テキストから生成したダミーで、精度は参考になりません。"
+        "UI・バッチ処理・Excel出力など動作確認用です。"
+    )
+
 # サイドバー: キャッシュ統計
 with st.sidebar:
     st.subheader("📊 キャッシュ統計（過去30日）")

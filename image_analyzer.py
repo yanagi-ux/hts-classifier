@@ -11,7 +11,7 @@ import logging
 import anthropic
 from PIL import Image
 
-from config import get_api_key, CLAUDE_MODEL
+from config import get_api_key, CLAUDE_MODEL, MOCK_MODE
 from category_lookup import lookup_chapters, get_extra_keywords
 import analysis_cache
 
@@ -47,6 +47,22 @@ def _resize_image(image_bytes: bytes, filename: str) -> tuple[bytes, str]:
         # PILが扱えない形式はそのまま返す
         mime = mimetypes.guess_type(filename)[0] or "image/jpeg"
         return image_bytes, mime
+
+
+def _mock_analysis(text_context: str) -> dict:
+    """モックモード用のダミー解析結果。APIを呼ばず、補足テキストから
+    駿河屋カテゴリの英語キーワードを引いて解析結果らしく組み立てる。
+    テキストが無い場合でも汎用キーワードで結果が出るようにする。
+    """
+    kws = get_extra_keywords(text_context) if text_context else []
+    category = (text_context.strip().split() or ["sample product"])[0] if text_context else "sample product"
+    return {
+        "material": "",
+        "function": "",
+        "category_hint": category,
+        "keywords": kws or ["article", "product"],
+        "_mock": True,
+    }
 
 
 # 指数バックオフの設定
@@ -319,6 +335,10 @@ def analyze_image_ensemble(
     同一画像（SHA256一致）はキャッシュから返却してAPIコールをスキップする。
     各 analysis は analyze_image() と同じ構造 {"material", "function", "category_hint", "keywords"}。
     """
+    # モックモード: APIを一切呼ばずダミー解析結果を返す（課金ゼロ）
+    if MOCK_MODE:
+        return [_mock_analysis(text_context)]
+
     # L1キャッシュ: 同一画像ヒット → API呼び出しスキップ（リサイズ前のハッシュで検索）
     cached = analysis_cache.get_cached_analysis(image_bytes)
     if cached:
@@ -407,6 +427,11 @@ def predict_chapters(
     chapters: {"84": {"label": "第84章: ..."}, ...} の形式。
     戻り値: ["84", "85"] のようなchapter keyのリスト(スコア降順)。
     """
+    # モックモード: APIを呼ばず、駿河屋カテゴリDBのテキスト照合だけで章を推定
+    if MOCK_MODE:
+        hints = [ch for ch, _ in lookup_chapters(text_context) if ch in chapters]
+        return hints[:3]
+
     chapters_list = "\n".join(f"  {k}: {v['label']}" for k, v in chapters.items())
     # 固定部分をキャッシュ対象に、章リスト（変動しない）を続けてキャッシュ
     system = [
