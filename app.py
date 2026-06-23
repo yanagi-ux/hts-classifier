@@ -223,6 +223,17 @@ _HINT_INCLUDE_CHAPTERS: dict[str, list[str]] = {
     "hand tool": ["82"],
     "pliers": ["82"],
     "screwdriver": ["82"],
+    "sneaker": ["64"],
+    "athletic shoe": ["64"],
+    "running shoe": ["64"],
+    "shoe": ["64"],
+    "t-shirt": ["61"],
+    "trousers": ["62"],
+    "denim": ["62"],
+    "jeans": ["62"],
+    "shorts": ["62"],
+    "charm": ["39", "71"],
+    "steering wheel cover": ["87"],
 }
 
 
@@ -270,26 +281,40 @@ def _analysis_ja_view(analysis: dict) -> dict:
     }
 
 
-# 採用コードの表示で「Other(その他)」のみだと分かりにくいため避ける汎用語
-_GENERIC_DESC = {"other", "other, including parts", ""}
+import re as _re
+# 採用コードの表示で、それ自体では商品が分からない汎用語（その他・素材名のみ）。
+# これらの場合は full_description を上位へ遡って商品の種類を表示する。
+_GENERIC_DESC = {
+    "other", "other, including parts", "",
+    "of cotton", "of leather", "of plastics", "of rubber", "of wool",
+    "of man-made fibers", "of synthetic fibers", "of artificial fibers",
+    "of other textile materials", "of paper", "of metal", "of wood",
+    "of vegetable fibers", "of textile materials", "parts",
+}
+
+
+def _is_generic_desc(s: str) -> bool:
+    # 末尾の国内細分コード "(347)" 等と記号を除去して判定
+    t = _re.sub(r"\(\d+\)\s*$", "", s).rstrip(":").strip().lower()
+    return t in _GENERIC_DESC
 
 
 def _entry_label_ja(entry: dict | None) -> str:
-    """採用コードの表示ラベル（日本語優先・「その他」単独を回避）。
-    ① override由来の専用表示名 → ② 説明がOther等なら上位見出し → ③ JP_LABELSで日本語化。
+    """採用コードの表示ラベル（日本語優先・汎用語/素材名のみを回避）。
+    ① override由来の専用表示名 → ② 説明が汎用語なら上位見出し → ③ JP_LABELSで日本語化。
     """
     if not entry:
         return ""
     if entry.get("_label_ja"):
         return entry["_label_ja"]
     desc = (entry.get("description") or "").rstrip(":").strip()
-    if desc.lower() in _GENERIC_DESC:
+    if _is_generic_desc(desc):
         segs = [s.rstrip(":").strip() for s in (entry.get("full_description") or "").split(" > ")]
         for s in reversed(segs):
-            if s.lower() not in _GENERIC_DESC:
+            if s and not _is_generic_desc(s):
                 desc = s
                 break
-    return JP_LABELS.get(desc, "") or desc
+    return JP_LABELS.get(_re.sub(r"\(\d+\)\s*$", "", desc).rstrip(":").strip(), "") or desc
 
 
 def _build_query(analysis: dict | None, suruga_keywords: list[str]) -> dict:

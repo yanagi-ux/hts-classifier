@@ -83,5 +83,35 @@
   ],
   "acrylic figure": [
     {"hts_code": "3926.40.00.90", "chapter": "39", "label_ja": "プラスチック製の装飾品（アクリルフィギュア）"}
+  ],
+  "charm": [
+    {"hts_code": "3926.40.00.90", "chapter": "39", "material": "plastic", "label_ja": "プラスチック製の装飾品（チャーム）"}
+  ],
+  "sneaker": [
+    {"hts_code": "6404.11.90.20", "chapter": "64", "label_ja": "スポーツ靴（布甲・ゴム底。価格/性別で細分要確認）"}
+  ],
+  "athletic shoe": [
+    {"hts_code": "6404.11.90.20", "chapter": "64", "label_ja": "スポーツ靴（布甲・ゴム底。価格/性別で細分要確認）"}
+  ],
+  "running shoe": [
+    {"hts_code": "6404.11.90.20", "chapter": "64", "label_ja": "スポーツ靴（布甲・ゴム底。価格/性別で細分要確認）"}
+  ],
+  "t-shirt": [
+    {"hts_code": "6109.10.00.27", "chapter": "61", "material": "cotton", "label_ja": "Tシャツ（綿・ニット。性別/年齢で細分要確認）"}
+  ],
+  "denim": [
+    {"hts_code": "6203.42.07.11", "chapter": "62", "label_ja": "デニムパンツ（綿・男性。性別等で細分要確認）"}
+  ],
+  "jeans": [
+    {"hts_code": "6203.42.07.11", "chapter": "62", "label_ja": "ジーンズ（綿デニム・男性。性別等で細分要確認）"}
+  ],
+  "trousers": [
+    {"hts_code": "6203.42.07.16", "chapter": "62", "material": "cotton", "label_ja": "ズボン（綿・男性。性別等で細分要確認）"}
+  ],
+  "shorts": [
+    {"hts_code": "6203.42.07.51", "chapter": "62", "material": "cotton", "label_ja": "ショーツ（綿・男性。性別等で細分要確認）"}
+  ],
+  "steering wheel cover": [
+    {"hts_code": "8708.99.81.80", "chapter": "87", "label_ja": "自動車用付属品（ハンドルカバー等）"}
   ]
 }
