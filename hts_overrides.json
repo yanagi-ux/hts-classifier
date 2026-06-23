@@ -90,6 +90,18 @@
   "drawer organizer": [
     {"hts_code": "3924.90.56.50", "chapter": "39", "label_ja": "プラスチック製引き出し整理ボックス（家庭用品）"}
   ],
+  "hobby magazine": [
+    {"hts_code": "4902.90.20.60", "chapter": "49", "label_ja": "ホビー雑誌・模型誌等の定期刊行物"}
+  ],
+  "printed magazine": [
+    {"hts_code": "4902.90.20.60", "chapter": "49", "label_ja": "印刷雑誌・定期刊行物"}
+  ],
+  "magazine": [
+    {"hts_code": "4902.90.20.60", "chapter": "49", "label_ja": "雑誌・定期刊行物（週刊・月刊等）"}
+  ],
+  "periodical": [
+    {"hts_code": "4902.90.20.60", "chapter": "49", "label_ja": "定期刊行物（雑誌・ジャーナル等）"}
+  ],
   "building block": [
     {"hts_code": "9503.00.00.90", "chapter": "95", "label_ja": "組み立てブロック玩具（ナノブロック・マイクロブロック等）"}
   ],
