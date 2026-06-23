@@ -223,6 +223,30 @@ def apply_category_heading_map(results: dict[str, list[dict]],
     return results
 
 
+# ① AI章ヒント優遇:
+# 画像解析AIは商品区分(=章)を高精度に当てる。confidence が high のときは、AIが
+# 推定した章(順位順)のエントリを優遇し、章をまたぐスコア競合でAIの判断を尊重する。
+# 越境マッチ(別章のおとりが表面スコアで勝つ)を、手作業の include/exclude 辞書に
+# 頼らず抑える。high でないときは従来どおりスコア任せ(安全側)。
+# heading-map / override より前に適用するため、それらの確定スコア(900/999)とは競合しない。
+CHAPTER_HINT_BOOST = {0: 1.5, 1: 1.15}  # 推定順位 → 倍率（それ以外は等倍）
+
+
+def apply_chapter_hint_boost(results: dict, ordered_chapters: list, confidence) -> dict:
+    """confidence が high のとき、ordered_chapters(AI推定章の順位順)の上位章の
+    effective_score を優遇する。順位0が最も強く、CHAPTER_HINT_BOOST に無い順位は等倍。"""
+    if (confidence or "").lower() != "high":
+        return results
+    rank = {ch: i for i, ch in enumerate(ordered_chapters)}
+    for ch, rows in results.items():
+        factor = CHAPTER_HINT_BOOST.get(rank.get(ch, 99))
+        if not factor:
+            continue
+        for r in rows:
+            r["effective_score"] = r.get("effective_score", 0.0) * factor
+    return results
+
+
 def _build_override_entry(chapter: str, target_code: str) -> dict | None:
     """章データから target_code のエントリを読み込み、結果dict形式に整える。"""
     try:

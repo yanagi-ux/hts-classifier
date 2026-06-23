@@ -13,7 +13,7 @@ import streamlit as st
 
 from classifier import (
     classify_ensemble, classify_per_chapter_ensemble,
-    apply_hts_overrides, apply_category_heading_map,
+    apply_hts_overrides, apply_category_heading_map, apply_chapter_hint_boost,
 )
 from config import get_api_key, SUPPORTED_CHAPTERS
 from image_analyzer import analyze_image_ensemble, predict_chapters, analyze_and_predict
@@ -915,6 +915,11 @@ def _classify_one(img_file, text_ctx: str, ch_key: str) -> dict:
         else:
             results = classify_per_chapter_ensemble(
                 query_list, chapter_files=chapter_files, top_n_per_chapter=3
+            )
+            # ① AIが high confidence なら推定章(detected, 順位順)を優遇してから
+            #    heading-map / override を適用する。
+            results = apply_chapter_hint_boost(
+                results, detected, (image_analysis or {}).get("_confidence")
             )
             results = apply_category_heading_map(results, query_list)
             results = apply_hts_overrides(results, query_list)
