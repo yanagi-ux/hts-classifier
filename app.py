@@ -394,6 +394,7 @@ _JA_TO_EN_APP: dict[str, str] = {
     "レンチ": "wrench", "スパナ": "spanner",
     "綿生地": "woven cotton fabric", "プリント生地": "printed cotton fabric",
     "綿布": "woven cotton fabric",
+    "ステアリングホイールカバー": "steering wheel cover",
     "ステアリングカバー": "steering wheel cover",
     "カッティングマット": "cutting mat",
     "フィギュア": "figure toy", "ぬいぐるみ": "stuffed toy",
@@ -564,6 +565,7 @@ _DECISIVE_TERMS: dict[str, dict] = {
     "腕時計": {"hint": "wristwatch", "chapters": ["91"]},
     "置き時計": {"hint": "table clock", "chapters": ["91"]},
     "ネックレス": {"hint": "necklace jewelry", "chapters": ["71"]},
+    "ステアリングホイールカバー": {"hint": "steering wheel cover", "chapters": ["87"]},
     "リング": {"hint": "ring jewelry", "chapters": ["71"]},
     "イヤリング": {"hint": "earring jewelry", "chapters": ["71"]},
     "ピアス": {"hint": "piercing earring jewelry", "chapters": ["71"]},
@@ -605,18 +607,23 @@ _DECISIVE_TERMS: dict[str, dict] = {
 
 
 def _decisive_match(text: str) -> tuple[str, dict] | tuple[None, None]:
-    """品名テキストに代表語が含まれていれば (代表語, 情報) を返す。"""
+    """品名テキストに代表語が含まれていれば (代表語, 情報) を返す。
+    長い語を先に照合し、短い語が長い語の一部に誤マッチするのを防ぐ。
+    例: 「リング」が「ステアリング」に誤マッチしないよう、
+        「ステアリングホイールカバー」を「リング」より先に評価する。
+    """
     t = (text or "").lower()
-    for term, info in _DECISIVE_TERMS.items():
+    # 長い語を優先（長さ降順でソート）
+    for term in sorted(_DECISIVE_TERMS, key=len, reverse=True):
         if term.lower() in t:
-            return term, info
+            return term, _DECISIVE_TERMS[term]
     return None, None
 
 
 def _classify_text_only(image_bytes: bytes, image_name: str, text_ctx: str,
                         term: str, info: dict, suruga_kw: list[str]) -> dict:
     """代表語ヒット時：画像APIを呼ばずテキストだけで分類する。"""
-    mat = material or info.get("material", "")  # 入力材質を優先、無ければ既定
+    mat = info.get("material", "")  # 既定材質（品名からは素材が取れないため）
     query = {
         "product_name": "", "material": mat, "category_hint": info["hint"],
         "function": "", "keywords": [info["hint"]] + suruga_kw, "spec": "",
