@@ -1,0 +1,9 @@
+{
+  "_comment": "カテゴリ→見出し(HS4)変換リスト。category_hint/function/keywords にキーが部分一致したら、その見出し配下の最良の末端コード(HS10)をスコアリングで自動選択して先頭に昇格する。10桁override(hts_overrides.json)より保守が軽く、枝番の違う類似品にも汎化する。新カテゴリは原則ここに追加し、見出し内で枝番が誤選択される例外のみ hts_overrides.json で10桁直指定する。chapter=章2桁, heading=見出し4桁。",
+  "electric guitar": {"chapter": "92", "heading": "9207", "label_ja": "電気増幅する楽器（エレキギター等）"},
+  "bass guitar": {"chapter": "92", "heading": "9207", "label_ja": "電気増幅する楽器（エレキベース）"},
+  "solid body guitar": {"chapter": "92", "heading": "9207", "label_ja": "電気増幅する楽器（ソリッドギター）"},
+  "electric stringed instrument": {"chapter": "92", "heading": "9207", "label_ja": "電気増幅する弦楽器"},
+  "electric bass": {"chapter": "92", "heading": "9207", "label_ja": "電気増幅する楽器（エレキベース）"},
+  "acoustic guitar": {"chapter": "92", "heading": "9202", "label_ja": "アコースティックギター（その他の弦楽器）"}
+}

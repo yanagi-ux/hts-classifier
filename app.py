@@ -11,7 +11,10 @@ import openpyxl
 from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
 import streamlit as st
 
-from classifier import classify_ensemble, classify_per_chapter_ensemble, apply_hts_overrides
+from classifier import (
+    classify_ensemble, classify_per_chapter_ensemble,
+    apply_hts_overrides, apply_category_heading_map,
+)
 from config import get_api_key, SUPPORTED_CHAPTERS
 from image_analyzer import analyze_image_ensemble, predict_chapters, analyze_and_predict
 from category_lookup import get_extra_keywords
@@ -761,10 +764,9 @@ def _classify_text_only(image_bytes: bytes, image_name: str, text_ctx: str,
         (k, SUPPORTED_CHAPTERS[k]["data_file"]) for k in chapters
         if (DATA_DIR / SUPPORTED_CHAPTERS[k]["data_file"]).exists()
     ]
-    results = apply_hts_overrides(
-        classify_per_chapter_ensemble([query], chapter_files=chapter_files, top_n_per_chapter=3),
-        [query],
-    )
+    results = classify_per_chapter_ensemble([query], chapter_files=chapter_files, top_n_per_chapter=3)
+    results = apply_category_heading_map(results, [query])
+    results = apply_hts_overrides(results, [query])
     return {
         "filename": image_name, "image_bytes": image_bytes, "image_analysis": None,
         "results": results, "detected_chapters": chapters, "is_auto": True,
@@ -907,6 +909,7 @@ def _classify_one(img_file, text_ctx: str, ch_key: str) -> dict:
             results = classify_per_chapter_ensemble(
                 query_list, chapter_files=chapter_files, top_n_per_chapter=3
             )
+            results = apply_category_heading_map(results, query_list)
             results = apply_hts_overrides(results, query_list)
             if image_analysis:
                 analysis_cache.save_hts(image_analysis, results)

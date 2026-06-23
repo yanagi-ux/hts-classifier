@@ -102,18 +102,6 @@
   "rc controller": [
     {"hts_code": "8526.92.50.00", "chapter": "85", "label_ja": "ラジオリモートコントロール送信機（ホビー用）"}
   ],
-  "electric guitar": [
-    {"hts_code": "9207.90.00.40", "chapter": "92", "label_ja": "電気増幅するフレット付き弦楽器（エレキギター・エレキベース）"}
-  ],
-  "solid body guitar": [
-    {"hts_code": "9207.90.00.40", "chapter": "92", "label_ja": "ソリッドボディのエレキギター"}
-  ],
-  "bass guitar": [
-    {"hts_code": "9207.90.00.40", "chapter": "92", "label_ja": "エレキベース（電気増幅する弦楽器）"}
-  ],
-  "electric stringed instrument": [
-    {"hts_code": "9207.90.00.40", "chapter": "92", "label_ja": "電気増幅する弦楽器"}
-  ],
   "remote control": [
     {"hts_code": "8526.92.50.00", "chapter": "85", "label_ja": "無線リモコン装置（送信機）"}
   ],

@@ -7,6 +7,11 @@ from hts_db import load_classifiable_entries
 
 SYNONYMS_PATH = Path(__file__).parent / "synonyms.json"
 HTS_OVERRIDES_PATH = Path(__file__).parent / "hts_overrides.json"
+CATEGORY_MAP_PATH = Path(__file__).parent / "hts_category_map.json"
+
+# カテゴリ→見出し(HS4)変換リストでブーストするスコア。
+# 10桁override(999)より低くし、明示overrideが優先されるようにする。
+HEADING_BOOST_SCORE = 900.0
 
 
 def _load_overrides() -> dict:
@@ -113,6 +118,108 @@ def apply_hts_overrides(results: dict[str, list[dict]], queries: list[dict]) -> 
                     results[ch] = [injected] + ch_results
             break  # 最初に材質一致したルールのみ適用
 
+    return results
+
+
+def _load_category_map() -> dict:
+    """カテゴリ→見出し(HS4)変換リストを読み込む。"""
+    if not CATEGORY_MAP_PATH.exists():
+        return {}
+    with open(CATEGORY_MAP_PATH, encoding="utf-8") as f:
+        return {k: v for k, v in json.load(f).items() if not k.startswith("_")}
+
+
+def _combined_query_weights(queries: list) -> dict[str, float]:
+    """複数クエリを結合し、シノニム展開＋文脈フィルタ適用後の重みを返す。"""
+    synonyms = _load_synonyms()
+    weights: dict[str, float] = {}
+    for q in queries:
+        if isinstance(q, dict):
+            qw = build_query_weights(q)
+        else:
+            qw = {t: 1.0 for t in _tokenize(str(q))}
+        for t, w in qw.items():
+            weights[t] = max(weights.get(t, 0.0), w)
+    weights = _expand_weights_with_synonyms(weights, synonyms)
+    weights = _filter_context_dependent_tokens(weights)
+    return weights
+
+
+def _best_leaf_under_heading(chapter: str, heading: str,
+                             query_weights: dict[str, float]) -> dict | None:
+    """指定見出し(HS4)配下の末端コードをスコアリングし、最良の1件を返す。
+
+    「カテゴリ→見出し」が分かれば末尾の枝番(HS10)はスコアラーに選ばせる、
+    という変換リストの中核。見出し配下で一切マッチしない場合は最も浅い
+    （代表的な）末端を採用する。
+    """
+    try:
+        from config import SUPPORTED_CHAPTERS
+        data_file = SUPPORTED_CHAPTERS[chapter]["data_file"]
+        entries = [e for e in load_classifiable_entries(data_file)
+                   if str(e["hts_code"]).replace(".", "").startswith(heading.replace(".", ""))]
+    except Exception:
+        return None
+    if not entries:
+        return None
+    scored = _score_entries(query_weights, entries)
+    if scored:
+        return max(scored.values(),
+                   key=lambda e: (e["score"], e["match_rate"], e["own_match_ratio"], e["indent"]))
+    base = min(entries, key=lambda e: e.get("indent", 99))
+    return {**base, "score": 0.0, "match_rate": 0.0,
+            "own_match_ratio": 0.0, "matched_keywords": []}
+
+
+def apply_category_heading_map(results: dict[str, list[dict]],
+                               queries: list[dict]) -> dict[str, list[dict]]:
+    """カテゴリ→見出し(HS4)変換リストを適用する。
+
+    AIの画像解析は正確でも、表層の単語一致では正しい見出しに結び付かない
+    ことがある（例: "electric guitar" が "Fretted stringed instruments" に
+    一致しない）。category_hint/keywords がカテゴリ語に一致したら、対応する
+    見出し配下の最良の末端コードを先頭に昇格させる。10桁override より保守が軽く、
+    枝番はスコアリングで自動選択するため類似品にも汎化する。
+    """
+    cmap = _load_category_map()
+    if not cmap:
+        return results
+
+    def _hint_text(q: dict) -> str:
+        kws = q.get("keywords", [])
+        kw_str = " ".join(kws) if isinstance(kws, list) else str(kws)
+        return f"{q.get('category_hint', '')} {q.get('function', '')} {kw_str}"
+
+    combined_hint = _normalize_hint(" ".join(
+        _hint_text(q) for q in queries if isinstance(q, dict)
+    ))
+    query_weights = _combined_query_weights(queries)
+
+    # 長いキー優先（"electric guitar" を "guitar" より先に評価）
+    for keyword in sorted(cmap, key=len, reverse=True):
+        if keyword not in combined_hint:
+            continue
+        info = cmap[keyword]
+        ch = info["chapter"]
+        heading = info["heading"]
+        best = _best_leaf_under_heading(ch, heading, query_weights)
+        if not best:
+            continue
+        target_code = best["hts_code"]
+        ch_results = [r for r in results.get(ch, []) if r["hts_code"] != target_code]
+        boosted = {
+            **best,
+            "chapter_key": ch,
+            "effective_score": HEADING_BOOST_SCORE,
+            "score": best.get("score", 0.0) or HEADING_BOOST_SCORE,
+            "_ensemble_hit_count": 1,
+            "_ensemble_n": 1,
+            "_heading_map": True,
+        }
+        if info.get("label_ja"):
+            boosted["_label_ja"] = info["label_ja"]
+        results[ch] = [boosted] + ch_results
+        break  # 最初に一致した（最長）カテゴリのみ適用
     return results
 
 

@@ -12,15 +12,15 @@
 import sys
 
 from config import SUPPORTED_CHAPTERS
-from classifier import classify_per_chapter_ensemble, apply_hts_overrides
+from classifier import classify_per_chapter_ensemble, apply_hts_overrides, apply_category_heading_map
 
 
 def _adopt(query: dict, chapters: list[str]) -> str | None:
     """指定章で分類＋オーバーライドを適用し、採用（最高スコア）のHTSコードを返す。"""
     files = [(c, SUPPORTED_CHAPTERS[c]["data_file"]) for c in chapters if c in SUPPORTED_CHAPTERS]
-    res = apply_hts_overrides(
-        classify_per_chapter_ensemble([query], files, top_n_per_chapter=3), [query]
-    )
+    res = classify_per_chapter_ensemble([query], files, top_n_per_chapter=3)
+    res = apply_category_heading_map(res, [query])
+    res = apply_hts_overrides(res, [query])
     flat = [r for rs in res.values() for r in rs]
     if not flat:
         return None
