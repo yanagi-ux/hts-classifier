@@ -817,9 +817,34 @@ def _classify_one(img_file, text_ctx: str, ch_key: str) -> dict:
             detected = detected_all[:3]
 
         if not detected:
-            return {"error": "章を推定できませんでした", "filename": image_name,
-                    "image_bytes": image_bytes,
-                    "image_analysis": image_analysis, "cache_hit_l1": cache_hit_l1}
+            # ── 最終フォールバック: 既ダウンロード済み全章でスキャン ──────────────────
+            # AI の chapter_hints が非対応章のみ / surugaya DB が未知商品 / 翻訳失敗による
+            # フィールド空白化が重なると detected_all = [] になりここに到達する。
+            # 手動ホワイトリスト(_HINT_INCLUDE_CHAPTERS)の管理を不要にするため、
+            # ローカルに存在する全章データを候補として使い、スコアリングで正しい章を選ぶ。
+            _fallback_all = [
+                k for k in SUPPORTED_CHAPTERS
+                if (DATA_DIR / SUPPORTED_CHAPTERS[k]["data_file"]).exists()
+            ]
+            if not _fallback_all:
+                return {"error": "章を推定できませんでした", "filename": image_name,
+                        "image_bytes": image_bytes,
+                        "image_analysis": image_analysis, "cache_hit_l1": cache_hit_l1}
+            # 全章でスキャンし、スコア上位3章のみに絞って通常パスに流す
+            _fallback_files = [(k, SUPPORTED_CHAPTERS[k]["data_file"]) for k in _fallback_all]
+            _fallback_results = classify_per_chapter_ensemble(
+                query_list, chapter_files=_fallback_files, top_n_per_chapter=1
+            )
+            # 各章のトップスコアで降順ソートし、上位3章を detected に採用
+            _ch_scores = {
+                ch: max((r.get("effective_score", 0) for r in rs), default=0)
+                for ch, rs in _fallback_results.items() if rs
+            }
+            detected = sorted(_ch_scores, key=_ch_scores.get, reverse=True)[:3]
+            if not detected:
+                return {"error": "章を推定できませんでした", "filename": image_name,
+                        "image_bytes": image_bytes,
+                        "image_analysis": image_analysis, "cache_hit_l1": cache_hit_l1}
 
         # 未取得章をダウンロード
         for k in detected:
