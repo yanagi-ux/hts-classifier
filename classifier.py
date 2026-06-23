@@ -56,6 +56,9 @@ def apply_hts_overrides(results: dict[str, list[dict]], queries: list[dict]) -> 
             if idx is not None:
                 if idx != 0:
                     ch_results.insert(0, ch_results.pop(idx))
+                # 採用（全章中の最高スコア）として選ばれるようスコアを最上位に底上げ
+                ch_results[0]["effective_score"] = 999.0
+                ch_results[0]["score"] = 999.0
                 if label_ja:
                     ch_results[0]["_label_ja"] = label_ja
                 results[ch] = ch_results

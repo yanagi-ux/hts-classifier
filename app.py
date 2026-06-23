@@ -197,6 +197,9 @@ _HINT_INCLUDE_CHAPTERS: dict[str, list[str]] = {
     "trading card": ["95", "49"],
     "game card": ["95", "49"],
     "playing card": ["95", "49"],
+    "game console": ["95", "85"],
+    "gaming device": ["95", "85"],
+    "handheld game": ["95", "85"],
 }
 
 

@@ -35,5 +35,17 @@
   ],
   "tcg": [
     {"hts_code": "9504.40.00.00", "chapter": "95", "label_ja": "遊戯用カード（トレーディングカード／ゲーム用カード）"}
+  ],
+  "game console": [
+    {"hts_code": "9504.50.00.00", "chapter": "95", "label_ja": "ビデオゲーム機（家庭用・携帯ゲーム機）"}
+  ],
+  "video game console": [
+    {"hts_code": "9504.50.00.00", "chapter": "95", "label_ja": "ビデオゲーム機（家庭用・携帯ゲーム機）"}
+  ],
+  "gaming device": [
+    {"hts_code": "9504.50.00.00", "chapter": "95", "label_ja": "ビデオゲーム機（家庭用・携帯ゲーム機）"}
+  ],
+  "handheld game": [
+    {"hts_code": "9504.50.00.00", "chapter": "95", "label_ja": "ビデオゲーム機（家庭用・携帯ゲーム機）"}
   ]
 }
