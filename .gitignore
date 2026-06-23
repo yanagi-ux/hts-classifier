@@ -4,3 +4,5 @@ __pycache__/
 *.pyc
 logs/
 data/analysis_cache.db
+data/*.db-wal
+data/*.db-shm
