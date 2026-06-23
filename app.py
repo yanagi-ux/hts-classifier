@@ -297,7 +297,7 @@ _HINT_INCLUDE_CHAPTERS: dict[str, list[str]] = {
     "hobby magazine": ["49"],
     "journal": ["49"],
     "publication": ["49"],
-    "radio controlled": ["85", "95"],
+    "radio controlled": ["85"],
     "rc controller": ["85"],
     "radio remote control": ["85"],
     "die-cast car": ["95"],
@@ -443,9 +443,14 @@ _JA_TO_EN_APP: dict[str, str] = {
     "収納ボックス": "storage box",
     "整理ボックス": "drawer organizer",
     "オーガナイザー": "desk organizer",
-    "ラジコン": "radio controlled rc toy remote control",
-    "プロポ": "radio control transmitter rc controller",
+    "ラジコン": "radio remote control rc transmitter",
+    "プロポ": "radio remote control transmitter rc controller",
     "ラジコン送信機": "radio remote control transmitter",
+    "リモートコントロール": "radio remote control",
+    "ラジオコントロール": "radio remote control",
+    "RCトランスミッター": "radio remote control transmitter",
+    "ハンドヘルドコントローラー": "radio remote control handheld",
+    "おもちゃ用リモコン": "radio remote control toy rc",
     "ダイキャストカー": "die-cast car scale model toy vehicle",
     "ダイキャスト": "die-cast scale model",
     "玩具車両": "toy vehicle scale model car",
@@ -752,12 +757,25 @@ def _classify_text_only(image_bytes: bytes, image_name: str, text_ctx: str,
 
 def _build_query(analysis: dict | None, suruga_keywords: list[str]) -> dict:
     if analysis:
+        # 翻訳失敗で英語フィールドが空になった場合は _ja フィールドから補完し、
+        # _normalize_hint_app で英語変換してクエリに混ぜる。
+        # これにより scan-all fallback でも正しい章にスコアが集まる。
+        cat = analysis.get("category_hint", "") or ""
+        func = analysis.get("function", "") or ""
+        kws = [k for k in (analysis.get("keywords", []) or []) if k]
+        if not cat:
+            cat = _normalize_hint_app(analysis.get("category_hint_ja", "") or "")
+        if not func:
+            func = _normalize_hint_app(analysis.get("function_ja", "") or "")
+        if not kws:
+            kws_ja = analysis.get("keywords_ja", []) or []
+            kws = [_normalize_hint_app(k) for k in kws_ja if k]
         return {
             "product_name": "",
-            "material": analysis.get("material", ""),
-            "category_hint": analysis.get("category_hint", ""),
-            "keywords": analysis.get("keywords", []) + suruga_keywords,
-            "function": analysis.get("function", ""),
+            "material": analysis.get("material", "") or analysis.get("material_ja", ""),
+            "category_hint": cat,
+            "keywords": kws + suruga_keywords,
+            "function": func,
             "spec": "",
         }
     return {
