@@ -625,6 +625,17 @@ if batch_results:
             # エラー
             if "error" in item:
                 st.error(item["error"])
+                if item.get("error") == "章を推定できませんでした":
+                    st.info(
+                        "対象22章の中に該当が見つかりませんでした。下の解析結果を参考に、"
+                        "上の「対象Chapter」で章を手動選択して再判定してください。"
+                    )
+                ecol1, ecol2 = st.columns([1, 4])
+                if item.get("image_bytes"):
+                    ecol1.image(item["image_bytes"], width='stretch')
+                if item.get("image_analysis"):
+                    with ecol2.expander("画像解析結果（参考）", expanded=True):
+                        st.json(_analysis_ja_view(item["image_analysis"]))
                 continue
 
             results  = item.get("results")

@@ -516,7 +516,7 @@ def analyze_and_predict(
         response = _api_call_with_backoff(
             client.messages.create,
             model=model,
-            max_tokens=800,
+            max_tokens=1024,
             system=combined_system,
             messages=[{"role": "user", "content": [image_block, text_block]}],
             extra_headers={"anthropic-beta": "prompt-caching-2024-07-31"},
