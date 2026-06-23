@@ -40,6 +40,11 @@ _JA_TO_EN_HINT: dict[str, str] = {
     "綿布": "woven cotton fabric",
     "ステアリングカバー": "steering wheel cover",
     "カッティングマット": "cutting mat",
+    "風呂敷": "furoshiki wrapping cloth",
+    "ラッピングクロス": "wrapping cloth",
+    "パッチワーク": "patchwork fabric",
+    "装飾用織物": "decorative cloth",
+    "装飾的な布地": "decorative cloth",
 }
 
 
@@ -266,6 +271,10 @@ CONTEXT_DEPENDENT_TOKENS = {
         "bag", "box", "cup", "contain", "label", "tag", "card", "sheet",
         "tube", "towel", "tissu", "napkin", "wrapper", "envelop", "sack",
     },
+    # "sorted"/"rags"はCh63の6310（ぼろ布・古着くず）にしか現れない。
+    # 明示的に「ぼろ布・古着」の文脈が無ければスコアに寄与させない。
+    "sorted": {"rag", "scrap", "worn", "used", "waste", "cordage"},
+    "rags": {"sorted", "scrap", "worn", "waste"},
 }
 
 

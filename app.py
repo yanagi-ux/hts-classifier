@@ -408,6 +408,11 @@ _JA_TO_EN_APP: dict[str, str] = {
     "スマートフォン": "smartphone", "カメラ": "camera",
     "レコード": "vinyl record",
     "花札": "card game", "将棋": "board game", "囲碁": "board game",
+    "風呂敷": "furoshiki wrapping cloth",
+    "ラッピングクロス": "wrapping cloth",
+    "パッチワーク": "patchwork fabric",
+    "装飾用織物": "decorative cloth",
+    "装飾的な布地": "decorative cloth",
 }
 
 
@@ -456,6 +461,9 @@ _DECISIVE_TERMS: dict[str, dict] = {
     "プリント生地": {"hint": "printed cotton fabric", "chapters": ["52"], "material": "cotton"},
     "綿布": {"hint": "woven cotton fabric", "chapters": ["52"], "material": "cotton"},
     "生地": {"hint": "cotton fabric", "chapters": ["52", "61", "62", "63"]},
+    "風呂敷": {"hint": "furoshiki wrapping cloth", "chapters": ["63"], "material": "cotton"},
+    "ラッピングクロス": {"hint": "wrapping cloth decorative", "chapters": ["63", "52"]},
+    "パッチワーク": {"hint": "patchwork fabric", "chapters": ["52", "63"]},
 
     # ── アニメグッズ・ホビー（駿河屋/Neokyo メインカテゴリ） ─────────────────
     "フィギュア": {"hint": "figure toy", "chapters": ["95", "39"]},

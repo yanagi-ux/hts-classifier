@@ -140,5 +140,17 @@
   ],
   "cotton fabric": [
     {"hts_code": "5208.52.30.00", "chapter": "52", "label_ja": "綿織物・プリント生地（重量・織り方で細分要確認）"}
+  ],
+  "furoshiki": [
+    {"hts_code": "6307.90.98.91", "chapter": "63", "label_ja": "風呂敷（その他の繊維製品）"}
+  ],
+  "wrapping cloth": [
+    {"hts_code": "6307.90.98.91", "chapter": "63", "label_ja": "ラッピングクロス・風呂敷（その他の繊維製品）"}
+  ],
+  "patchwork fabric": [
+    {"hts_code": "5208.52.40.45", "chapter": "52", "label_ja": "プリント綿織物（パッチワーク柄）"}
+  ],
+  "decorative cloth": [
+    {"hts_code": "6307.90.98.91", "chapter": "63", "label_ja": "装飾用布製品（その他の繊維製品）"}
   ]
 }
