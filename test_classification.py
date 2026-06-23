@@ -115,6 +115,9 @@ CASES = [
     ("アクションフィギュア", _q("plastic", "action figure toy", "collectible display toy",
         ["action figure", "toy figure", "plastic figure", "collectible figure", "monster figure"]),
         "9503.00.00.73", ["95"]),
+    ("電動ブロワー", _q("plastic metal", "electric blower handheld blower", "blowing away dust and debris",
+        ["electric blower", "handheld blower", "power tool", "dust blower"]),
+        "8414.59.65.95", ["84", "85"]),
 ]
 
 

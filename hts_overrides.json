@@ -1,5 +1,11 @@
 {
   "_comment": "category_hint に含まれるキーワードと HTS コードの直接マッピング。スコアリングより優先して先頭に表示する。",
+  "electric blower": {"hts_code": "8414.59.65.95", "chapter": "84"},
+  "handheld blower": {"hts_code": "8414.59.65.95", "chapter": "84"},
+  "dust blower": {"hts_code": "8414.59.65.95", "chapter": "84"},
+  "air blower": {"hts_code": "8414.59.65.95", "chapter": "84"},
+  "leaf blower": {"hts_code": "8414.59.65.95", "chapter": "84"},
+  "blower": {"hts_code": "8414.59.65.95", "chapter": "84"},
   "cutting mat": {"hts_code": "3926.90.99.89", "chapter": "39"},
   "self-healing mat": {"hts_code": "3926.90.99.89", "chapter": "39"},
   "craft mat": {"hts_code": "3926.90.99.89", "chapter": "39"},
