@@ -279,6 +279,11 @@ CONTEXT_DEPENDENT_TOKENS = {
     # Only score when christmas/nativity context is explicitly present.
     "figures": {"nativiti", "christma", "festiv", "creche", "manger"},
     "figure": {"nativiti", "christma", "festiv", "creche", "manger"},
+    # "tank"/"reservoir"/"vat" in 3925 require large-capacity context.
+    # Small storage boxes use 3924; only score 3925 for genuine tanks/silos.
+    "tank": {"reserv", "capacit", "liter", "litre", "gallon", "silo", "cistern", "vat"},
+    "reservoir": {"capacit", "liter", "litre", "gallon", "silo", "cistern", "tank"},
+    "vat": {"capacit", "liter", "litre", "gallon", "cistern", "tank", "brew"},
 }
 
 

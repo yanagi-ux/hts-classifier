@@ -75,6 +75,21 @@
   "recorded cd": [
     {"hts_code": "8523.49.30.00", "chapter": "85", "label_ja": "記録済み光ディスク（音楽CD・音声再生用）"}
   ],
+  "storage box": [
+    {"hts_code": "3924.90.56.50", "chapter": "39", "label_ja": "プラスチック製収納ボックス・整理箱（家庭用品）"}
+  ],
+  "storage organizer": [
+    {"hts_code": "3924.90.56.50", "chapter": "39", "label_ja": "プラスチック製収納オーガナイザー（家庭用品）"}
+  ],
+  "organizer box": [
+    {"hts_code": "3924.90.56.50", "chapter": "39", "label_ja": "プラスチック製整理ボックス（家庭用品）"}
+  ],
+  "desk organizer": [
+    {"hts_code": "3924.90.56.50", "chapter": "39", "label_ja": "プラスチック製デスクオーガナイザー（家庭用品）"}
+  ],
+  "drawer organizer": [
+    {"hts_code": "3924.90.56.50", "chapter": "39", "label_ja": "プラスチック製引き出し整理ボックス（家庭用品）"}
+  ],
   "action figure": [
     {"hts_code": "9503.00.00.73", "chapter": "95", "label_ja": "玩具フィギュア・アクションフィギュア（プラスチック製）"}
   ],
