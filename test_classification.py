@@ -118,6 +118,9 @@ CASES = [
     ("電動ブロワー", _q("plastic metal", "electric blower handheld blower", "blowing away dust and debris",
         ["electric blower", "handheld blower", "power tool", "dust blower"]),
         "8414.59.65.95", ["84", "85"]),
+    ("エレキギター", _q("wood metal plastic", "electric guitar solid body guitar", "string instrument amplified electrically",
+        ["electric guitar", "string instrument", "musical instrument", "solid body guitar"]),
+        "9207.90.00.40", ["92"]),
 ]
 
 

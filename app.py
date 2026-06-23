@@ -331,6 +331,12 @@ _HINT_INCLUDE_CHAPTERS: dict[str, list[str]] = {
     "wallet": ["42"],
     "wristwatch": ["91"],
     "vinyl record": ["85"],
+    # 楽器
+    "electric guitar": ["92"],
+    "bass guitar": ["92"],
+    "solid body guitar": ["92"],
+    "electric stringed instrument": ["92"],
+    "guitar": ["92"],
     # 送風機・ファン（電動工具系）
     "blower": ["84"],
     "electric blower": ["84"],
@@ -432,6 +438,8 @@ _JA_TO_EN_APP: dict[str, str] = {
     "ピンバッジ": "pin badge", "缶バッジ": "button badge", "バッジ": "badge",
     "アクリルスタンド": "acrylic stand", "アクスタ": "acrylic stand",
     "チャーム": "charm", "キーチェーン": "charm",
+    "エレクトリックギター": "electric guitar", "エレキギター": "electric guitar",
+    "ソリッドボディギター": "solid body guitar", "エレキベース": "bass guitar",
     "ブロワー": "blower", "ブロアー": "blower", "送風機": "blower",
     "電動ブロワー": "electric blower", "ハンドヘルドブロワー": "handheld blower",
     "ダストブロワー": "dust blower", "エアブロワー": "air blower", "リーフブロワー": "leaf blower",
