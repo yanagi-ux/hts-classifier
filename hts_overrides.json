@@ -90,6 +90,15 @@
   "drawer organizer": [
     {"hts_code": "3924.90.56.50", "chapter": "39", "label_ja": "プラスチック製引き出し整理ボックス（家庭用品）"}
   ],
+  "pet bed": [
+    {"hts_code": "6307.90.98.91", "chapter": "63", "label_ja": "ペット用ベッド・マット（繊維製その他の製品）"}
+  ],
+  "pet mat": [
+    {"hts_code": "6307.90.98.91", "chapter": "63", "label_ja": "ペット用マット・クッション（繊維製その他の製品）"}
+  ],
+  "pet cushion": [
+    {"hts_code": "6307.90.98.91", "chapter": "63", "label_ja": "ペット用クッション（繊維製その他の製品）"}
+  ],
   "hobby magazine": [
     {"hts_code": "4902.90.20.60", "chapter": "49", "label_ja": "ホビー雑誌・模型誌等の定期刊行物"}
   ],

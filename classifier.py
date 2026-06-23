@@ -284,6 +284,9 @@ CONTEXT_DEPENDENT_TOKENS = {
     "tank": {"reserv", "capacit", "liter", "litre", "gallon", "silo", "cistern", "vat"},
     "reservoir": {"capacit", "liter", "litre", "gallon", "silo", "cistern", "tank"},
     "vat": {"capacit", "liter", "litre", "gallon", "cistern", "tank", "brew"},
+    # "bed" alone scores 9402 (hospital/medical beds). Only score ch94
+    # when medical/hospital context is present; pet/floor beds belong elsewhere.
+    "bed": {"hospit", "medic", "patient", "surgic", "clinic", "nurs"},
 }
 
 
