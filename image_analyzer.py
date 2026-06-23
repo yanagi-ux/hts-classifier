@@ -468,9 +468,14 @@ def analyze_and_predict(
             + "\n\n【追加指示】上記の判断に加えて、この商品が該当する米国HTSの章番号を"
               "最大3つ選び \"chapter_hints\" に含めてください。\n"
               f"章の選択肢:\n{chapters_list}\n"
-            + "最終的な出力JSONは必ず次の5項目の形式にしてください（説明・前置き不要）:\n"
+            + "また、material/function/category_hint/keywords それぞれの"
+              "日本語訳を material_ja/function_ja/category_hint_ja/keywords_ja に入れてください"
+              "（英語フィールドは分類用なので必ず英語のまま残すこと）。\n"
+            + "最終的な出力JSONは必ず次の形式にしてください（説明・前置き不要）:\n"
             + '{"material": "...", "function": "...", "category_hint": "...", '
-              '"keywords": ["..."], "chapter_hints": ["95"]}'
+              '"keywords": ["..."], "chapter_hints": ["95"], '
+              '"material_ja": "...", "function_ja": "...", "category_hint_ja": "...", '
+              '"keywords_ja": ["..."]}'
         ),
         "cache_control": {"type": "ephemeral"},
     }]
@@ -485,7 +490,7 @@ def analyze_and_predict(
         response = _api_call_with_backoff(
             client.messages.create,
             model=model,
-            max_tokens=600,
+            max_tokens=800,
             system=combined_system,
             messages=[{"role": "user", "content": [image_block, text_block]}],
             extra_headers={"anthropic-beta": "prompt-caching-2024-07-31"},
@@ -494,6 +499,13 @@ def analyze_and_predict(
                       if getattr(b, "type", None) == "text").strip()
         parsed = _parse_json_response(raw)
         hints_ = [str(h) for h in parsed.get("chapter_hints", []) if str(h) in chapters]
+        # 表示用の日本語フィールド（分類には使わない・同じ呼び出しで取得＝追加課金なし）
+        ja = {
+            "material_ja": parsed.get("material_ja", ""),
+            "function_ja": parsed.get("function_ja", ""),
+            "category_hint_ja": parsed.get("category_hint_ja", ""),
+            "keywords_ja": parsed.get("keywords_ja", []),
+        }
         a = {
             "material": parsed.get("material", ""),
             "function": parsed.get("function", ""),
@@ -518,7 +530,7 @@ def analyze_and_predict(
                 "keywords": [k for k in a.get("keywords", []) if not _NON_ASCII_RE.search(k)] + fallback_keywords,
                 "_translation_fallback": True,
             }
-        return _normalize_terms(a), hints_
+        return {**_normalize_terms(a), **ja}, hints_
 
     # ① 一次解析は低単価のHaikuで実行
     analysis, hints = _run(CLAUDE_MODEL_FAST if HYBRID_MODE else CLAUDE_MODEL)

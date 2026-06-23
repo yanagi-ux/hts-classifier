@@ -197,6 +197,50 @@ _HINT_INCLUDE_CHAPTERS: dict[str, list[str]] = {
 }
 
 
+# 画像解析の表示用 英語→日本語 用語辞書（モデルのJA出力が無い場合のフォールバック）
+_TERM_JA: dict[str, str] = {
+    "plastic": "プラスチック", "metal": "金属", "wood": "木", "wooden": "木製",
+    "paper": "紙", "cardboard": "段ボール", "paperboard": "板紙", "rubber": "ゴム",
+    "glass": "ガラス", "ceramic": "陶磁器", "porcelain": "磁器", "textile": "繊維",
+    "cotton": "綿", "polyester": "ポリエステル", "steel": "鋼", "stainless steel": "ステンレス鋼",
+    "iron": "鉄", "aluminum": "アルミニウム", "aluminium": "アルミニウム", "brass": "真鍮",
+    "leather": "革", "silicone": "シリコーン", "vinyl": "ビニール", "acrylic": "アクリル",
+    "fabric": "布", "nylon": "ナイロン", "pvc": "塩化ビニル", "foam": "発泡材",
+    "box": "箱", "packaging box": "包装箱", "cardboard box": "段ボール箱",
+    "folding carton": "折りたたみ式カートン", "folding carton box": "折りたたみ式カートン箱",
+    "retail packaging": "小売用包装", "packaging": "包装",
+    "product packaging and storage": "製品の包装・保管",
+    "pin badge": "ピンバッジ", "badge": "バッジ", "brooch": "ブローチ",
+    "toy": "玩具", "doll": "人形", "figure": "フィギュア", "tricycle": "三輪車",
+    "book": "書籍", "printed book": "印刷書籍", "card": "カード",
+}
+
+
+def _ja_term(text: str) -> str:
+    """用語辞書で英語→日本語に変換。未収録はそのまま返す。"""
+    if not text:
+        return text
+    return _TERM_JA.get(text.lower().strip(), text)
+
+
+def _analysis_ja_view(analysis: dict) -> dict:
+    """画像解析結果を日本語表示用のdictに整える。
+    モデルが返したJAフィールドを優先し、無ければ用語辞書でフォールバック。
+    """
+    def pick(en_key, ja_key):
+        return analysis.get(ja_key) or _ja_term(analysis.get(en_key, ""))
+
+    kws_ja = analysis.get("keywords_ja")
+    if not kws_ja:
+        kws_ja = [_ja_term(k) for k in analysis.get("keywords", [])]
+    return {
+        "材質": pick("material", "material_ja"),
+        "用途・機能": pick("function", "function_ja"),
+        "商品区分": pick("category_hint", "category_hint_ja"),
+        "キーワード": kws_ja,
+    }
+
+
 def _build_query(analysis: dict | None, suruga_keywords: list[str]) -> dict:
     if analysis:
         return {
@@ -610,7 +654,7 @@ if batch_results:
 
                 if item.get("image_analysis"):
                     with st.expander("画像解析結果（参考）"):
-                        st.json(item["image_analysis"])
+                        st.json(_analysis_ja_view(item["image_analysis"]))
 
                 st.divider()
 
