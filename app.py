@@ -200,6 +200,10 @@ _HINT_INCLUDE_CHAPTERS: dict[str, list[str]] = {
     "game console": ["95", "85"],
     "gaming device": ["95", "85"],
     "handheld game": ["95", "85"],
+    "arcade": ["95", "85"],
+    "recorded dvd": ["85"],
+    "movie dvd": ["85"],
+    "music cd": ["85"],
 }
 
 

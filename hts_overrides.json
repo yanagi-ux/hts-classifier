@@ -47,5 +47,23 @@
   ],
   "handheld game": [
     {"hts_code": "9504.50.00.00", "chapter": "95", "label_ja": "ビデオゲーム機（家庭用・携帯ゲーム機）"}
+  ],
+  "arcade": [
+    {"hts_code": "9504.50.00.00", "chapter": "95", "label_ja": "ビデオゲーム機（家庭用。コイン式は9504.30）"}
+  ],
+  "recorded dvd": [
+    {"hts_code": "8523.49.50.00", "chapter": "85", "label_ja": "記録済み光ディスク（DVD・映像）"}
+  ],
+  "movie dvd": [
+    {"hts_code": "8523.49.50.00", "chapter": "85", "label_ja": "記録済み光ディスク（DVD・映像）"}
+  ],
+  "recorded blu-ray": [
+    {"hts_code": "8523.49.50.00", "chapter": "85", "label_ja": "記録済み光ディスク（Blu-ray・映像）"}
+  ],
+  "music cd": [
+    {"hts_code": "8523.49.30.00", "chapter": "85", "label_ja": "記録済み光ディスク（音楽CD・音声再生用）"}
+  ],
+  "recorded cd": [
+    {"hts_code": "8523.49.30.00", "chapter": "85", "label_ja": "記録済み光ディスク（音楽CD・音声再生用）"}
   ]
 }
