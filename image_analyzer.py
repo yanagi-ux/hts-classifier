@@ -74,6 +74,28 @@ def _is_weak_analysis(analysis: dict) -> bool:
     return not cat and not kws
 
 
+# 平面の印刷キャラ物（書籍・カード・ポスター・アクスタ等）と取り違えやすい区分。
+# Haikuがこれらと判定した場合はSonnetで再確認する（誤読を捕捉）。
+_AMBIGUOUS_CATEGORY_TOKENS = ("figure", "doll", "statuette", "figurine")
+
+
+def _should_escalate(analysis: dict, hints=None) -> bool:
+    """Haikuの結果をSonnetで再判定すべきならTrue（ハイブリッドの昇格条件）。"""
+    if _is_weak_analysis(analysis):
+        return True
+    if hints is not None and not hints:
+        return True
+    # Haikuが自己申告した確信度が high でなければ昇格
+    if (analysis.get("_confidence") or "").lower() in ("low", "medium"):
+        return True
+    # 混同しやすい区分（フィギュア等）は積極的に再確認
+    text = (
+        (analysis.get("category_hint") or "") + " "
+        + " ".join(str(k) for k in analysis.get("keywords", []))
+    ).lower()
+    return any(t in text for t in _AMBIGUOUS_CATEGORY_TOKENS)
+
+
 # 指数バックオフの設定
 _BACKOFF_MAX_RETRIES = 6       # 最大リトライ回数
 _BACKOFF_BASE_SEC    = 1.0     # 初回待機秒数
@@ -405,9 +427,9 @@ def analyze_image_ensemble(
 
     results: list[dict] = []
     for _ in range(n):
-        # 一次解析はHaiku、弱ければSonnetで再判定（ハイブリッド）
+        # 一次解析はHaiku、弱い／混同しやすい区分ならSonnetで再判定（ハイブリッド）
         a = _one(CLAUDE_MODEL_FAST if HYBRID_MODE else CLAUDE_MODEL)
-        if HYBRID_MODE and _is_weak_analysis(a):
+        if HYBRID_MODE and _should_escalate(a):
             a = _one(CLAUDE_MODEL)
         results.append(a)
 
@@ -471,11 +493,15 @@ def analyze_and_predict(
             + "また、material/function/category_hint/keywords それぞれの"
               "日本語訳を material_ja/function_ja/category_hint_ja/keywords_ja に入れてください"
               "（英語フィールドは分類用なので必ず英語のまま残すこと）。\n"
+            + "さらに、画像から商品の物理的な種類をどれだけ確信できるかを "
+              "\"confidence\" に high/medium/low で入れてください。"
+              "平面の印刷物（書籍・カード・ポスター）と立体物（フィギュア等）の区別が"
+              "曖昧な場合は必ず low か medium にしてください。\n"
             + "最終的な出力JSONは必ず次の形式にしてください（説明・前置き不要）:\n"
             + '{"material": "...", "function": "...", "category_hint": "...", '
               '"keywords": ["..."], "chapter_hints": ["95"], '
               '"material_ja": "...", "function_ja": "...", "category_hint_ja": "...", '
-              '"keywords_ja": ["..."]}'
+              '"keywords_ja": ["..."], "confidence": "high"}'
         ),
         "cache_control": {"type": "ephemeral"},
     }]
@@ -530,12 +556,13 @@ def analyze_and_predict(
                 "keywords": [k for k in a.get("keywords", []) if not _NON_ASCII_RE.search(k)] + fallback_keywords,
                 "_translation_fallback": True,
             }
-        return {**_normalize_terms(a), **ja}, hints_
+        conf = {"_confidence": str(parsed.get("confidence", "")).strip()}
+        return {**_normalize_terms(a), **ja, **conf}, hints_
 
     # ① 一次解析は低単価のHaikuで実行
     analysis, hints = _run(CLAUDE_MODEL_FAST if HYBRID_MODE else CLAUDE_MODEL)
-    # ② 結果が弱い（カテゴリ/キーワード欠落・翻訳失敗・章未取得）ときだけSonnetで再判定
-    if HYBRID_MODE and (_is_weak_analysis(analysis) or not hints):
+    # ② 弱い／確信度が非high／混同しやすい区分（フィギュア等）はSonnetで再判定
+    if HYBRID_MODE and _should_escalate(analysis, hints):
         analysis, hints = _run(CLAUDE_MODEL)
 
     # 駿河屋カテゴリDBで章を補完
