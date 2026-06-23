@@ -324,6 +324,78 @@ def _entry_label_ja(entry: dict | None) -> str:
     return JP_LABELS.get(_re.sub(r"\(\d+\)\s*$", "", desc).rstrip(":").strip(), "") or desc
 
 
+# 品名にこれらの代表語が含まれていたら、画像解析API(高コスト)を呼ばず
+# テキストだけで分類する。値: category_hint(英)・候補章・既定材質(任意)。
+# 確実に分類が定まる品目（オーバーライドがある品目）に限定する。
+_DECISIVE_TERMS: dict[str, dict] = {
+    "ピンバッジ": {"hint": "pin badge", "chapters": ["39", "83", "71"], "material": "plastic"},
+    "缶バッジ": {"hint": "button badge", "chapters": ["39", "83", "71"], "material": "plastic"},
+    "カッティングマット": {"hint": "cutting mat", "chapters": ["39"], "material": "plastic"},
+    "アクリルスタンド": {"hint": "acrylic stand", "chapters": ["39"], "material": "plastic"},
+    "アクスタ": {"hint": "acrylic stand", "chapters": ["39"], "material": "plastic"},
+    "チャーム": {"hint": "charm", "chapters": ["39", "71"], "material": "plastic"},
+    "トレカ": {"hint": "trading card", "chapters": ["95", "49"]},
+    "トレーディングカード": {"hint": "trading card", "chapters": ["95", "49"]},
+    "ゲーム機": {"hint": "game console", "chapters": ["95", "85"]},
+    "テレビ": {"hint": "television receiver", "chapters": ["85"]},
+    "ブルーレイ": {"hint": "recorded blu-ray", "chapters": ["85"]},
+    "音楽cd": {"hint": "music cd", "chapters": ["85"]},
+    "同人誌": {"hint": "self-published book", "chapters": ["49"], "material": "paper"},
+    "漫画": {"hint": "comic book", "chapters": ["49"], "material": "paper"},
+    "コミック": {"hint": "comic book", "chapters": ["49"], "material": "paper"},
+    "tシャツ": {"hint": "t-shirt", "chapters": ["61"], "material": "cotton"},
+    "ｔシャツ": {"hint": "t-shirt", "chapters": ["61"], "material": "cotton"},
+    "ズボン": {"hint": "trousers", "chapters": ["62"], "material": "cotton"},
+    "ジーンズ": {"hint": "jeans", "chapters": ["62"], "material": "cotton"},
+    "デニム": {"hint": "denim", "chapters": ["62"], "material": "cotton"},
+    "ショーツ": {"hint": "shorts", "chapters": ["62"], "material": "cotton"},
+    "スニーカー": {"hint": "sneaker", "chapters": ["64"]},
+    "レンチ": {"hint": "wrench", "chapters": ["82"], "material": "metal"},
+    "スパナ": {"hint": "spanner", "chapters": ["82"], "material": "metal"},
+    "ゴム印": {"hint": "rubber stamp", "chapters": ["96"]},
+    "造花": {"hint": "artificial flower", "chapters": ["67"]},
+    "プレスフラワー": {"hint": "pressed flower", "chapters": ["67", "39"]},
+    "ドライフラワー": {"hint": "dried flower", "chapters": ["67", "39"]},
+}
+
+
+def _decisive_match(text: str) -> tuple[str, dict] | tuple[None, None]:
+    """品名テキストに代表語が含まれていれば (代表語, 情報) を返す。"""
+    t = (text or "").lower()
+    for term, info in _DECISIVE_TERMS.items():
+        if term.lower() in t:
+            return term, info
+    return None, None
+
+
+def _classify_text_only(image_bytes: bytes, image_name: str, text_ctx: str,
+                        term: str, info: dict, suruga_kw: list[str]) -> dict:
+    """代表語ヒット時：画像APIを呼ばずテキストだけで分類する。"""
+    mat = material or info.get("material", "")  # 入力材質を優先、無ければ既定
+    query = {
+        "product_name": "", "material": mat, "category_hint": info["hint"],
+        "function": "", "keywords": [info["hint"]] + suruga_kw, "spec": "",
+    }
+    chapters = [c for c in info["chapters"] if c in SUPPORTED_CHAPTERS]
+    for k in chapters:
+        if not (DATA_DIR / SUPPORTED_CHAPTERS[k]["data_file"]).exists():
+            _download_chapter(k, SUPPORTED_CHAPTERS[k]["data_file"])
+    chapter_files = [
+        (k, SUPPORTED_CHAPTERS[k]["data_file"]) for k in chapters
+        if (DATA_DIR / SUPPORTED_CHAPTERS[k]["data_file"]).exists()
+    ]
+    results = apply_hts_overrides(
+        classify_per_chapter_ensemble([query], chapter_files=chapter_files, top_n_per_chapter=3),
+        [query],
+    )
+    return {
+        "filename": image_name, "image_bytes": image_bytes, "image_analysis": None,
+        "results": results, "detected_chapters": chapters, "is_auto": True,
+        "cache_hit_l1": False, "cache_hit_l2": False,
+        "text_only": True, "decisive_term": term,
+    }
+
+
 def _build_query(analysis: dict | None, suruga_keywords: list[str]) -> dict:
     if analysis:
         return {
@@ -349,6 +421,11 @@ def _classify_one(img_file, text_ctx: str, ch_key: str) -> dict:
     image_bytes = img_file.getvalue()
     image_name  = img_file.name
     suruga_kw   = get_extra_keywords(text_ctx)
+
+    # 品名に代表語があれば画像APIを呼ばずテキスト判定（コスト・レート節約）
+    _term, _info = _decisive_match(text_ctx)
+    if _term:
+        return _classify_text_only(image_bytes, image_name, text_ctx, _term, _info, suruga_kw)
 
     if ch_key == AUTO_KEY:
         # 1回のAPIで「解析＋章推定」を同時取得（旧2回API→1回に統合）
@@ -751,7 +828,9 @@ if batch_results:
                 st.divider()
 
             # ── キャッシュ・Chapter情報 ────────────────────────────────────
-            if item.get("cache_hit_l1"):
+            if item.get("text_only"):
+                st.info(f"📝 テキスト判定（品名「{item.get('decisive_term','')}」により画像解析をスキップ＝API課金なし）")
+            elif item.get("cache_hit_l1"):
                 st.info("⚡ L1キャッシュヒット（同一画像 — APIスキップ）")
             elif item.get("cache_hit_l2"):
                 st.info("⚡ L2キャッシュヒット（同じ分析結果 — 照合スキップ）")
