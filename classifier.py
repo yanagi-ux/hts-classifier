@@ -126,7 +126,9 @@ def _expand_with_synonyms(tokens: set[str], synonyms: dict) -> set[str]:
     joined = " ".join(tokens)
     for term, alts in synonyms.items():
         term_tokens = {_stem(t) for t in re.findall(r"[a-z0-9]+", term.lower())}
-        if term_tokens <= tokens or term.lower() in joined:
+        # 単語キーはトークン一致のみ。フレーズ(スペース含む)のみ部分文字列照合を許可。
+        # （"cd" が "lcd" に部分一致する等の誤展開を防ぐ）
+        if term_tokens <= tokens or (" " in term and term.lower() in joined):
             for alt in alts:
                 expanded |= {_stem(t) for t in re.findall(r"[a-z0-9]+", alt.lower())}
     return expanded
@@ -167,7 +169,8 @@ def _expand_weights_with_synonyms(weights: dict[str, float], synonyms: dict) -> 
     joined = " ".join(tokens)
     for term, alts in synonyms.items():
         term_tokens = {_stem(t) for t in re.findall(r"[a-z0-9]+", term.lower())}
-        if term_tokens <= tokens or term.lower() in joined:
+        # 単語キーはトークン一致のみ。フレーズ(スペース含む)のみ部分文字列照合を許可。
+        if term_tokens <= tokens or (" " in term and term.lower() in joined):
             source_weight = max((weights[t] for t in term_tokens if t in weights), default=1.0)
             for alt in alts:
                 for t in {_stem(x) for x in re.findall(r"[a-z0-9]+", alt.lower())}:

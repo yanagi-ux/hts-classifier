@@ -14,5 +14,8 @@
   "badge": [
     {"hts_code": "3926.40.00.90", "chapter": "39", "material": "plastic", "label_ja": "プラスチック製の装飾品（バッジ等）"},
     {"hts_code": "8308.90.90.00", "chapter": "83", "material": "metal", "label_ja": "卑金属製のバッジ・留め具等"}
+  ],
+  "television": [
+    {"hts_code": "8528.72.64.60", "chapter": "85", "label_ja": "テレビ受像機（カラー・フラットパネル、画面サイズ要確認）"}
   ]
 }
