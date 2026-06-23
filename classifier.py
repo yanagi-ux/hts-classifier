@@ -265,7 +265,11 @@ def _stem(word: str) -> str:
     """単数/複数などの語形差を吸収する簡易ステミング。"""
     if len(word) > 4 and word.endswith("ies"):
         return word[:-3] + "y"
-    if len(word) > 4 and word.endswith("es") and not word.endswith("ses"):
+    # "-es" を取るのは sibilant(s/x/z/ch/sh)+es のときだけ。
+    # それ以外の "...es"(bicycles/cycles/vehicles/tables 等)は単に "s" を取り、
+    # 単数形(bicycle 等)と一致させる。旧実装は "bicycles"→"bicycl" として
+    # 単数 "bicycle" と不一致になっていた。
+    if len(word) > 4 and word.endswith(("ses", "xes", "zes", "ches", "shes")):
         return word[:-2]
     if len(word) > 3 and word.endswith("s") and not word.endswith("ss"):
         return word[:-1]
@@ -337,6 +341,42 @@ def _expand_weights_with_synonyms(weights: dict[str, float], synonyms: dict) -> 
 
 OWN_DESC_WEIGHT = 3  # そのコード自身の説明文への一致の重み
 ANCESTOR_DESC_WEIGHT = 1  # 継承された上位階層(見出し文)への一致の重み
+
+# 主名詞/修飾語ペナルティ:
+# 「自転車速度計(Bicycle speedometers)」のように、商品語(bicycle)が説明文の
+# 主名詞ではなく"修飾語/目的語"位置でしか一致していないエントリは、その商品その
+# ものではなく別物(速度計)の分類なので越境マッチである。一致が修飾語位置のみの
+# とき score を減点して、正しい章の本来エントリ(主名詞一致)に順位を譲らせる。
+HEAD_MODIFIER_PENALTY = 0.3
+# 主名詞の前に来る節/前置詞マーカー。これがある場合は主名詞がマーカーの直前まで
+# にあり(例 "Bicycles having both wheels..."→bicycle が主名詞)、無い場合は単純な
+# 複合名詞句なので末尾語が主名詞(例 "Bicycle speedometers"→speedometers)。
+_CLAUSE_MARKERS = {
+    "having", "of", "with", "for", "used", "containing", "incorporating",
+    "whether", "including", "than", "designed",
+}
+
+
+def _is_modifier_only_match(own_desc: str, own_matched: set[str]) -> bool:
+    """own_desc の主名詞が own_matched(クエリ一致語)に含まれず、一致が修飾語位置の
+    みのとき True。商品語が説明文の主役でない=越境マッチを示す。"""
+    if not own_desc or not own_matched:
+        return False
+    raw = re.findall(r"[a-z0-9]+", own_desc.lower())
+    stems = [_stem(t) for t in raw]
+    meaningful = [s for s in stems if len(s) > 2 and s not in STOPWORDS]
+    if not meaningful:
+        return False
+    head: str | None = None
+    for i, t in enumerate(raw):
+        if t in _CLAUSE_MARKERS:
+            before = [s for s in stems[:i] if len(s) > 2 and s not in STOPWORDS]
+            if before:
+                head = before[-1]
+            break
+    if head is None:
+        head = meaningful[-1]
+    return head not in own_matched
 
 # あるトークンが「副素材・副成分」として含まれるだけで無関係な章に誤マッチするのを防ぐ。
 # required_context のいずれかが同時に存在しない限り、そのトークンをクエリから除外する。
@@ -494,6 +534,11 @@ def _score_entries(query_weights: dict[str, float], entries: list[dict]) -> dict
         score = own_matched_weight * OWN_DESC_WEIGHT + ancestor_matched_weight * ANCESTOR_DESC_WEIGHT
         if score == 0:
             continue
+
+        # 商品語が own_desc の主名詞でなく修飾語位置のみで一致している越境エントリを減点。
+        # (own一致が全く無く ancestor のみの一致の場合は対象外: own_matched が空なら影響なし)
+        if own_matched and _is_modifier_only_match(own_desc, own_matched):
+            score *= HEAD_MODIFIER_PENALTY
 
         own_match_ratio = len(own_matched) / len(own_meaningful_tokens) if own_meaningful_tokens else 0.0
         max_field_weight = max(FIELD_WEIGHTS.values())
