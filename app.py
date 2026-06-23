@@ -347,6 +347,11 @@ _HINT_INCLUDE_CHAPTERS: dict[str, list[str]] = {
     "dust blower": ["84"],
     "leaf blower": ["84"],
     "air blower": ["84"],
+    # 自転車（ch90の「自転車速度計」等への越境を防ぐため車両章87に固定）
+    "bicycle": ["87"],
+    "road bicycle": ["87"],
+    "hybrid bicycle": ["87"],
+    "cycle": ["87"],
 }
 
 
@@ -446,6 +451,8 @@ _JA_TO_EN_APP: dict[str, str] = {
     "ブロワー": "blower", "ブロアー": "blower", "送風機": "blower",
     "電動ブロワー": "electric blower", "ハンドヘルドブロワー": "handheld blower",
     "ダストブロワー": "dust blower", "エアブロワー": "air blower", "リーフブロワー": "leaf blower",
+    "自転車": "bicycle", "ロードバイク": "road bicycle", "ハイブリッドバイク": "hybrid bicycle",
+    "クロスバイク": "hybrid bicycle", "サイクル": "cycle", "ペダル駆動車両": "bicycle",
     "トレーディングカード": "trading card", "トレカ": "trading card",
     "ゲーム機": "game console", "ゲームソフト": "game console",
     "テレビ": "television", "テレビ受像機": "television",

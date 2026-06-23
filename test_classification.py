@@ -121,6 +121,9 @@ CASES = [
     ("エレキギター", _q("wood metal plastic", "electric guitar solid body guitar", "string instrument amplified electrically",
         ["electric guitar", "string instrument", "musical instrument", "solid body guitar"]),
         "9207.90.00.40", ["92"]),
+    ("自転車", _q("metal and plastic", "bicycle", "human powered transport vehicle",
+        ["bicycle", "road bike", "hybrid bike", "cycle", "pedal vehicle"]),
+        "8712.00.48.00", ["87", "90"]),
 ]
 
 
