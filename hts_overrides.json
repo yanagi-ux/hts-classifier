@@ -90,6 +90,24 @@
   "drawer organizer": [
     {"hts_code": "3924.90.56.50", "chapter": "39", "label_ja": "プラスチック製引き出し整理ボックス（家庭用品）"}
   ],
+  "building block": [
+    {"hts_code": "9503.00.00.90", "chapter": "95", "label_ja": "組み立てブロック玩具（ナノブロック・マイクロブロック等）"}
+  ],
+  "construction toy": [
+    {"hts_code": "9503.00.00.90", "chapter": "95", "label_ja": "組み立て玩具（プラスチック製ブロック等）"}
+  ],
+  "nano block": [
+    {"hts_code": "9503.00.00.90", "chapter": "95", "label_ja": "ナノブロック・マイクロブロック（組み立て玩具）"}
+  ],
+  "micro block": [
+    {"hts_code": "9503.00.00.90", "chapter": "95", "label_ja": "マイクロブロック（組み立て玩具）"}
+  ],
+  "block toy": [
+    {"hts_code": "9503.00.00.90", "chapter": "95", "label_ja": "ブロック玩具（組み立て玩具）"}
+  ],
+  "assembly toy": [
+    {"hts_code": "9503.00.00.90", "chapter": "95", "label_ja": "組み立て玩具（プラスチック製）"}
+  ],
   "action figure": [
     {"hts_code": "9503.00.00.73", "chapter": "95", "label_ja": "玩具フィギュア・アクションフィギュア（プラスチック製）"}
   ],
