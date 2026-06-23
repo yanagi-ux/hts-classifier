@@ -790,12 +790,16 @@ def _classify_one(img_file, text_ctx: str, ch_key: str) -> dict:
         query_list = [_build_query(image_analysis, suruga_kw)]
 
         # 画像ヒントに基づく章の除外フィルタを後段で適用
-        # 日本語→英語の正規化も適用し、日本語カテゴリでも章ヒントが効くようにする
-        img_hint_lower = _normalize_hint_app(" ".join(filter(None, [
-            (image_analysis or {}).get("category_hint", ""),
-            (image_analysis or {}).get("function", ""),
-            " ".join((image_analysis or {}).get("keywords", [])),
-        ])))
+        # 日本語→英語の正規化も適用し、日本語カテゴリでも章ヒントが効くようにする。
+        # 翻訳失敗(_translation_fallback)でフィールドが空になった場合は
+        # _ja フィールド（常に日本語で保存される）を補完として使う。
+        _ia = image_analysis or {}
+        _hint_parts = [
+            _ia.get("category_hint", "") or _ia.get("category_hint_ja", ""),
+            _ia.get("function", "") or _ia.get("function_ja", ""),
+            " ".join(_ia.get("keywords", []) or _ia.get("keywords_ja", [])),
+        ]
+        img_hint_lower = _normalize_hint_app(" ".join(filter(None, _hint_parts)))
         exclude_chs: set[str] = set()
         for hint_key, excl_list in _HINT_EXCLUDE_CHAPTERS.items():
             if hint_key in img_hint_lower:

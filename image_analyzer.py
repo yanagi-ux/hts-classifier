@@ -69,6 +69,8 @@ def _is_weak_analysis(analysis: dict) -> bool:
     """解析結果が弱い（信頼できない）ときTrue。Sonnet再判定の判断に使う。"""
     if analysis.get("_translation_fallback"):
         return True
+    if analysis.get("_parse_failed"):
+        return True
     cat = (analysis.get("category_hint") or "").strip()
     kws = [k for k in analysis.get("keywords", []) if k and str(k).strip()]
     return not cat and not kws
@@ -346,12 +348,14 @@ def _parse_json_response(raw_text: str) -> dict:
         except json.JSONDecodeError:
             pass
 
+    # JSON完全パース失敗: _parse_failed フラグで _should_escalate に伝える
     return {
         "material": "",
         "function": "",
         "category_hint": "",
         "keywords": [],
         "_raw_response": raw_text,
+        "_parse_failed": True,
     }
 
 
