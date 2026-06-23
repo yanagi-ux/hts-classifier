@@ -275,6 +275,10 @@ CONTEXT_DEPENDENT_TOKENS = {
     # 明示的に「ぼろ布・古着」の文脈が無ければスコアに寄与させない。
     "sorted": {"rag", "scrap", "worn", "used", "waste", "cordage"},
     "rags": {"sorted", "scrap", "worn", "waste"},
+    # "figure(s)" alone matches 9505.10.30.00 ("nativity scenes and figures").
+    # Only score when christmas/nativity context is explicitly present.
+    "figures": {"nativiti", "christma", "festiv", "creche", "manger"},
+    "figure": {"nativiti", "christma", "festiv", "creche", "manger"},
 }
 
 

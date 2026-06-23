@@ -75,6 +75,18 @@
   "recorded cd": [
     {"hts_code": "8523.49.30.00", "chapter": "85", "label_ja": "記録済み光ディスク（音楽CD・音声再生用）"}
   ],
+  "action figure": [
+    {"hts_code": "9503.00.00.73", "chapter": "95", "label_ja": "玩具フィギュア・アクションフィギュア（プラスチック製）"}
+  ],
+  "toy figure": [
+    {"hts_code": "9503.00.00.73", "chapter": "95", "label_ja": "玩具フィギュア（プラスチック製）"}
+  ],
+  "collectible figure": [
+    {"hts_code": "9503.00.00.73", "chapter": "95", "label_ja": "コレクタブルフィギュア（プラスチック製）"}
+  ],
+  "plastic figure": [
+    {"hts_code": "9503.00.00.73", "chapter": "95", "label_ja": "プラスチック製フィギュア・玩具"}
+  ],
   "acrylic stand": [
     {"hts_code": "3926.40.00.90", "chapter": "39", "label_ja": "プラスチック製の装飾品（アクリルスタンド）"}
   ],

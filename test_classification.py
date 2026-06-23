@@ -82,6 +82,9 @@ CASES = [
         ["rubber stamp", "self-inking stamp", "office stamp"]), "9611.00.00.00", ["96"]),
     ("造花/プレスフラワー", _q("plant material resin", "pressed flower, dried flower", "decorative craft",
         ["pressed flower", "dried flower", "decorative flower"]), "6702.90.65.00", ["67", "39"]),
+    ("アクションフィギュア", _q("plastic", "action figure toy", "collectible display toy",
+        ["action figure", "toy figure", "plastic figure", "collectible figure", "monster figure"]),
+        "9503.00.00.73", ["95"]),
 ]
 
 
