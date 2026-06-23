@@ -65,5 +65,14 @@
   ],
   "recorded cd": [
     {"hts_code": "8523.49.30.00", "chapter": "85", "label_ja": "記録済み光ディスク（音楽CD・音声再生用）"}
+  ],
+  "acrylic stand": [
+    {"hts_code": "3926.40.00.90", "chapter": "39", "label_ja": "プラスチック製の装飾品（アクリルスタンド）"}
+  ],
+  "standee": [
+    {"hts_code": "3926.40.00.90", "chapter": "39", "label_ja": "プラスチック製の装飾品（アクリルスタンド・スタンディ）"}
+  ],
+  "acrylic figure": [
+    {"hts_code": "3926.40.00.90", "chapter": "39", "label_ja": "プラスチック製の装飾品（アクリルフィギュア）"}
   ]
 }
