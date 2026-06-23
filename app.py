@@ -371,6 +371,55 @@ def _entry_label_ja(entry: dict | None) -> str:
     return JP_LABELS.get(_re.sub(r"\(\d+\)\s*$", "", desc).rstrip(":").strip(), "") or desc
 
 
+# 日本語カテゴリ語→英語のマッピング（classifier._JA_TO_EN_HINT と同内容）
+# app.py内でモジュールレベルに定義することで、インポート順序問題を回避する
+_JA_TO_EN_APP: dict[str, str] = {
+    "ショーツ": "shorts", "短パン": "shorts", "ハーフパンツ": "shorts",
+    "ズボン": "trousers", "パンツ": "trousers", "スラックス": "trousers",
+    "ジーンズ": "jeans", "デニム": "denim",
+    "tシャツ": "t-shirt", "ｔシャツ": "t-shirt",
+    "スニーカー": "sneaker", "運動靴": "athletic shoe", "スポーツシューズ": "sports shoe",
+    "ピンバッジ": "pin badge", "缶バッジ": "button badge", "バッジ": "badge",
+    "アクリルスタンド": "acrylic stand", "アクスタ": "acrylic stand",
+    "チャーム": "charm", "キーチェーン": "charm",
+    "トレーディングカード": "trading card", "トレカ": "trading card",
+    "ゲーム機": "game console", "ゲームソフト": "game console",
+    "テレビ": "television", "テレビ受像機": "television",
+    "dvd": "recorded dvd", "ブルーレイ": "recorded blu-ray",
+    "同人誌": "doujinshi", "同人": "self-published",
+    "漫画": "manga", "コミック": "comic book",
+    "ゴム印": "rubber stamp", "スタンプ": "rubber stamp",
+    "造花": "artificial flower", "プレスフラワー": "pressed flower",
+    "ドライフラワー": "dried flower",
+    "レンチ": "wrench", "スパナ": "spanner",
+    "綿生地": "woven cotton fabric", "プリント生地": "printed cotton fabric",
+    "綿布": "woven cotton fabric",
+    "ステアリングカバー": "steering wheel cover",
+    "カッティングマット": "cutting mat",
+    "フィギュア": "figure toy", "ぬいぐるみ": "stuffed toy",
+    "抱き枕": "dakimakura", "タペストリー": "tapestry",
+    "キーホルダー": "keychain", "ガチャ": "gashapon",
+    "帽子": "hat", "ウィッグ": "wig",
+    "ネックレス": "necklace", "リング": "ring",
+    "イヤリング": "earring", "ピアス": "earring",
+    "腕時計": "wristwatch", "食器": "tableware",
+    "マグカップ": "mug", "タオル": "towel",
+    "ハンドバッグ": "handbag", "リュック": "backpack", "財布": "wallet",
+    "スマートフォン": "smartphone", "カメラ": "camera",
+    "レコード": "vinyl record",
+    "花札": "card game", "将棋": "board game", "囲碁": "board game",
+}
+
+
+def _normalize_hint_app(text: str) -> str:
+    """日本語カテゴリ語を英語に正規化して返す（app.py専用、importなし）。"""
+    result = text.lower()
+    for ja, en in _JA_TO_EN_APP.items():
+        if ja.lower() in result:
+            result += f" {en}"
+    return result
+
+
 # 品名にこれらの代表語が含まれていたら、画像解析API(高コスト)を呼ばず
 # テキストだけで分類する。値: category_hint(英)・候補章・既定材質(任意)。
 # 確実に分類が定まる品目（オーバーライドがある品目）に限定する。
@@ -625,8 +674,7 @@ def _classify_one(img_file, text_ctx: str, ch_key: str) -> dict:
 
         # 画像ヒントに基づく章の除外フィルタを後段で適用
         # 日本語→英語の正規化も適用し、日本語カテゴリでも章ヒントが効くようにする
-        from classifier import _normalize_hint as _nh
-        img_hint_lower = _nh(" ".join(filter(None, [
+        img_hint_lower = _normalize_hint_app(" ".join(filter(None, [
             (image_analysis or {}).get("category_hint", ""),
             (image_analysis or {}).get("function", ""),
             " ".join((image_analysis or {}).get("keywords", [])),
