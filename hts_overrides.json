@@ -90,6 +90,33 @@
   "drawer organizer": [
     {"hts_code": "3924.90.56.50", "chapter": "39", "label_ja": "プラスチック製引き出し整理ボックス（家庭用品）"}
   ],
+  "radio remote control": [
+    {"hts_code": "8526.92.50.00", "chapter": "85", "label_ja": "ラジオリモートコントロール装置（プロポ・ホビー用送信機等）"}
+  ],
+  "rc controller": [
+    {"hts_code": "8526.92.50.00", "chapter": "85", "label_ja": "ラジオリモートコントロール送信機（ホビー用）"}
+  ],
+  "die-cast car": [
+    {"hts_code": "9503.00.00.90", "chapter": "95", "label_ja": "ダイキャスト製ミニカー・スケールモデル（玩具・模型）"}
+  ],
+  "scale model car": [
+    {"hts_code": "9503.00.00.90", "chapter": "95", "label_ja": "縮尺モデルカー（スケールモデル・ミニカー）"}
+  ],
+  "die-cast": [
+    {"hts_code": "9503.00.00.90", "chapter": "95", "label_ja": "ダイキャスト製スケールモデル（玩具・コレクタブル）"}
+  ],
+  "toy vehicle": [
+    {"hts_code": "9503.00.00.90", "chapter": "95", "label_ja": "玩具車両・ミニカー（スケールモデル）"}
+  ],
+  "children's book": [
+    {"hts_code": "4901.99.00.92", "chapter": "49", "label_ja": "児童書・絵本・学習漫画（書籍。ページ数で細分）"}
+  ],
+  "illustrated book": [
+    {"hts_code": "4901.99.00.92", "chapter": "49", "label_ja": "挿絵付き書籍・絵本（書籍。ページ数で細分）"}
+  ],
+  "textbook": [
+    {"hts_code": "4901.99.00.92", "chapter": "49", "label_ja": "教科書・学習書（書籍）"}
+  ],
   "kitchen knife": [
     {"hts_code": "8211.92.20.00", "chapter": "82", "label_ja": "包丁・キッチンナイフ（固定刃）"}
   ],
