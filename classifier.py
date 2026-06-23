@@ -16,6 +16,42 @@ def _load_overrides() -> dict:
         return {k: v for k, v in json.load(f).items() if not k.startswith("_")}
 
 
+# AIが日本語で返すケース対策：代表的な日本語カテゴリ語 → 英語オーバーライドキーのマッピング
+_JA_TO_EN_HINT: dict[str, str] = {
+    "ショーツ": "shorts", "短パン": "shorts", "ハーフパンツ": "shorts",
+    "ズボン": "trousers", "パンツ": "trousers", "スラックス": "trousers",
+    "ジーンズ": "jeans", "デニム": "denim",
+    "tシャツ": "t-shirt", "ｔシャツ": "t-shirt",
+    "スニーカー": "sneaker", "運動靴": "athletic shoe", "スポーツシューズ": "sports shoe",
+    "ピンバッジ": "pin badge", "缶バッジ": "button badge", "バッジ": "badge",
+    "アクリルスタンド": "acrylic stand", "アクスタ": "acrylic stand",
+    "チャーム": "charm", "キーチェーン": "charm",
+    "トレーディングカード": "trading card", "トレカ": "trading card",
+    "ゲーム機": "game console", "ゲームソフト": "game console",
+    "テレビ": "television", "テレビ受像機": "television",
+    "dvd": "recorded dvd", "ブルーレイ": "recorded blu-ray",
+    "同人誌": "doujinshi", "同人": "self-published",
+    "漫画": "manga", "コミック": "comic book",
+    "ゴム印": "rubber stamp", "スタンプ": "rubber stamp",
+    "造花": "artificial flower", "プレスフラワー": "pressed flower",
+    "ドライフラワー": "dried flower",
+    "レンチ": "wrench", "スパナ": "spanner",
+    "綿生地": "woven cotton fabric", "プリント生地": "printed cotton fabric",
+    "綿布": "woven cotton fabric",
+    "ステアリングカバー": "steering wheel cover",
+    "カッティングマット": "cutting mat",
+}
+
+
+def _normalize_hint(text: str) -> str:
+    """日本語カテゴリ語を英語に正規化して返す（元テキストも保持）。"""
+    result = text.lower()
+    for ja, en in _JA_TO_EN_HINT.items():
+        if ja.lower() in result:
+            result += f" {en}"
+    return result
+
+
 def apply_hts_overrides(results: dict[str, list[dict]], queries: list[dict]) -> dict[str, list[dict]]:
     """category_hint が hts_overrides.json のキーに一致する場合、
     対象 HTS コードを該当章の先頭に移動する。
@@ -27,13 +63,14 @@ def apply_hts_overrides(results: dict[str, list[dict]], queries: list[dict]) -> 
 
     # クエリの category_hint + keywords を結合してチェック（判別語がキーワード側に
     # あるケース（例: 同人誌の "self-published book"）も拾えるようにする）
+    # 日本語で返った場合も英語キーに正規化して照合する
     def _hint_text(q: dict) -> str:
         kws = q.get("keywords", [])
         kw_str = " ".join(kws) if isinstance(kws, list) else str(kws)
         return f"{q.get('category_hint', '')} {kw_str}"
-    combined_hint = " ".join(
+    combined_hint = _normalize_hint(" ".join(
         _hint_text(q) for q in queries if isinstance(q, dict)
-    ).lower()
+    ))
     combined_material = " ".join(
         q.get("material", "") for q in queries if isinstance(q, dict)
     ).lower()

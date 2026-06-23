@@ -94,6 +94,10 @@ SUPPORTED_CHAPTERS = {
         "label": "第49章: 印刷物・書籍・新聞・絵画・その他の印刷産業製品",
         "data_file": "hts_ch49_raw.json",
     },
+    "52": {
+        "label": "第52章: 綿及び綿織物",
+        "data_file": "hts_ch52_raw.json",
+    },
     "61": {
         "label": "第61章: 衣類及び衣類附属品(ニット・クロシェ製)",
         "data_file": "hts_ch61_raw.json",

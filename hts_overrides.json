@@ -131,5 +131,14 @@
   ],
   "steering wheel cover": [
     {"hts_code": "8708.99.81.80", "chapter": "87", "label_ja": "自動車用付属品（ハンドルカバー等）"}
+  ],
+  "woven cotton fabric": [
+    {"hts_code": "5208.52.30.00", "chapter": "52", "label_ja": "綿織物・プリント生地（平織、重量200g/m²以下）"}
+  ],
+  "printed cotton fabric": [
+    {"hts_code": "5208.52.30.00", "chapter": "52", "label_ja": "綿織物・プリント生地（平織、重量200g/m²以下）"}
+  ],
+  "cotton fabric": [
+    {"hts_code": "5208.52.30.00", "chapter": "52", "label_ja": "綿織物・プリント生地（重量・織り方で細分要確認）"}
   ]
 }

@@ -234,6 +234,10 @@ _HINT_INCLUDE_CHAPTERS: dict[str, list[str]] = {
     "pressed flower": ["67"],
     "dried flower": ["67"],
     "artificial flower": ["67"],
+    "woven cotton fabric": ["52"],
+    "printed cotton fabric": ["52"],
+    "cotton fabric": ["52"],
+    "fabric": ["52", "61", "62", "63"],
     "t-shirt": ["61"],
     "trousers": ["62"],
     "denim": ["62"],
@@ -356,6 +360,10 @@ _DECISIVE_TERMS: dict[str, dict] = {
     "造花": {"hint": "artificial flower", "chapters": ["67"]},
     "プレスフラワー": {"hint": "pressed flower", "chapters": ["67", "39"]},
     "ドライフラワー": {"hint": "dried flower", "chapters": ["67", "39"]},
+    "綿生地": {"hint": "woven cotton fabric", "chapters": ["52"], "material": "cotton"},
+    "プリント生地": {"hint": "printed cotton fabric", "chapters": ["52"], "material": "cotton"},
+    "綿布": {"hint": "woven cotton fabric", "chapters": ["52"], "material": "cotton"},
+    "生地": {"hint": "cotton fabric", "chapters": ["52", "61", "62", "63"]},
 }
 
 
@@ -436,11 +444,13 @@ def _classify_one(img_file, text_ctx: str, ch_key: str) -> dict:
         query_list = [_build_query(image_analysis, suruga_kw)]
 
         # 画像ヒントに基づく章の除外フィルタを後段で適用
-        img_hint_lower = " ".join(filter(None, [
+        # 日本語→英語の正規化も適用し、日本語カテゴリでも章ヒントが効くようにする
+        from classifier import _normalize_hint as _nh
+        img_hint_lower = _nh(" ".join(filter(None, [
             (image_analysis or {}).get("category_hint", ""),
             (image_analysis or {}).get("function", ""),
             " ".join((image_analysis or {}).get("keywords", [])),
-        ])).lower()
+        ])))
         exclude_chs: set[str] = set()
         for hint_key, excl_list in _HINT_EXCLUDE_CHAPTERS.items():
             if hint_key in img_hint_lower:
