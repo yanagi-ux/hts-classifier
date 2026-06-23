@@ -1,0 +1,11 @@
+{
+  "_comment": "U4: AI画像解析の品質スナップショット用フィクスチャ。image=サンプル画像ファイル名、expect_prefix=採用HTSコードが前方一致すべき値（章2桁/見出し4桁/10桁いずれでも可）、note=商品の説明。test_image_analysis_quality.py が参照する。誤分類を直したらここに1件追加してデグレ検知の網を広げること。",
+  "image_dir": "C:/Users/info/OneDrive/画像/HSコード画像サンプル",
+  "cases": [
+    {"image": "m14316299028_1.jpg", "expect_prefix": "8526", "note": "RCプロポ（無線送信機）→ 8526.92"},
+    {"image": "m16932342658_1.jpg", "expect_prefix": "3924", "note": "プラスチック製収納ボックス → 3924.90"},
+    {"image": "m23158017207_1.jpg", "expect_prefix": "4911", "note": "書道アート（印刷物）→ 4911.99"},
+    {"image": "m30790676051_1.jpg", "expect_prefix": "8211", "note": "包丁（固定刃キッチンナイフ）→ 8211.92"},
+    {"image": "m14631619452_1.jpg", "expect_prefix": "4902", "note": "ホビー雑誌（定期刊行物）→ 4902.90"}
+  ]
+}
