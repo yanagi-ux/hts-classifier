@@ -194,6 +194,9 @@ _HINT_INCLUDE_CHAPTERS: dict[str, list[str]] = {
     "badge": ["39", "83", "71"],
     "pin badge": ["39", "83", "71"],
     "brooch": ["71", "39", "83"],
+    "trading card": ["95", "49"],
+    "game card": ["95", "49"],
+    "playing card": ["95", "49"],
 }
 
 
