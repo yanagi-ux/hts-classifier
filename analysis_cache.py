@@ -165,6 +165,44 @@ def save_hts(analysis: dict, results) -> None:
     conn.commit()
 
 
+# ── キャッシュクリア ────────────────────────────────────────────────────────
+
+def clear_hts_cache() -> int:
+    """L2: HTS分類結果キャッシュを全削除（再判定でAPI不要）。削除件数を返す。"""
+    conn = _get_conn()
+    n = conn.execute("SELECT COUNT(*) FROM hts_result_cache").fetchone()[0]
+    conn.execute("DELETE FROM hts_result_cache")
+    conn.commit()
+    return n
+
+
+def clear_chapter_cache() -> int:
+    """章推定キャッシュを全削除。削除件数を返す。"""
+    conn = _get_conn()
+    n = conn.execute("SELECT COUNT(*) FROM chapter_cache").fetchone()[0]
+    conn.execute("DELETE FROM chapter_cache")
+    conn.commit()
+    return n
+
+
+def clear_analysis_cache() -> int:
+    """L1: 画像解析キャッシュを全削除（再判定でAPI再課金が発生する）。削除件数を返す。"""
+    conn = _get_conn()
+    n = conn.execute("SELECT COUNT(*) FROM image_analysis_cache").fetchone()[0]
+    conn.execute("DELETE FROM image_analysis_cache")
+    conn.commit()
+    return n
+
+
+def clear_all() -> dict:
+    """全キャッシュ（L1・L2・章）を削除。削除件数を返す。"""
+    return {
+        "l1": clear_analysis_cache(),
+        "l2": clear_hts_cache(),
+        "chapters": clear_chapter_cache(),
+    }
+
+
 # ── 統計 ──────────────────────────────────────────────────────────────────
 
 def get_stats() -> dict:

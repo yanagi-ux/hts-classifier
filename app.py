@@ -105,6 +105,20 @@ with st.sidebar:
     st.metric("推定削減コスト（API）", f"${stats['saved_usd_30d']:,.2f}")
     st.caption(f"キャッシュ済み画像: {stats['cached_images']:,} 件　分析パターン: {stats['cached_analyses']:,} 種")
 
+    with st.expander("🧹 キャッシュ管理"):
+        st.caption(
+            "分類ルールを更新した後、古い判定結果が残る場合はL2をクリアしてください。"
+            "L2クリアは再判定でAPI課金は発生しません（画像解析のL1は保持）。"
+        )
+        if st.button("L2クリア（HTS結果・再判定／API不要）", use_container_width=True):
+            n = analysis_cache.clear_hts_cache()
+            analysis_cache.clear_chapter_cache()
+            st.success(f"L2と章キャッシュをクリアしました（HTS結果 {n} 件）。次回は最新ルールで再判定します。")
+        st.caption("⚠️ 下は画像解析(L1)も消去 → 再判定でAPI再課金が発生します。")
+        if st.button("全キャッシュをクリア（L1含む・要API再課金）", use_container_width=True):
+            r = analysis_cache.clear_all()
+            st.warning(f"全キャッシュを削除しました（L1 {r['l1']}・L2 {r['l2']}・章 {r['chapters']} 件）。")
+
 # ── セッション初期化 ────────────────────────────────────────────────────────
 if "batch_results" not in st.session_state:
     st.session_state["batch_results"] = []
