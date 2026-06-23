@@ -218,6 +218,11 @@ _HINT_INCLUDE_CHAPTERS: dict[str, list[str]] = {
     "recorded dvd": ["85"],
     "movie dvd": ["85"],
     "music cd": ["85"],
+    "wrench": ["82"],
+    "spanner": ["82"],
+    "hand tool": ["82"],
+    "pliers": ["82"],
+    "screwdriver": ["82"],
 }
 
 

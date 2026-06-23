@@ -110,6 +110,10 @@ SUPPORTED_CHAPTERS = {
         "label": "第64章: 履物・ゲートル等",
         "data_file": "hts_ch64_raw.json",
     },
+    "82": {
+        "label": "第82章: 卑金属製の工具・刃物・スプーン・フォーク",
+        "data_file": "hts_ch82_raw.json",
+    },
     "83": {
         "label": "第83章: 卑金属製の雑品(バッジ・錠・金具等)",
         "data_file": "hts_ch83_raw.json",
