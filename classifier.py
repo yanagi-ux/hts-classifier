@@ -45,16 +45,21 @@ def apply_hts_overrides(results: dict[str, list[dict]], queries: list[dict]) -> 
                 continue
             ch = rule["chapter"]
             target_code = rule["hts_code"]
+            label_ja = rule.get("label_ja", "")
             ch_results = results.get(ch, [])
             idx = next((i for i, r in enumerate(ch_results) if r["hts_code"] == target_code), None)
             if idx is not None:
                 if idx != 0:
                     ch_results.insert(0, ch_results.pop(idx))
-                    results[ch] = ch_results
+                if label_ja:
+                    ch_results[0]["_label_ja"] = label_ja
+                results[ch] = ch_results
             else:
                 # top-N結果に無い場合は章データから該当コードを読み込んで先頭に注入
                 injected = _build_override_entry(ch, target_code)
                 if injected:
+                    if label_ja:
+                        injected["_label_ja"] = label_ja
                     results[ch] = [injected] + ch_results
             break  # 最初に材質一致したルールのみ適用
 

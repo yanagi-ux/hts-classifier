@@ -4,15 +4,15 @@
   "self-healing mat": {"hts_code": "3926.90.99.89", "chapter": "39"},
   "craft mat": {"hts_code": "3926.90.99.89", "chapter": "39"},
   "pin badge": [
-    {"hts_code": "3926.40.00.90", "chapter": "39", "material": "plastic"},
-    {"hts_code": "8308.90.90.00", "chapter": "83", "material": "metal"}
+    {"hts_code": "3926.40.00.90", "chapter": "39", "material": "plastic", "label_ja": "プラスチック製の装飾品（ピンバッジ等）"},
+    {"hts_code": "8308.90.90.00", "chapter": "83", "material": "metal", "label_ja": "卑金属製のバッジ・留め具等"}
   ],
   "button badge": [
-    {"hts_code": "3926.40.00.90", "chapter": "39", "material": "plastic"},
-    {"hts_code": "8308.90.90.00", "chapter": "83", "material": "metal"}
+    {"hts_code": "3926.40.00.90", "chapter": "39", "material": "plastic", "label_ja": "プラスチック製の装飾品（缶バッジ等）"},
+    {"hts_code": "8308.90.90.00", "chapter": "83", "material": "metal", "label_ja": "卑金属製のバッジ・留め具等"}
   ],
   "badge": [
-    {"hts_code": "3926.40.00.90", "chapter": "39", "material": "plastic"},
-    {"hts_code": "8308.90.90.00", "chapter": "83", "material": "metal"}
+    {"hts_code": "3926.40.00.90", "chapter": "39", "material": "plastic", "label_ja": "プラスチック製の装飾品（バッジ等）"},
+    {"hts_code": "8308.90.90.00", "chapter": "83", "material": "metal", "label_ja": "卑金属製のバッジ・留め具等"}
   ]
 }

@@ -241,6 +241,28 @@ def _analysis_ja_view(analysis: dict) -> dict:
     }
 
 
+# 採用コードの表示で「Other(その他)」のみだと分かりにくいため避ける汎用語
+_GENERIC_DESC = {"other", "other, including parts", ""}
+
+
+def _entry_label_ja(entry: dict | None) -> str:
+    """採用コードの表示ラベル（日本語優先・「その他」単独を回避）。
+    ① override由来の専用表示名 → ② 説明がOther等なら上位見出し → ③ JP_LABELSで日本語化。
+    """
+    if not entry:
+        return ""
+    if entry.get("_label_ja"):
+        return entry["_label_ja"]
+    desc = (entry.get("description") or "").rstrip(":").strip()
+    if desc.lower() in _GENERIC_DESC:
+        segs = [s.rstrip(":").strip() for s in (entry.get("full_description") or "").split(" > ")]
+        for s in reversed(segs):
+            if s.lower() not in _GENERIC_DESC:
+                desc = s
+                break
+    return JP_LABELS.get(desc, "") or desc
+
+
 def _build_query(analysis: dict | None, suruga_keywords: list[str]) -> dict:
     if analysis:
         return {
@@ -526,7 +548,7 @@ def _render_result_card(r: dict, index: int):
             r["full_description"].rsplit(" > ", 1)[0]
             if r["description"] and " > " in r["full_description"] else ""
         )
-        jp_label = JP_LABELS.get(own_label.rstrip(":").strip())
+        jp_label = _entry_label_ja(r)
         mark = _priority_mark(r)
 
         cpsc = check_cpsc(r["hts_code"])
@@ -607,8 +629,7 @@ if batch_results:
                     e = next((r for r in _flat if r["hts_code"] == code), None)
                     if not e:
                         return code
-                    lbl = e["description"] or e["full_description"].rsplit(" > ", 1)[-1]
-                    label = f"{code}　{JP_LABELS.get(lbl.rstrip(':').strip()) or lbl}"
+                    label = f"{code}　{_entry_label_ja(e)}"
                     if check_cpsc(code)["is_cpsc"]:
                         label = f"⚠️ {label}"
                     return label
@@ -643,8 +664,7 @@ if batch_results:
                         st.success("保存しました。")
 
                 _chosen_entry = next((r for r in flat if r["hts_code"] == chosen), None)
-                _lbl_raw = (_chosen_entry["description"] or _chosen_entry["full_description"].rsplit(" > ", 1)[-1]) if _chosen_entry else ""
-                _jp = JP_LABELS.get(_lbl_raw.rstrip(":").strip()) if _lbl_raw else ""
+                _jp = _entry_label_ja(_chosen_entry)
                 if _jp:
                     st.caption(f"📋 {_jp}")
 
