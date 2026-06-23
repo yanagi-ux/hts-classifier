@@ -25,9 +25,14 @@ def apply_hts_overrides(results: dict[str, list[dict]], queries: list[dict]) -> 
     if not overrides:
         return results
 
-    # クエリの category_hint / material を結合してチェック
+    # クエリの category_hint + keywords を結合してチェック（判別語がキーワード側に
+    # あるケース（例: 同人誌の "self-published book"）も拾えるようにする）
+    def _hint_text(q: dict) -> str:
+        kws = q.get("keywords", [])
+        kw_str = " ".join(kws) if isinstance(kws, list) else str(kws)
+        return f"{q.get('category_hint', '')} {kw_str}"
     combined_hint = " ".join(
-        q.get("category_hint", "") for q in queries if isinstance(q, dict)
+        _hint_text(q) for q in queries if isinstance(q, dict)
     ).lower()
     combined_material = " ".join(
         q.get("material", "") for q in queries if isinstance(q, dict)
