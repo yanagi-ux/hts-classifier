@@ -90,6 +90,30 @@
   "drawer organizer": [
     {"hts_code": "3924.90.56.50", "chapter": "39", "label_ja": "プラスチック製引き出し整理ボックス（家庭用品）"}
   ],
+  "kitchen knife": [
+    {"hts_code": "8211.92.20.00", "chapter": "82", "label_ja": "包丁・キッチンナイフ（固定刃）"}
+  ],
+  "chef knife": [
+    {"hts_code": "8211.92.20.00", "chapter": "82", "label_ja": "シェフナイフ・包丁（固定刃）"}
+  ],
+  "butcher knife": [
+    {"hts_code": "8211.92.20.00", "chapter": "82", "label_ja": "肉切り包丁・キッチンナイフ（固定刃）"}
+  ],
+  "tool case": [
+    {"hts_code": "4202.99.50.00", "chapter": "42", "label_ja": "工具ケース・器具用ケース（その他のケース類）"}
+  ],
+  "equipment case": [
+    {"hts_code": "4202.99.50.00", "chapter": "42", "label_ja": "機器用ケース・キャリングケース（その他のケース類）"}
+  ],
+  "calligraphy": [
+    {"hts_code": "4911.99.80.00", "chapter": "49", "label_ja": "書道・カリグラフィーアート（その他の印刷物）"}
+  ],
+  "wall art": [
+    {"hts_code": "4911.99.80.00", "chapter": "49", "label_ja": "壁掛けアート・装飾プリント（その他の印刷物）"}
+  ],
+  "art print": [
+    {"hts_code": "4911.99.80.00", "chapter": "49", "label_ja": "アートプリント・装飾印刷物"}
+  ],
   "pet bed": [
     {"hts_code": "6307.90.98.91", "chapter": "63", "label_ja": "ペット用ベッド・マット（繊維製その他の製品）"}
   ],

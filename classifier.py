@@ -287,6 +287,12 @@ CONTEXT_DEPENDENT_TOKENS = {
     # "bed" alone scores 9402 (hospital/medical beds). Only score ch94
     # when medical/hospital context is present; pet/floor beds belong elsewhere.
     "bed": {"hospit", "medic", "patient", "surgic", "clinic", "nurs"},
+    # "instrument" alone matches 4202.92.50.00 (musical instrument cases).
+    # Only score when musical context is present.
+    "instrument": {"music", "guitar", "violin", "piano", "trumpet", "flute", "drum"},
+    # "folding" alone matches 8211.93 (multi-tool folding knives).
+    # Fixed-blade kitchen knives should not score there.
+    "folding": {"multi", "tool", "pocket", "swiss", "blade", "hunting"},
 }
 
 
