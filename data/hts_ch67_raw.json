@@ -1,0 +1,401 @@
+[
+  {
+    "htsno": "6701.00",
+    "indent": "0",
+    "description": "Skins and other parts of birds with their feathers or down, feathers, parts of feathers, down and articles thereof (other than goods of heading 0505 and worked quills and scapes):",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6701.00.30.00",
+    "indent": "1",
+    "description": "Articles of feathers or down",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "4.7%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "60%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6701.00.60.00",
+    "indent": "1",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "4.7%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "60%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6702",
+    "indent": "0",
+    "description": "Artificial flowers, foliage and fruit and parts thereof; articles made of artificial flowers, foliage or fruit:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6702.10",
+    "indent": "1",
+    "description": "Of plastics:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6702.10.20.00",
+    "indent": "2",
+    "description": "Assembled by binding with flexible materials such as wire, paper, textile materials, or foil, or by gluing or by similar methods",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "8.4%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "60%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6702.10.40.00",
+    "indent": "2",
+    "description": "Other, including parts",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "3.4%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "80%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6702.90",
+    "indent": "1",
+    "description": "Of other materials:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6702.90.10.00",
+    "indent": "2",
+    "description": "Of feathers",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "4.7%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "60%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6702.90.35.00",
+    "indent": "3",
+    "description": "Of man-made fibers",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "9%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "71.5%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6702.90.65.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "17%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6703.00",
+    "indent": "0",
+    "description": "Human hair, dressed, thinned, bleached or otherwise worked; wool or other animal hair or other textile materials, prepared for use in making wigs or the like:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6703.00.30.00",
+    "indent": "1",
+    "description": "Human hair",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.08. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6703.00.60.00",
+    "indent": "1",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6704",
+    "indent": "0",
+    "description": "Wigs, false beards, eyebrows and eyelashes, switches and the like, of human or animal hair or of textile materials; articles of human hair not elsewhere specified or included:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Of synthetic textile materials:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6704.11.00.00",
+    "indent": "2",
+    "description": "Complete wigs",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6704.19.00.00",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6704.20.00.00",
+    "indent": "1",
+    "description": "Of human hair",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "35%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "6704.90.00.00",
+    "indent": "1",
+    "description": "Of other materials",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  }
+]

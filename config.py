@@ -110,6 +110,10 @@ SUPPORTED_CHAPTERS = {
         "label": "第64章: 履物・ゲートル等",
         "data_file": "hts_ch64_raw.json",
     },
+    "67": {
+        "label": "第67章: 羽毛・造花・人髪製品",
+        "data_file": "hts_ch67_raw.json",
+    },
     "82": {
         "label": "第82章: 卑金属製の工具・刃物・スプーン・フォーク",
         "data_file": "hts_ch82_raw.json",
@@ -149,5 +153,9 @@ SUPPORTED_CHAPTERS = {
     "95": {
         "label": "第95章: 玩具・遊戯用具・運動用具(ホビー類)",
         "data_file": "hts_ch95_raw.json",
+    },
+    "96": {
+        "label": "第96章: 雑品(ブラシ・ボタン・スタンプ・筆記具等)",
+        "data_file": "hts_ch96_raw.json",
     },
 }

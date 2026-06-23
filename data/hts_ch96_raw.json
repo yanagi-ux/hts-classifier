@@ -1,0 +1,4481 @@
+[
+  {
+    "htsno": "9601",
+    "indent": "0",
+    "description": "Worked ivory, bone, tortoise-shell, horn, antlers, coral, mother-of-pearl and other animal carving material, and articles of these materials (including articles obtained by molding):",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9601.10.00.00",
+    "indent": "1",
+    "description": "Worked ivory and articles of ivory",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9601.90",
+    "indent": "1",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9601.90.20.00",
+    "indent": "2",
+    "description": "Worked shell and articles thereof",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9601.90.40.00",
+    "indent": "2",
+    "description": "Coral, cut but not set, and cameos, suitable for use in jewelry",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "2.1%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "10%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9601.90.60.00",
+    "indent": "2",
+    "description": "Of bone, horn, hoof, whalebone, quill or any combination thereof",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9601.90.80.00",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "3.7%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9602.00",
+    "indent": "0",
+    "description": "Worked vegetable or mineral carving material and articles of these materials; molded or carved articles of wax, of stearin, of natural gums or natural resins, of modeling pastes, and other molded or carved articles, not elsewhere specified or included; worked, unhardened gelatin (except gelatin of heading 3503) and articles of unhardened gelatin:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9602.00.10",
+    "indent": "1",
+    "description": "Worked unhardened gelatin and articles thereof",
+    "superior": null,
+    "units": [],
+    "general": "3%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9602.00.10.40",
+    "indent": "2",
+    "description": "Unfilled gelatin capsules",
+    "superior": null,
+    "units": [
+      "thousands"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9602.00.10.80",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9602.00.40.00",
+    "indent": "1",
+    "description": "Molded or carved articles of wax",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "1.8%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9602.00.50",
+    "indent": "1",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "2.7%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9602.00.50.10",
+    "indent": "2",
+    "description": "Unfilled vegetable capsules",
+    "superior": null,
+    "units": [
+      "thousands"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9602.00.50.80",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603",
+    "indent": "0",
+    "description": "Brooms, brushes (including brushes constituting parts of machines, appliances or vehicles), hand-operated mechanical floor sweepers, not motorized, mops and feather dusters; prepared knots and tufts for broom or brush making; paint pads and rollers; squeegees (other than roller squeegees):",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.10",
+    "indent": "1",
+    "description": "Brooms and brushes, consisting of twigs or other vegetable materials bound together, with or without handles:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Whiskbrooms, wholly or in part of broom corn:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Valued not over 96¢ each:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.10.05.00",
+    "indent": "4",
+    "description": "In any calendar year prior to the entry, or withdrawal from warehouse for comsumption, of 61,655 dozen whiskbrooms classifiable under subheadings 9603.10.05 to 9603.10.35, inclusive",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "8%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA, PE,S,SG)",
+    "other": "20%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.10.15.00",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "5¢ each",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "12¢ each",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.10.35.00",
+    "indent": "3",
+    "description": "Valued over 96¢ each",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "14%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "32%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Other brooms, wholly or in part of broom corn:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Valued not over 96¢ each:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.10.40.00",
+    "indent": "4",
+    "description": "In any calendar year prior to the entry, or withdrawal from warehouse for consumption, of 121,478 dozen brooms classifiable under subheadings 9603.10.40 to 9603.10.60, inclusive",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "8%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.10.50.00",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "32¢ each",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "32¢ each",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.10.60.00",
+    "indent": "3",
+    "description": "Valued over 96¢ each",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "32%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "32%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.10.90.00",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "10%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      },
+      {
+        "columns": [
+          "other"
+        ],
+        "value": "See 9903.90.08. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Toothbrushes, shaving brushes, hair brushes, nail brushes, eyelash brushes and other toilet brushes for use on the person, including such brushes constituting parts of appliances:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.21.00.00",
+    "indent": "2",
+    "description": "Toothbrushes, including dental-plate brushes",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "2¢ each + 50%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.29",
+    "indent": "2",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.29.40",
+    "indent": "3",
+    "description": "Valued not over 40¢ each",
+    "superior": null,
+    "units": [],
+    "general": "0.2¢ each + 7%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "1¢ each + 50%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.29.40.10",
+    "indent": "4",
+    "description": "Hairbrushes",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.29.40.90",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.29.80",
+    "indent": "3",
+    "description": "Valued over 40¢ each",
+    "superior": null,
+    "units": [],
+    "general": "0.3¢ each + 3.6%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "1¢ each + 50%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.29.80.10",
+    "indent": "4",
+    "description": "Hairbrushes",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.29.80.90",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.30",
+    "indent": "1",
+    "description": "Artists' brushes, writing brushes and similar brushes for the application of cosmetics:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.30.20.00",
+    "indent": "2",
+    "description": "Valued not over 5¢ each",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "2.6%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.30.40.00",
+    "indent": "2",
+    "description": "Valued over 5¢ but not over 10¢ each",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.30.60.00",
+    "indent": "2",
+    "description": "Valued over 10¢ each",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "40%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.40",
+    "indent": "1",
+    "description": "Paint, distemper, varnish or similar brushes (other than brushes of subheading 9603.30); paint pads and rollers:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.40.20.00",
+    "indent": "2",
+    "description": "Paint rollers",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "7.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "50%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.40.40",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "4%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "50%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.40.40.20",
+    "indent": "3",
+    "description": "Paint pads",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.40.40.40",
+    "indent": "3",
+    "description": "Natural bristle brushes",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.40.40.60",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.50.00.00",
+    "indent": "1",
+    "description": "Other brushes constituting parts of machines, appliances or vehicles",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.90",
+    "indent": "1",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.90.40.00",
+    "indent": "2",
+    "description": "Feather dusters",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.90.80",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "2.8%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "50%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15.           ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.90.80.10",
+    "indent": "3",
+    "description": "Whiskbrooms",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.90.80.20",
+    "indent": "3",
+    "description": "Upright brooms",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.90.80.30",
+    "indent": "3",
+    "description": "Push brooms, 41 cm or less in width",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.90.80.40",
+    "indent": "3",
+    "description": "Other brooms",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9603.90.80.50",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9604.00.00.00",
+    "indent": "0",
+    "description": "Hand sieves and hand riddles",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "4.9%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9605.00.00.00",
+    "indent": "0",
+    "description": "Travel sets for personal toilet, sewing or shoe or clothes cleaning (other than manicure and pedicure sets of heading 8214)",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "8.1%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "45%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9606",
+    "indent": "0",
+    "description": "Buttons, press-fasteners, snap-fasteners and press-studs, button molds and other parts of these articles; button blanks:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9606.10",
+    "indent": "1",
+    "description": "Press-fasteners, snap-fasteners and press-studs and parts thereof:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9606.10.40.00",
+    "indent": "2",
+    "description": "Valued not over 20¢ per dozen pieces or parts",
+    "superior": null,
+    "units": [
+      "gross"
+    ],
+    "general": "3.5%",
+    "special": "Free (A,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "60%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9606.10.80.00",
+    "indent": "2",
+    "description": "Valued over 20¢ per dozen pieces or parts",
+    "superior": null,
+    "units": [
+      "gross"
+    ],
+    "general": "2.7%",
+    "special": "Free (A,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "65%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Buttons:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9606.21",
+    "indent": "2",
+    "description": "Of plastics, not covered with textile material:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9606.21.20.00",
+    "indent": "3",
+    "description": "Of casein",
+    "superior": null,
+    "units": [
+      "gross"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9606.21.40.00",
+    "indent": "3",
+    "description": "Of acrylic resin, of polyester resin or of both such resins",
+    "superior": null,
+    "units": [
+      "gross",
+      "gr.lines"
+    ],
+    "general": "0.3¢/line/ gross + 4.6%",
+    "special": "Free (A,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "1.5¢/line/ gross + 25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9606.21.60.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "gross"
+    ],
+    "general": "4.7%",
+    "special": "Free (A,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9606.22.00.00",
+    "indent": "2",
+    "description": "Of base metal, not covered with textile material",
+    "superior": null,
+    "units": [
+      "gross"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9606.29",
+    "indent": "2",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9606.29.20.00",
+    "indent": "3",
+    "description": "Of acrylic resin, of polyester resin or of both such resins, covered with textile material",
+    "superior": null,
+    "units": [
+      "gross",
+      "gr.lines"
+    ],
+    "general": "0.3¢/line/ gross + 4.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "1.5¢/line/ gross + 25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9606.29.40.00",
+    "indent": "4",
+    "description": "Of pearl or shell",
+    "superior": null,
+    "units": [
+      "gross",
+      "gr.lines"
+    ],
+    "general": "0.18¢/line/ gross + 2.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "1.75¢/line/ gross + 25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9606.29.60.00",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "gross"
+    ],
+    "general": "2.9%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9606.30",
+    "indent": "1",
+    "description": "Button molds and other parts of buttons; button blanks:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9606.30.40.00",
+    "indent": "2",
+    "description": "Button blanks of casein",
+    "superior": null,
+    "units": [
+      "gross"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9606.30.80.00",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "gross"
+    ],
+    "general": "6%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9607",
+    "indent": "0",
+    "description": "Slide fasteners and parts thereof:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Slide fasteners:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9607.11.00.00",
+    "indent": "2",
+    "description": "Fitted with chain scoops of base metal",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "10%",
+    "special": "Free (A,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "66%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9607.19.00",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "13%",
+    "special": "Free (A,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "66%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9607.19.00.20",
+    "indent": "3",
+    "description": "Fitted with chain scoops of plastic",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9607.19.00.40",
+    "indent": "3",
+    "description": "Fitted with continuous plastic filament",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9607.19.00.60",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9607.20.00",
+    "indent": "1",
+    "description": "Parts",
+    "superior": null,
+    "units": [],
+    "general": "11.5%",
+    "special": "Free (A,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "66%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03.",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9607.20.00.40",
+    "indent": "2",
+    "description": "Sliders, with or without pulls",
+    "superior": null,
+    "units": [
+      "thousands"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9607.20.00.80",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9608",
+    "indent": "0",
+    "description": "Ball point pens; felt tipped and other porous-tipped pens and markers; fountain pens, stylograph pens and other pens; duplicating styli; propelling or sliding pencils (for example, mechanical pencils); pen-holders, pencil-holders and similar holders; parts (including caps and clips) of the foregoing articles, other than those of heading 9609:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9608.10.00.00",
+    "indent": "1",
+    "description": "Ball point pens",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "0.8¢ each + 5.4%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "6¢ each + 40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9608.20.00.00",
+    "indent": "1",
+    "description": "Felt tipped and other porous-tipped pens and markers",
+    "superior": null,
+    "units": [
+      "gross"
+    ],
+    "general": "4%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,JP,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9608.30.00",
+    "indent": "1",
+    "description": "Fountain pens, stylograph pens and other pens",
+    "superior": null,
+    "units": [],
+    "general": "0.4¢ each + 2.7%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA, PE,S,SG)",
+    "other": "6¢ each + 40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9608.30.00.31",
+    "indent": "2",
+    "description": "India ink drawing pens",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9608.30.00.39",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9608.40",
+    "indent": "1",
+    "description": "Propelling or sliding pencils (for example, mechanical pencils):",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9608.40.40.00",
+    "indent": "2",
+    "description": "With a mechanical action for extending, or for extending and retracting, the lead",
+    "superior": null,
+    "units": [
+      "gross"
+    ],
+    "general": "6.6%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG) 3.3% (JP)",
+    "other": "41.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9608.40.80.00",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "gross"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9608.50.00.00",
+    "indent": "1",
+    "description": "Sets of articles from two or more of the subheadings 9608.10, 9608.20, 9608.30 or 9608.40",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "The rate applicable to each article in the absence of this subheading",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "The rate applicable, to each article in the absence of this subheading",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15, 9903.88.25, 9903.88.26, 9903.88.27 and 9903.88.28. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9608.60.00.00",
+    "indent": "1",
+    "description": "Refills for ball point pens, comprising the ball point and ink reservoir",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "0.4¢ each + 2.7%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "6¢ each + 40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9608.91.00.00",
+    "indent": "2",
+    "description": "Pen nibs and nib points",
+    "superior": null,
+    "units": [
+      "gross"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "20¢/gross",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9608.99",
+    "indent": "2",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9608.99.20.00",
+    "indent": "3",
+    "description": "Refill cartridges",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "0.4¢ each + 2.7%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "6¢ each + 40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9608.99.30.00",
+    "indent": "3",
+    "description": "Balls for ball point pens",
+    "superior": null,
+    "units": [
+      "thousands"
+    ],
+    "general": "20¢/thousand + 3.5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "$2.50/thou- sand + 40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9608.99.40.00",
+    "indent": "4",
+    "description": "Parts of articles provided for in subheadings 9608.10 and 9608.30 (other than balls for ball point pens)",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "6¢ each + 40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9608.99.60.00",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9609",
+    "indent": "0",
+    "description": "Pencils (other than those pencils of heading 9608), crayons, pencil leads, pastels, drawing charcoals, writing or drawing chalks and tailors' chalks:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9609.10.00.00",
+    "indent": "1",
+    "description": "Pencils and crayons, with leads encased in a sheath",
+    "superior": null,
+    "units": [
+      "gross"
+    ],
+    "general": "14¢/gross + 4.3%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "50¢/gross + 30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9609.20",
+    "indent": "1",
+    "description": "Pencil leads, black or colored:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9609.20.20.00",
+    "indent": "2",
+    "description": "Not over 1.5 mm in maximum cross-sectional dimension",
+    "superior": null,
+    "units": [
+      "gross"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "20¢/gross",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9609.20.40.00",
+    "indent": "2",
+    "description": "Over 1.5 mm in maximum cross-sectional dimension",
+    "superior": null,
+    "units": [
+      "gross"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "6¢/gross",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9609.90",
+    "indent": "1",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9609.90.40.00",
+    "indent": "2",
+    "description": "Tailors' chalks",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9609.90.80.00",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "gross"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "50¢/gross + 30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9610.00.00.00",
+    "indent": "0",
+    "description": "Slates and boards, with writing or drawing surfaces, whether or not framed",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "3.5%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "33 1/3%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9611.00.00.00",
+    "indent": "0",
+    "description": "Date, sealing or numbering stamps and the like, (including devices for printing or embossing labels), designed for operating in the hand; hand-operated composing sticks and hand printing sets incorporating such composing sticks",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "2.7%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "80%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9612",
+    "indent": "0",
+    "description": "Typewriter or similar ribbons, inked or otherwise prepared for giving impressions, whether or not on spools or in cartridges; ink pads, whether or not inked, with or without boxes:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9612.10",
+    "indent": "1",
+    "description": "Ribbons:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9612.10.10",
+    "indent": "2",
+    "description": "Measuring less than 30 mm in width, permanently put up in plastic or metal cartridges (whether or not containing spools) of a kind used in typewriters, automatic data processing or other machines",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "78.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9612.10.10.10",
+    "indent": "3",
+    "description": "Woven, of man-made fibers",
+    "superior": null,
+    "units": [
+      "doz.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9612.10.10.20",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "doz.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9612.10.90",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "7.9%",
+    "special": "Free (AU,BH,CL,CO,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG) 3.95% (JP)",
+    "other": "78.5%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9612.10.90.10",
+    "indent": "3",
+    "description": "Woven, of man-made fibers (621)",
+    "superior": null,
+    "units": [
+      "doz.",
+      "<u>kg</u>"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9612.10.90.30",
+    "indent": "4",
+    "description": "Thermal transfer printing ribbons of coated polyethylene terephthalate film",
+    "superior": null,
+    "units": [
+      "doz.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9612.10.90.90",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "doz.",
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9612.20.00.00",
+    "indent": "1",
+    "description": "Ink pads",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "3.5%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9613",
+    "indent": "0",
+    "description": "Cigarette lighters and other lighters, whether or not mechanical or electrical, and parts thereof other than flints and wicks:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9613.10.00.00",
+    "indent": "1",
+    "description": "Pocket lighters, gas fueled, non-refillable",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "4%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "110%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9613.20.00.00",
+    "indent": "1",
+    "description": "Pocket lighters, gas fueled, refillable",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "9%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "110%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9613.80",
+    "indent": "1",
+    "description": "Other lighters:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9613.80.10",
+    "indent": "2",
+    "description": "Table lighters",
+    "superior": null,
+    "units": [],
+    "general": "4.8%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "60%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9613.80.10.40",
+    "indent": "3",
+    "description": "Butane",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9613.80.10.80",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9613.80.20",
+    "indent": "3",
+    "description": "Electrical",
+    "superior": null,
+    "units": [],
+    "general": "3.9%",
+    "special": "Free (A,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9613.80.20.10",
+    "indent": "4",
+    "description": "Multipurpose lighters, including those used to light charcoal and gas grills and fireplaces",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9613.80.20.90",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9613.80.40.00",
+    "indent": "4",
+    "description": "Of precious metal (except silver), of precious or semiprecious stones or of such metal and such stones",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "3.6%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "80%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9613.80.60.00",
+    "indent": "5",
+    "description": "Valued not over $5 per dozen pieces",
+    "superior": null,
+    "units": [
+      "doz."
+    ],
+    "general": "8%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "110%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9613.80.80.00",
+    "indent": "5",
+    "description": "Valued over $5 per dozen pieces",
+    "superior": null,
+    "units": [
+      "doz."
+    ],
+    "general": "9%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "110%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9613.90",
+    "indent": "1",
+    "description": "Parts:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9613.90.40.00",
+    "indent": "2",
+    "description": "Electrical",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "3.9%",
+    "special": "Free (A,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9613.90.80.00",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "4%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "110%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9614.00",
+    "indent": "0",
+    "description": "Smoking pipes (including pipe bowls) and cigar or cigarette holders, and parts thereof:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Pipes and pipe bowls:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Of wood or root:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9614.00.21.00",
+    "indent": "3",
+    "description": "Roughly shaped blocks of wood or root, for the manufacture of pipes",
+    "superior": null,
+    "units": [
+      "gross"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "10%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9614.00.25.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "0.4¢ each + 3.2%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "5¢ each + 60%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9614.00.26.00",
+    "indent": "2",
+    "description": "Pipes and bowls wholly of clay and pipes with bowls wholly of clay",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "3%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9614.00.28",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "0.3¢ each + 3.2%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "5¢ each + 60%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9614.00.28.10",
+    "indent": "3",
+    "description": "Of glass",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9614.00.28.30",
+    "indent": "3",
+    "description": "Of plastics",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9614.00.28.90",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9614.00.94.00",
+    "indent": "2",
+    "description": "Of metal",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "7.2%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "110%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9614.00.98",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [],
+    "general": "0.5¢ each + 3%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "5¢ each + 60%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9614.00.98.10",
+    "indent": "3",
+    "description": "Of glass",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9614.00.98.90",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9615",
+    "indent": "0",
+    "description": "Combs, hair-slides and the like; hairpins, curling pins, curling grips, hair-curlers and the like, other than those of heading 8516, and parts thereof:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Combs, hair-slides and the like:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9615.11",
+    "indent": "2",
+    "description": "Of hard rubber or plastics:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Combs:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9615.11.10.00",
+    "indent": "4",
+    "description": "Valued not over $4.50 per gross",
+    "superior": null,
+    "units": [
+      "gross"
+    ],
+    "general": "14.4¢/gross + 2%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "$1.44/gross + 25%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "4",
+    "description": "Valued over $4.50 per gross:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9615.11.20.00",
+    "indent": "5",
+    "description": "Of hard rubber",
+    "superior": null,
+    "units": [
+      "gross"
+    ],
+    "general": "5.2%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "36%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9615.11.30.00",
+    "indent": "5",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "gross"
+    ],
+    "general": "28.8¢/gross + 4.6%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "$2.88/gross + 35%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9615.11.40.00",
+    "indent": "4",
+    "description": "Not set with imitation pearls or imitation gemstones",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "5.3%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "80%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9615.11.50.00",
+    "indent": "4",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "110%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9615.19",
+    "indent": "2",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Combs:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9615.19.20.00",
+    "indent": "4",
+    "description": "Valued not over $4.50 per gross",
+    "superior": null,
+    "units": [
+      "gross"
+    ],
+    "general": "9.7¢/gross + 1.3%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "$1.44/gross + 25%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9615.19.40.00",
+    "indent": "4",
+    "description": "Valued over $4.50 per gross",
+    "superior": null,
+    "units": [
+      "gross"
+    ],
+    "general": "28.8¢/gross + 4.6%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "$2.88/gross + 35%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9615.19.60.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "11%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "110%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9615.90",
+    "indent": "1",
+    "description": "Other:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9615.90.20.00",
+    "indent": "2",
+    "description": "Nonthermic, nonornamental devices for curling the hair",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "8.1%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "45%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9615.90.30.00",
+    "indent": "2",
+    "description": "Hair pins",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5.1%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "35%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9615.90.40.00",
+    "indent": "3",
+    "description": "Of rubber or plastics, not set with imitation pearls or imitation gemstones",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "5.3%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "80%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9615.90.60.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "11%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "110%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9616",
+    "indent": "0",
+    "description": "Scent sprayers and similar toilet sprayers, and mounts and heads therefor; powder puffs and pads for the application of cosmetics or toilet preparations:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": "",
+    "additionalDuties": "",
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9616.10.00.00",
+    "indent": "1",
+    "description": "Scent sprayers and similar toilet sprayers, and mounts and heads therefor",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9616.20.00.00",
+    "indent": "1",
+    "description": "Powder puffs and pads for the application of cosmetics or toilet preparations",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "4.3%",
+    "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA, PE,S,SG)",
+    "other": "78.5%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9617.00",
+    "indent": "0",
+    "description": "Vacuum flasks and other vacuum vessels, complete; parts thereof other than glass inners:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Vessels:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9617.00.10.00",
+    "indent": "2",
+    "description": "Having a capacity not exceeding 1 liter",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "7.2%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "55.5%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9617.00.30.00",
+    "indent": "2",
+    "description": "Having a capacity exceeding 1 liter but not exceeding 2 liters",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "6.9%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "52%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9617.00.40.00",
+    "indent": "2",
+    "description": "Having a capacity exceeding 2 liters",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "6.9%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "51%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9617.00.60.00",
+    "indent": "1",
+    "description": "Parts",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "7.2%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "55%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9618.00.00.00",
+    "indent": "0",
+    "description": "Tailors' dummies and other mannequins; automatons and other animated displays used for shopwindow dressing",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "4.4%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "56%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9619.00",
+    "indent": "0",
+    "description": "Sanitary pads (towels) and tampons, diapers (napkins), diaper liners and similar articles, of any material:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9619.00.05.00",
+    "indent": "1",
+    "description": "Of plastics",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "5%",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "25%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9619.00.11.00",
+    "indent": "1",
+    "description": "Of paper pulp",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "30%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9619.00.15",
+    "indent": "1",
+    "description": "Of paper, cellulose wadding or webs of cellulose fibers",
+    "superior": null,
+    "units": [],
+    "general": "Free",
+    "special": "",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9619.00.15.10",
+    "indent": "2",
+    "description": "Sanitary napkins and tampons",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9619.00.15.30",
+    "indent": "2",
+    "description": "Diapers and diaper liners",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9619.00.15.60",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Of textile wadding:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9619.00.21.00",
+    "indent": "2",
+    "description": "Of cotton (369)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "3.6%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9619.00.25.00",
+    "indent": "2",
+    "description": "Other (669)",
+    "superior": null,
+    "units": [
+      "kg"
+    ],
+    "general": "6.3%",
+    "special": "Free (AU,BH, CL,CO,E*,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+    "other": "74%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Diapers of other textile materials:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Of cotton:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9619.00.31.00",
+    "indent": "3",
+    "description": "Of knitted or crocheted textile fabric (239)",
+    "superior": null,
+    "units": [
+      "doz.",
+      "<u>kg</u>"
+    ],
+    "general": "8.1%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9619.00.33.00",
+    "indent": "3",
+    "description": "Other (239)",
+    "superior": null,
+    "units": [
+      "doz.",
+      "<u>kg</u>"
+    ],
+    "general": "9.3%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9619.00.41.00",
+    "indent": "2",
+    "description": "Of synthetic fibers (239)",
+    "superior": null,
+    "units": [
+      "doz.",
+      "<u>kg</u>"
+    ],
+    "general": "16%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9619.00.43.00",
+    "indent": "2",
+    "description": "Of artificial fibers (239)",
+    "superior": null,
+    "units": [
+      "doz.",
+      "<u>kg</u>"
+    ],
+    "general": "14.9%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Of other textile fibers:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9619.00.46.00",
+    "indent": "3",
+    "description": "Of knitted or crocheted textile fabric (839)",
+    "superior": null,
+    "units": [
+      "doz.",
+      "<u>kg</u>"
+    ],
+    "general": "5.6%",
+    "special": "Free (AU,BH, CL,CO,E*,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+    "other": "60%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9619.00.48.00",
+    "indent": "3",
+    "description": "Other (839)",
+    "superior": null,
+    "units": [
+      "doz.",
+      "<u>kg</u>"
+    ],
+    "general": "2.8%",
+    "special": "Free (AU,BH, CL,CO,E,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Other, of textile materials:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Knitted or crocheted:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9619.00.61.00",
+    "indent": "3",
+    "description": "Of cotton",
+    "superior": null,
+    "units": [
+      "doz.",
+      "<u>kg</u>"
+    ],
+    "general": "10.8%",
+    "special": "Free (AU,BH,CL,CO,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "90%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9619.00.64.00",
+    "indent": "3",
+    "description": "Of man-made fibers",
+    "superior": null,
+    "units": [
+      "doz.",
+      "<u>kg</u>"
+    ],
+    "general": "14.9%",
+    "special": "Free (AU,BH,CL, CO,IL,JO,KR,MA,OM,P,PA, PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9619.00.68.00",
+    "indent": "3",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "doz.",
+      "<u>kg</u>"
+    ],
+    "general": "5.6%",
+    "special": "Free (AU,BH, CL,CO,E*,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+    "other": "60%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "2",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9619.00.71.00",
+    "indent": "3",
+    "description": "Of cotton",
+    "superior": null,
+    "units": [
+      "doz.",
+      "<u>kg</u>"
+    ],
+    "general": "8.1%",
+    "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P,PA, PE,S,SG)",
+    "other": "90%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9619.00.74.00",
+    "indent": "3",
+    "description": "Of man-made fibers",
+    "superior": null,
+    "units": [
+      "doz.",
+      "<u>kg</u>"
+    ],
+    "general": "16%",
+    "special": "Free (AU,BH,CL,CO,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "76%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "3",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9619.00.78.00",
+    "indent": "4",
+    "description": "Menʼs or boysʼ",
+    "superior": null,
+    "units": [
+      "doz.",
+      "<u>kg</u>"
+    ],
+    "general": "2.8%",
+    "special": "Free (AU,BH, CL,CO,E*,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9619.00.79.00",
+    "indent": "4",
+    "description": "Womenʼs or girlsʼ",
+    "superior": null,
+    "units": [
+      "doz.",
+      "<u>kg</u>"
+    ],
+    "general": "7.3%",
+    "special": "Free (AU,BH,CL,CO,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "35%",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9619.00.90.00",
+    "indent": "1",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No.",
+      "kg"
+    ],
+    "general": "7%",
+    "special": "Free (A,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "40%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.15. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9620.00",
+    "indent": "0",
+    "description": "Monopods, bipods, tripods and similar articles:",
+    "superior": null,
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9620.00.10.00",
+    "indent": "1",
+    "description": "Accessories suitable for use solely or principally with the apparatus of heading 8519 or 8521",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "2%",
+    "special": "Free (A*,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "35%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9620.00.15.00",
+    "indent": "1",
+    "description": "Accessories for the articles of heading 9005",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "The rate applicable to the article of which it is an accessory",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "The rate applicable to the article of which it is an accessory",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03, 9903.88.21, 9903.88.22, 9903.88.23 and 9903.88.24. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9620.00.20.00",
+    "indent": "1",
+    "description": "Accessories for photographic (other than cinematographic) cameras of heading 9006",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "5.8%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "20%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9620.00.25.00",
+    "indent": "1",
+    "description": "Accessories for cinematographic cameras of heading 9007",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "3.9%",
+    "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9620.00.30",
+    "indent": "1",
+    "description": "Accessories for the instruments and appliances, including rangefinders, of heading 9015",
+    "superior": null,
+    "units": [],
+    "general": "The rate applicable to the article of which it is an accessory",
+    "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "The rate applicable to the article of which it is an accessory",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03, 9903.88.21, 9903.88.22, 9903.88.23 and 9903.88.24. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9620.00.30.10",
+    "indent": "2",
+    "description": "Of rangefinders",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9620.00.30.20",
+    "indent": "2",
+    "description": "Of theodolites and tachymeters",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9620.00.30.30",
+    "indent": "2",
+    "description": "Of levels",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9620.00.30.40",
+    "indent": "2",
+    "description": "Of photogrammetrical surveying instruments and apparatus",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9620.00.30.50",
+    "indent": "2",
+    "description": "Of seismographs",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9620.00.30.60",
+    "indent": "2",
+    "description": "Of other geophysical instruments and apparatus",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9620.00.30.90",
+    "indent": "2",
+    "description": "Other",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": [],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "",
+    "indent": "1",
+    "description": "Other:",
+    "superior": "true",
+    "units": [],
+    "general": "",
+    "special": "",
+    "other": "",
+    "footnotes": null,
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9620.00.50.00",
+    "indent": "2",
+    "description": "Of plastics",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "5.3%",
+    "special": "Free (A*,AU,B,BH,C,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "80%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9620.00.55.00",
+    "indent": "2",
+    "description": "Of wood",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "3.3%",
+    "special": "Free (A*,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "33 1/3%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9620.00.60.00",
+    "indent": "2",
+    "description": "Of graphite or other carbon",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "Free",
+    "special": "",
+    "other": "45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9620.00.65.00",
+    "indent": "2",
+    "description": "Of iron or steel",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "2.9%",
+    "special": "Free (A*,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  },
+  {
+    "htsno": "9620.00.70.00",
+    "indent": "2",
+    "description": "Of aluminum",
+    "superior": null,
+    "units": [
+      "No."
+    ],
+    "general": "2.5%",
+    "special": "Free (A*,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+    "other": "45%",
+    "footnotes": [
+      {
+        "columns": [
+          "general"
+        ],
+        "value": "See 9903.88.03. ",
+        "type": "endnote"
+      }
+    ],
+    "quotaQuantity": null,
+    "additionalDuties": null,
+    "addiitionalDuties": null
+  }
+]

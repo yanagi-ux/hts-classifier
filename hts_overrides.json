@@ -96,6 +96,24 @@
   "running shoe": [
     {"hts_code": "6404.11.90.20", "chapter": "64", "label_ja": "スポーツ靴（布甲・ゴム底。価格/性別で細分要確認）"}
   ],
+  "sports shoe": [
+    {"hts_code": "6404.11.90.20", "chapter": "64", "label_ja": "スポーツ靴（布甲・ゴム底。価格/性別で細分要確認）"}
+  ],
+  "rubber stamp": [
+    {"hts_code": "9611.00.00.00", "chapter": "96", "label_ja": "ゴム印・日付印等(手押しスタンプ)"}
+  ],
+  "self-inking stamp": [
+    {"hts_code": "9611.00.00.00", "chapter": "96", "label_ja": "ゴム印・日付印等(手押しスタンプ)"}
+  ],
+  "pressed flower": [
+    {"hts_code": "6702.90.65.00", "chapter": "67", "label_ja": "造花・装飾用花(その他の材料製)"}
+  ],
+  "dried flower": [
+    {"hts_code": "6702.90.65.00", "chapter": "67", "label_ja": "造花・装飾用花(その他の材料製)"}
+  ],
+  "artificial flower": [
+    {"hts_code": "6702.90.65.00", "chapter": "67", "label_ja": "造花・装飾用花(その他の材料製)"}
+  ],
   "t-shirt": [
     {"hts_code": "6109.10.00.27", "chapter": "61", "material": "cotton", "label_ja": "Tシャツ（綿・ニット。性別/年齢で細分要確認）"}
   ],
