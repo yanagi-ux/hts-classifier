@@ -114,9 +114,17 @@ SUPPORTED_CHAPTERS = {
         "label": "第64章: 履物・ゲートル等",
         "data_file": "hts_ch64_raw.json",
     },
+    "65": {
+        "label": "第65章: 帽子及びその部分品",
+        "data_file": "hts_ch65_raw.json",
+    },
     "67": {
         "label": "第67章: 羽毛・造花・人髪製品",
         "data_file": "hts_ch67_raw.json",
+    },
+    "69": {
+        "label": "第69章: 陶磁製品",
+        "data_file": "hts_ch69_raw.json",
     },
     "82": {
         "label": "第82章: 卑金属製の工具・刃物・スプーン・フォーク",
